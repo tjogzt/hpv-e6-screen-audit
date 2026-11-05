@@ -1,0 +1,2 @@
+CHEMBL,replica,seed,delta_H_PB_kcal_mol,dG_gas,dG_solv,lig_net_charge,charge_source,n_frames,zn_pass_rate,zn_mean_min4_dist,qc_pass,prod_ns,status,notes,minutes
+LxxLL_peptide,3,111785,-115.0084,-1163.2748,1010.4942,ff19SB,ff19SB_standard_residues,1001,1.0,0.241,1,20.0,OK,throughput=347.0ns/day | kept 689/1001 frames | internal consistency note (benign),129.7

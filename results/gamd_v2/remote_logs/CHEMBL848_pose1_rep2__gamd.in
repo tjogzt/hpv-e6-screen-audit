@@ -1,0 +1,14 @@
+igamd 3
+irest_gamd 0
+iE 1
+iEP 1
+iED 1
+ntcmdprep 100000
+ntcmd 1000000
+ntebprep 200000
+nteb 1000000
+ntave 50000
+reweight_nst 5000
+para_nst 5000
+sigma0P 0.25
+sigma0D 0.25

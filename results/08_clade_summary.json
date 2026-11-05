@@ -1,0 +1,163 @@
+{
+  "generated": "2026-11-04T11:04:10",
+  "frame": "Descriptive: physicochemical signatures of data-derived similarity clusters (NOT risk prediction; risk labels are confounded with clusters)",
+  "n_rows": 524,
+  "n_types": 45,
+  "n_clusters": 10,
+  "clusters_risk_homogeneous": 9,
+  "top_features_by_epsilon2": [
+    {
+      "feature": "hydrophobicity",
+      "epsilon2": 0.4109470675511272,
+      "p_bh_fdr": 2.2502683442305708e-41
+    },
+    {
+      "feature": "positive_charged",
+      "epsilon2": 0.384913083631562,
+      "p_bh_fdr": 7.28740545336341e-39
+    },
+    {
+      "feature": "negative_charged",
+      "epsilon2": 0.3290869359800277,
+      "p_bh_fdr": 4.92996069681521e-33
+    },
+    {
+      "feature": "isoelectric_point",
+      "epsilon2": 0.30306887130800575,
+      "p_bh_fdr": 2.262928939206298e-30
+    },
+    {
+      "feature": "net_charge",
+      "epsilon2": 0.29534993409108334,
+      "p_bh_fdr": 1.2098065910873828e-29
+    }
+  ],
+  "top_features_by_epsilon2_typelevel": [
+    {
+      "feature": "isoelectric_point",
+      "epsilon2": 0.8535313740779575,
+      "p_bh_fdr": 8.30198909773218e-05
+    },
+    {
+      "feature": "positive_charged",
+      "epsilon2": 0.8356428149957582,
+      "p_bh_fdr": 8.30198909773218e-05
+    },
+    {
+      "feature": "net_charge",
+      "epsilon2": 0.8164875014564457,
+      "p_bh_fdr": 8.30198909773218e-05
+    },
+    {
+      "feature": "hydrophobicity",
+      "epsilon2": 0.7702946053256613,
+      "p_bh_fdr": 0.00012088397674143106
+    },
+    {
+      "feature": "negative_charged",
+      "epsilon2": 0.7401466208846409,
+      "p_bh_fdr": 0.00014861566729339472
+    }
+  ],
+  "cluster_auc": [
+    {
+      "cluster": 1,
+      "n": 80,
+      "n_types": 5,
+      "risk_homogeneous": true,
+      "one_vs_rest_auc": 0.9778716216216217,
+      "one_vs_rest_auc_grouped": 0.6052364864864865,
+      "grouped_cv_splits": 5
+    },
+    {
+      "cluster": 2,
+      "n": 355,
+      "n_types": 11,
+      "risk_homogeneous": false,
+      "one_vs_rest_auc": 0.9578631552629386,
+      "one_vs_rest_auc_grouped": 0.7498458204850404,
+      "grouped_cv_splits": 5
+    },
+    {
+      "cluster": 3,
+      "n": 29,
+      "n_types": 7,
+      "risk_homogeneous": true,
+      "one_vs_rest_auc": 0.9924764890282132,
+      "one_vs_rest_auc_grouped": 0.9492859630790667,
+      "grouped_cv_splits": 5
+    },
+    {
+      "cluster": 4,
+      "n": 11,
+      "n_types": 1,
+      "risk_homogeneous": true,
+      "one_vs_rest_auc": 0.998936735778841,
+      "one_vs_rest_auc_grouped": NaN,
+      "grouped_cv_splits": 0
+    },
+    {
+      "cluster": 5,
+      "n": 26,
+      "n_types": 3,
+      "risk_homogeneous": true,
+      "one_vs_rest_auc": 0.9983781278962003,
+      "one_vs_rest_auc_grouped": 0.9471733086190918,
+      "grouped_cv_splits": 3
+    },
+    {
+      "cluster": 6,
+      "n": 3,
+      "n_types": 2,
+      "risk_homogeneous": true,
+      "one_vs_rest_auc": NaN,
+      "one_vs_rest_auc_grouped": 0.9910428662827896,
+      "grouped_cv_splits": 2
+    },
+    {
+      "cluster": 7,
+      "n": 3,
+      "n_types": 3,
+      "risk_homogeneous": true,
+      "one_vs_rest_auc": NaN,
+      "one_vs_rest_auc_grouped": 0.48432501599488165,
+      "grouped_cv_splits": 3
+    },
+    {
+      "cluster": 8,
+      "n": 8,
+      "n_types": 7,
+      "risk_homogeneous": true,
+      "one_vs_rest_auc": 1.0,
+      "one_vs_rest_auc_grouped": 1.0,
+      "grouped_cv_splits": 5
+    },
+    {
+      "cluster": 9,
+      "n": 8,
+      "n_types": 5,
+      "risk_homogeneous": true,
+      "one_vs_rest_auc": 0.9883720930232558,
+      "one_vs_rest_auc_grouped": 0.908672480620155,
+      "grouped_cv_splits": 5
+    },
+    {
+      "cluster": 10,
+      "n": 1,
+      "n_types": 1,
+      "risk_homogeneous": true,
+      "one_vs_rest_auc": NaN,
+      "one_vs_rest_auc_grouped": NaN,
+      "grouped_cv_splits": 0
+    }
+  ],
+  "figures": [
+    "Fig3A_clade_signature_heatmap.pdf",
+    "Fig3B_cluster_discriminability.pdf"
+  ],
+  "seed": 42,
+  "revision_notes": {
+    "R4": "KW/epsilon2 now reported at sequence level (n=524) and type level (per-type medians, n=45); conclusions follow the type-level table.",
+    "R5": "One-vs-rest AUC reported under ungrouped StratifiedKFold and StratifiedGroupKFold (groups=HPV type, n_splits=min(5, n_types)); grouped CV is undefined for single-type clusters (NaN by design)."
+  }
+}

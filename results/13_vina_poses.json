@@ -1,0 +1,10 @@
+{
+  "generated": "2026-10-26 22:01:20",
+  "n_ligands": 14,
+  "n_failures": 0,
+  "failures": [],
+  "centroid_shift_A_median": 72.087,
+  "centroid_shift_A_max": 77.646,
+  "note": "全部配体现使用 Vina MODEL 1 姿态作为 MD 起始结构；质心偏移列为该姿态与未对接原始 pdb 的距离，用于审计（旧管线即因使用未对接 pdb 而产生 72 Å 偏移）。pdbqt 姿态为极性氢模型，原子数少于原始 pdb 属正常。",
+  "upload_target": "远端 $BASE/ligands_vina/*.pdb（与 LIGDIR 一致）"
+}

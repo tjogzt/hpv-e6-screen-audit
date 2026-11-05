@@ -1,0 +1,11 @@
+{
+  "generated": "2026-10-25T22:44:24",
+  "archive": "candidates_run_final_20260818.tar.gz",
+  "reference": ".workbuddy/SUMMARY_final.csv",
+  "n_candidates": 14,
+  "n_pass": 16,
+  "n_fail": 0,
+  "tolerance_kcal_mol": 0.01,
+  "failures": [],
+  "all_zero_trap": true
+}

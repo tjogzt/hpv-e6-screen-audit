@@ -1,0 +1,96 @@
+{
+  "generated": "2026-11-04T09:28:40",
+  "k_sweep": [
+    4,
+    6,
+    8,
+    10,
+    12
+  ],
+  "seed": 42,
+  "k_selection_disclosure": "Clustering uses only pairwise E6 sequence similarity (SequenceMatcher ratio, average linkage). k=10 was chosen as the finest resolution at which every cluster still contained a coherent, interpretable set of types; the comparison against the official taxonomy was run after k was fixed and played no role in choosing it. The sweep demonstrates the headline conclusions are stable across k.",
+  "per_k_summary": [
+    {
+      "k": 4,
+      "n_clusters": 4,
+      "min_cluster_types": 1,
+      "max_cluster_types": 16,
+      "kw_seq_n_sig_fdr05": 11,
+      "kw_seq_median_epsilon2": 0.1988,
+      "kw_seq_max_epsilon2": 0.4113,
+      "kw_type_n_sig_fdr05": 9,
+      "kw_type_median_epsilon2": 0.212,
+      "kw_type_max_epsilon2": 0.7469,
+      "kw_type_top_feature": "isoelectric_point",
+      "n_clusters_purity_1": 1,
+      "weighted_mean_purity": 0.4222
+    },
+    {
+      "k": 6,
+      "n_clusters": 6,
+      "min_cluster_types": 1,
+      "max_cluster_types": 16,
+      "kw_seq_n_sig_fdr05": 11,
+      "kw_seq_median_epsilon2": 0.2027,
+      "kw_seq_max_epsilon2": 0.4099,
+      "kw_type_n_sig_fdr05": 9,
+      "kw_type_median_epsilon2": 0.2637,
+      "kw_type_max_epsilon2": 0.7914,
+      "kw_type_top_feature": "isoelectric_point",
+      "n_clusters_purity_1": 2,
+      "weighted_mean_purity": 0.5556
+    },
+    {
+      "k": 8,
+      "n_clusters": 8,
+      "min_cluster_types": 1,
+      "max_cluster_types": 16,
+      "kw_seq_n_sig_fdr05": 12,
+      "kw_seq_median_epsilon2": 0.2016,
+      "kw_seq_max_epsilon2": 0.4078,
+      "kw_type_n_sig_fdr05": 10,
+      "kw_type_median_epsilon2": 0.3952,
+      "kw_type_max_epsilon2": 0.8319,
+      "kw_type_top_feature": "isoelectric_point",
+      "n_clusters_purity_1": 5,
+      "weighted_mean_purity": 0.6667
+    },
+    {
+      "k": 10,
+      "n_clusters": 10,
+      "min_cluster_types": 1,
+      "max_cluster_types": 11,
+      "kw_seq_n_sig_fdr05": 12,
+      "kw_seq_median_epsilon2": 0.2633,
+      "kw_seq_max_epsilon2": 0.4109,
+      "kw_type_n_sig_fdr05": 10,
+      "kw_type_median_epsilon2": 0.4994,
+      "kw_type_max_epsilon2": 0.8535,
+      "kw_type_top_feature": "isoelectric_point",
+      "n_clusters_purity_1": 7,
+      "weighted_mean_purity": 0.8
+    },
+    {
+      "k": 12,
+      "n_clusters": 12,
+      "min_cluster_types": 1,
+      "max_cluster_types": 7,
+      "kw_seq_n_sig_fdr05": 12,
+      "kw_seq_median_epsilon2": 0.3006,
+      "kw_seq_max_epsilon2": 0.4252,
+      "kw_type_n_sig_fdr05": 10,
+      "kw_type_median_epsilon2": 0.5086,
+      "kw_type_max_epsilon2": 0.8541,
+      "kw_type_top_feature": "isoelectric_point",
+      "n_clusters_purity_1": 8,
+      "weighted_mean_purity": 0.8667
+    }
+  ],
+  "loco_evaluable_folds_per_k": {
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 1,
+    "12": 1
+  }
+}

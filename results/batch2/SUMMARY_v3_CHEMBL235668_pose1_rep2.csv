@@ -1,0 +1,2 @@
+CHEMBL,replica,seed,delta_H_PB_kcal_mol,dG_gas,dG_solv,lig_net_charge,charge_source,n_frames,zn_pass_rate,zn_mean_min4_dist,qc_pass,prod_ns,status,notes,minutes
+CHEMBL235668_pose1,2,91734,4.3388,-31.3531,35.6919,0,charge_table,1001,1.0,0.24,1,20.0,OK,throughput=333.7ns/day | kept 560/1001 frames,114.9

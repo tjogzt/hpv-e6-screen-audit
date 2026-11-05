@@ -1,0 +1,36 @@
+path,tier,role,caveat_or_usage,evidence,size_bytes,mtime
+results/10_扩展真实HPV_E6数据集.csv,canonical_input,"Raw 878-row ML dataset; labels are type-level proxies, not verified variant phenotypes",Use as cleaning input only; never publish raw-label performance,"878 rows, 50 types, 12 physicochemical features",459159,2025-10-01T22:28:10
+.workbuddy/4GIZ_E6_single_clean.pdb,canonical_input,Cleaned 4GIZ E6 structure,Reuse as receptor source,local asset present,862640,2026-07-30T00:43:42
+.workbuddy/4GIZ_full.pdb,canonical_input,Full 4GIZ complex,Reference only,local asset present,1505356,2026-07-30T03:49:28
+docking_results_full/4GIZ/CHEMBL1090.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,5001,2026-05-24T22:04:54
+docking_results_full/4GIZ/CHEMBL1129.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,4851,2026-05-24T22:04:22
+docking_results_full/4GIZ/CHEMBL118218.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,5608,2026-05-24T22:05:52
+docking_results_full/4GIZ/CHEMBL119.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,7739,2026-05-24T22:07:42
+docking_results_full/4GIZ/CHEMBL184.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,4240,2026-05-24T22:05:26
+docking_results_full/4GIZ/CHEMBL235668.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,4240,2026-05-24T22:08:20
+docking_results_full/4GIZ/CHEMBL283639.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,7888,2026-05-24T22:02:40
+docking_results_full/4GIZ/CHEMBL29609.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,6977,2026-05-24T22:03:26
+docking_results_full/4GIZ/CHEMBL320775.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,5001,2026-05-24T22:06:14
+docking_results_full/4GIZ/CHEMBL3701238.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,8194,2026-05-24T22:08:48
+docking_results_full/4GIZ/CHEMBL4650485.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,8500,2026-05-24T22:06:40
+docking_results_full/4GIZ/CHEMBL46917.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,4087,2026-05-24T22:04:02
+docking_results_full/4GIZ/CHEMBL717.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,9578,2026-05-24T22:11:38
+docking_results_full/4GIZ/CHEMBL848.pdb,canonical_input,14 ChEMBL candidate ligands (PDB),Use only with verified charge/protonation; prefer *_out.pdbqt poses,14 ligands,5003,2026-05-24T22:09:30
+docking_results_full/4GIZ/CHEMBL1090_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,26928,2026-05-24T22:05:10
+docking_results_full/4GIZ/CHEMBL1129_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,25398,2026-05-24T22:04:36
+docking_results_full/4GIZ/CHEMBL118218_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,22932,2026-05-24T22:06:02
+docking_results_full/4GIZ/CHEMBL119_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,34191,2026-05-24T22:08:00
+docking_results_full/4GIZ/CHEMBL184_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,23103,2026-05-24T22:05:38
+docking_results_full/4GIZ/CHEMBL235668_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,20907,2026-05-24T22:08:34
+docking_results_full/4GIZ/CHEMBL283639_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,30789,2026-05-24T22:03:02
+docking_results_full/4GIZ/CHEMBL29609_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,30888,2026-05-24T22:03:44
+docking_results_full/4GIZ/CHEMBL320775_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,23526,2026-05-24T22:06:26
+docking_results_full/4GIZ/CHEMBL3701238_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,34110,2026-05-24T22:09:08
+docking_results_full/4GIZ/CHEMBL4650485_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,40644,2026-05-24T22:07:10
+docking_results_full/4GIZ/CHEMBL46917_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,18441,2026-05-24T22:04:12
+docking_results_full/4GIZ/CHEMBL717_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,29529,2026-05-24T22:11:50
+docking_results_full/4GIZ/CHEMBL848_out.pdbqt,canonical_input,Vina docked poses for the 14 candidates,MUST be the MD/MM-PBSA start pose (previous run used ligand.pdb instead),Vina output,22329,2026-05-24T22:09:42
+candidates_run_final_20260818.tar.gz,debug_only,14 candidate PB endpoint results; reproducible arithmetic but invalid start pose and Zn,Debug/negative example only; do not rank binders from it,0/714 frames keep both Zn sites tetra-coordinated,233739088,2026-08-18T04:49:38
+candidates_run_backup_20260817.tar.gz,debug_only,Earlier failed run history,Version comparison only; never mix with final archive,archive backup,431304721,2026-08-17T06:39:32
+.workbuddy/SUMMARY_final.csv,debug_only,Manual recomputation matching the archive components,"Use to regression-test the parser, not as a scientific ranking",component sum VDWAALS+EEL+EPB+ENPOLAR+EDISPER,504,2026-08-18T03:28:48
+models/hpv_e6_model_metadata.json,debug_only,Current SVC metrics; arithmetically consistent but validation is biased,Reference baseline only; supersede by grouped nested validation,Accuracy 0.976082 / AUC 0.995488,2378,2026-05-24T21:10:30

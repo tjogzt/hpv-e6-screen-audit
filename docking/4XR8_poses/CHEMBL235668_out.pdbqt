@@ -1,0 +1,369 @@
+MODEL 1
+REMARK VINA RESULT:    -7.894      0.000      0.000
+REMARK INTER + INTRA:          -9.135
+REMARK INTER:                  -8.899
+REMARK INTRA:                  -0.237
+REMARK UNBOUND:                -0.318
+REMARK  Name = /mnt/f/HPV_structure/docking_results_full/4XR8/CHEMBL235668.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_6  and  C_7
+REMARK    2  A    between atoms: C_7  and  C_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -48.505 -20.919 -13.315  0.00  0.00    +0.000 A 
+ATOM      2  N   UNL     1     -47.841 -20.023 -14.132  0.00  0.00    +0.000 N 
+ATOM      3  C   UNL     1     -46.493 -19.792 -14.095  0.00  0.00    +0.000 A 
+ATOM      4  O   UNL     1     -45.943 -18.965 -14.815  0.00  0.00    +0.000 OA
+ATOM      5  N   UNL     1     -45.796 -20.537 -13.190  0.00  0.00    +0.000 N 
+ATOM      6  C   UNL     1     -46.330 -21.483 -12.358  0.00  0.00    +0.000 A 
+ATOM      7  O   UNL     1     -45.621 -22.123 -11.584  0.00  0.00    +0.000 OA
+ATOM      8  C   UNL     1     -47.809 -21.663 -12.437  0.00  0.00    +0.000 A 
+ATOM      9 CL   UNL     1     -48.515 -22.830 -11.385  0.00  0.00    +0.000 Cl
+ATOM     10  H   UNL     1     -48.375 -19.516 -14.785  0.00  0.00    +0.000 HD
+ATOM     11  H   UNL     1     -44.825 -20.379 -13.129  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  12
+ATOM     12  C   UNL     1     -50.011 -20.933 -13.438  0.00  0.00    +0.000 C 
+BRANCH  12  18
+ATOM     13  N   UNL     1     -51.248 -18.392 -14.363  0.00  0.00    +0.000 N 
+ATOM     14  C   UNL     1     -51.108 -19.441 -15.099  0.00  0.00    +0.000 C 
+ATOM     15  C   UNL     1     -51.716 -19.580 -16.473  0.00  0.00    +0.000 C 
+ATOM     16  C   UNL     1     -51.664 -21.095 -16.670  0.00  0.00    +0.000 C 
+ATOM     17  C   UNL     1     -50.475 -21.567 -15.831  0.00  0.00    +0.000 C 
+ATOM     18  N   UNL     1     -50.408 -20.567 -14.779  0.00  0.00    +0.000 N 
+ATOM     19  H   UNL     1     -51.777 -17.628 -14.689  0.00  0.00    +0.000 HD
+ATOM     20  H   UNL     1     -50.826 -18.354 -13.475  0.00  0.00    +0.000 HD
+ENDBRANCH  12  18
+ENDBRANCH   1  12
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -7.454      3.039      5.152
+REMARK INTER + INTRA:          -8.644
+REMARK INTER:                  -8.418
+REMARK INTRA:                  -0.226
+REMARK UNBOUND:                -0.318
+REMARK  Name = /mnt/f/HPV_structure/docking_results_full/4XR8/CHEMBL235668.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_6  and  C_7
+REMARK    2  A    between atoms: C_7  and  C_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -50.065 -20.751 -14.804  0.00  0.00    +0.000 A 
+ATOM      2  N   UNL     1     -50.349 -19.411 -14.620  0.00  0.00    +0.000 N 
+ATOM      3  C   UNL     1     -51.362 -18.740 -15.246  0.00  0.00    +0.000 A 
+ATOM      4  O   UNL     1     -51.563 -17.541 -15.082  0.00  0.00    +0.000 OA
+ATOM      5  N   UNL     1     -52.133 -19.492 -16.084  0.00  0.00    +0.000 N 
+ATOM      6  C   UNL     1     -51.981 -20.832 -16.317  0.00  0.00    +0.000 A 
+ATOM      7  O   UNL     1     -52.736 -21.436 -17.076  0.00  0.00    +0.000 OA
+ATOM      8  C   UNL     1     -50.840 -21.491 -15.617  0.00  0.00    +0.000 A 
+ATOM      9 CL   UNL     1     -50.607 -23.173 -15.908  0.00  0.00    +0.000 Cl
+ATOM     10  H   UNL     1     -49.782 -18.905 -13.994  0.00  0.00    +0.000 HD
+ATOM     11  H   UNL     1     -52.860 -19.031 -16.562  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  12
+ATOM     12  C   UNL     1     -48.828 -21.266 -14.105  0.00  0.00    +0.000 C 
+BRANCH  12  18
+ATOM     13  N   UNL     1     -46.718 -19.782 -12.626  0.00  0.00    +0.000 N 
+ATOM     14  C   UNL     1     -46.805 -19.831 -13.911  0.00  0.00    +0.000 C 
+ATOM     15  C   UNL     1     -45.955 -18.993 -14.835  0.00  0.00    +0.000 C 
+ATOM     16  C   UNL     1     -46.759 -19.072 -16.133  0.00  0.00    +0.000 C 
+ATOM     17  C   UNL     1     -47.499 -20.409 -16.065  0.00  0.00    +0.000 C 
+ATOM     18  N   UNL     1     -47.648 -20.622 -14.636  0.00  0.00    +0.000 N 
+ATOM     19  H   UNL     1     -46.073 -19.173 -12.199  0.00  0.00    +0.000 HD
+ATOM     20  H   UNL     1     -47.296 -20.354 -12.071  0.00  0.00    +0.000 HD
+ENDBRANCH  12  18
+ENDBRANCH   1  12
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -7.332     11.364     12.984
+REMARK INTER + INTRA:          -8.507
+REMARK INTER:                  -8.196
+REMARK INTRA:                  -0.310
+REMARK UNBOUND:                -0.318
+REMARK  Name = /mnt/f/HPV_structure/docking_results_full/4XR8/CHEMBL235668.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_6  and  C_7
+REMARK    2  A    between atoms: C_7  and  C_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -59.130 -15.621  -8.517  0.00  0.00    +0.000 A 
+ATOM      2  N   UNL     1     -59.825 -14.868  -9.445  0.00  0.00    +0.000 N 
+ATOM      3  C   UNL     1     -60.609 -13.791  -9.138  0.00  0.00    +0.000 A 
+ATOM      4  O   UNL     1     -61.238 -13.166  -9.986  0.00  0.00    +0.000 OA
+ATOM      5  N   UNL     1     -60.661 -13.462  -7.815  0.00  0.00    +0.000 N 
+ATOM      6  C   UNL     1     -59.987 -14.100  -6.810  0.00  0.00    +0.000 A 
+ATOM      7  O   UNL     1     -60.077 -13.721  -5.643  0.00  0.00    +0.000 OA
+ATOM      8  C   UNL     1     -59.170 -15.280  -7.217  0.00  0.00    +0.000 A 
+ATOM      9 CL   UNL     1     -58.328 -16.120  -5.971  0.00  0.00    +0.000 Cl
+ATOM     10  H   UNL     1     -59.750 -15.126 -10.392  0.00  0.00    +0.000 HD
+ATOM     11  H   UNL     1     -61.232 -12.700  -7.562  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  12
+ATOM     12  C   UNL     1     -58.418 -16.841  -9.057  0.00  0.00    +0.000 C 
+BRANCH  12  18
+ATOM     13  N   UNL     1     -57.744 -17.942 -11.735  0.00  0.00    +0.000 N 
+ATOM     14  C   UNL     1     -57.010 -17.102 -11.090  0.00  0.00    +0.000 C 
+ATOM     15  C   UNL     1     -55.622 -16.702 -11.528  0.00  0.00    +0.000 C 
+ATOM     16  C   UNL     1     -55.058 -16.116 -10.233  0.00  0.00    +0.000 C 
+ATOM     17  C   UNL     1     -56.274 -15.587  -9.471  0.00  0.00    +0.000 C 
+ATOM     18  N   UNL     1     -57.347 -16.446  -9.942  0.00  0.00    +0.000 N 
+ATOM     19  H   UNL     1     -57.404 -18.362 -12.558  0.00  0.00    +0.000 HD
+ATOM     20  H   UNL     1     -58.644 -18.163 -11.405  0.00  0.00    +0.000 HD
+ENDBRANCH  12  18
+ENDBRANCH   1  12
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -7.305      3.702      5.782
+REMARK INTER + INTRA:          -8.477
+REMARK INTER:                  -8.407
+REMARK INTRA:                  -0.070
+REMARK UNBOUND:                -0.318
+REMARK  Name = /mnt/f/HPV_structure/docking_results_full/4XR8/CHEMBL235668.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_6  and  C_7
+REMARK    2  A    between atoms: C_7  and  C_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -50.536 -22.158 -15.665  0.00  0.00    +0.000 A 
+ATOM      2  N   UNL     1     -50.602 -22.856 -16.856  0.00  0.00    +0.000 N 
+ATOM      3  C   UNL     1     -51.602 -22.722 -17.779  0.00  0.00    +0.000 A 
+ATOM      4  O   UNL     1     -51.644 -23.384 -18.811  0.00  0.00    +0.000 OA
+ATOM      5  N   UNL     1     -52.567 -21.808 -17.469  0.00  0.00    +0.000 N 
+ATOM      6  C   UNL     1     -52.590 -21.026 -16.346  0.00  0.00    +0.000 A 
+ATOM      7  O   UNL     1     -53.492 -20.212 -16.157  0.00  0.00    +0.000 OA
+ATOM      8  C   UNL     1     -51.480 -21.245 -15.374  0.00  0.00    +0.000 A 
+ATOM      9 CL   UNL     1     -51.495 -20.293 -13.938  0.00  0.00    +0.000 Cl
+ATOM     10  H   UNL     1     -49.879 -23.494 -17.053  0.00  0.00    +0.000 HD
+ATOM     11  H   UNL     1     -53.309 -21.702 -18.108  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  12
+ATOM     12  C   UNL     1     -49.409 -22.544 -14.734  0.00  0.00    +0.000 C 
+BRANCH  12  18
+ATOM     13  N   UNL     1     -47.550 -21.490 -16.801  0.00  0.00    +0.000 N 
+ATOM     14  C   UNL     1     -47.537 -21.132 -15.564  0.00  0.00    +0.000 C 
+ATOM     15  C   UNL     1     -46.460 -20.265 -14.960  0.00  0.00    +0.000 C 
+ATOM     16  C   UNL     1     -46.650 -20.547 -13.469  0.00  0.00    +0.000 C 
+ATOM     17  C   UNL     1     -48.129 -20.904 -13.315  0.00  0.00    +0.000 C 
+ATOM     18  N   UNL     1     -48.463 -21.458 -14.616  0.00  0.00    +0.000 N 
+ATOM     19  H   UNL     1     -46.830 -21.198 -17.406  0.00  0.00    +0.000 HD
+ATOM     20  H   UNL     1     -48.281 -22.055 -17.142  0.00  0.00    +0.000 HD
+ENDBRANCH  12  18
+ENDBRANCH   1  12
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -7.285      2.554      4.792
+REMARK INTER + INTRA:          -8.454
+REMARK INTER:                  -8.443
+REMARK INTRA:                  -0.011
+REMARK UNBOUND:                -0.318
+REMARK  Name = /mnt/f/HPV_structure/docking_results_full/4XR8/CHEMBL235668.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_6  and  C_7
+REMARK    2  A    between atoms: C_7  and  C_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -49.864 -20.562 -13.948  0.00  0.00    +0.000 A 
+ATOM      2  N   UNL     1     -48.811 -19.821 -14.449  0.00  0.00    +0.000 N 
+ATOM      3  C   UNL     1     -48.783 -19.258 -15.695  0.00  0.00    +0.000 A 
+ATOM      4  O   UNL     1     -47.815 -18.634 -16.118  0.00  0.00    +0.000 OA
+ATOM      5  N   UNL     1     -49.903 -19.450 -16.450  0.00  0.00    +0.000 N 
+ATOM      6  C   UNL     1     -51.024 -20.125 -16.052  0.00  0.00    +0.000 A 
+ATOM      7  O   UNL     1     -51.999 -20.233 -16.794  0.00  0.00    +0.000 OA
+ATOM      8  C   UNL     1     -50.973 -20.732 -14.690  0.00  0.00    +0.000 A 
+ATOM      9 CL   UNL     1     -52.360 -21.610 -14.169  0.00  0.00    +0.000 Cl
+ATOM     10  H   UNL     1     -48.027 -19.690 -13.869  0.00  0.00    +0.000 HD
+ATOM     11  H   UNL     1     -49.904 -19.070 -17.359  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  12
+ATOM     12  C   UNL     1     -49.641 -21.194 -12.593  0.00  0.00    +0.000 C 
+BRANCH  12  18
+ATOM     13  N   UNL     1     -47.240 -19.890 -11.423  0.00  0.00    +0.000 N 
+ATOM     14  C   UNL     1     -47.214 -20.995 -12.083  0.00  0.00    +0.000 C 
+ATOM     15  C   UNL     1     -45.939 -21.683 -12.507  0.00  0.00    +0.000 C 
+ATOM     16  C   UNL     1     -46.452 -22.611 -13.609  0.00  0.00    +0.000 C 
+ATOM     17  C   UNL     1     -47.907 -22.903 -13.240  0.00  0.00    +0.000 C 
+ATOM     18  N   UNL     1     -48.296 -21.716 -12.499  0.00  0.00    +0.000 N 
+ATOM     19  H   UNL     1     -46.397 -19.447 -11.170  0.00  0.00    +0.000 HD
+ATOM     20  H   UNL     1     -48.101 -19.487 -11.170  0.00  0.00    +0.000 HD
+ENDBRANCH  12  18
+ENDBRANCH   1  12
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -7.270      1.955      2.858
+REMARK INTER + INTRA:          -8.438
+REMARK INTER:                  -8.074
+REMARK INTRA:                  -0.364
+REMARK UNBOUND:                -0.318
+REMARK  Name = /mnt/f/HPV_structure/docking_results_full/4XR8/CHEMBL235668.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_6  and  C_7
+REMARK    2  A    between atoms: C_7  and  C_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -49.032 -21.129 -13.623  0.00  0.00    +0.000 A 
+ATOM      2  N   UNL     1     -49.012 -21.053 -12.244  0.00  0.00    +0.000 N 
+ATOM      3  C   UNL     1     -47.948 -20.614 -11.506  0.00  0.00    +0.000 A 
+ATOM      4  O   UNL     1     -47.956 -20.592 -10.279  0.00  0.00    +0.000 OA
+ATOM      5  N   UNL     1     -46.861 -20.214 -12.227  0.00  0.00    +0.000 N 
+ATOM      6  C   UNL     1     -46.773 -20.200 -13.592  0.00  0.00    +0.000 A 
+ATOM      7  O   UNL     1     -45.758 -19.802 -14.161  0.00  0.00    +0.000 OA
+ATOM      8  C   UNL     1     -47.964 -20.715 -14.329  0.00  0.00    +0.000 A 
+ATOM      9 CL   UNL     1     -47.875 -20.734 -16.049  0.00  0.00    +0.000 Cl
+ATOM     10  H   UNL     1     -49.821 -21.335 -11.759  0.00  0.00    +0.000 HD
+ATOM     11  H   UNL     1     -46.073 -19.908 -11.721  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  12
+ATOM     12  C   UNL     1     -50.265 -21.755 -14.233  0.00  0.00    +0.000 C 
+BRANCH  12  18
+ATOM     13  N   UNL     1     -51.263 -21.575 -17.028  0.00  0.00    +0.000 N 
+ATOM     14  C   UNL     1     -51.398 -20.643 -16.148  0.00  0.00    +0.000 C 
+ATOM     15  C   UNL     1     -51.921 -19.264 -16.470  0.00  0.00    +0.000 C 
+ATOM     16  C   UNL     1     -51.436 -18.471 -15.257  0.00  0.00    +0.000 C 
+ATOM     17  C   UNL     1     -51.357 -19.489 -14.118  0.00  0.00    +0.000 C 
+ATOM     18  N   UNL     1     -51.107 -20.736 -14.818  0.00  0.00    +0.000 N 
+ATOM     19  H   UNL     1     -51.504 -21.404 -17.967  0.00  0.00    +0.000 HD
+ATOM     20  H   UNL     1     -50.920 -22.458 -16.761  0.00  0.00    +0.000 HD
+ENDBRANCH  12  18
+ENDBRANCH   1  12
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -7.263     10.102     12.514
+REMARK INTER + INTRA:          -8.430
+REMARK INTER:                  -8.112
+REMARK INTRA:                  -0.318
+REMARK UNBOUND:                -0.318
+REMARK  Name = /mnt/f/HPV_structure/docking_results_full/4XR8/CHEMBL235668.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_6  and  C_7
+REMARK    2  A    between atoms: C_7  and  C_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -39.062 -15.354 -17.859  0.00  0.00    +0.000 A 
+ATOM      2  N   UNL     1     -39.929 -15.730 -18.867  0.00  0.00    +0.000 N 
+ATOM      3  C   UNL     1     -41.132 -16.348 -18.664  0.00  0.00    +0.000 A 
+ATOM      4  O   UNL     1     -41.862 -16.697 -19.587  0.00  0.00    +0.000 OA
+ATOM      5  N   UNL     1     -41.466 -16.568 -17.360  0.00  0.00    +0.000 N 
+ATOM      6  C   UNL     1     -40.715 -16.205 -16.275  0.00  0.00    +0.000 A 
+ATOM      7  O   UNL     1     -41.104 -16.426 -15.129  0.00  0.00    +0.000 OA
+ATOM      8  C   UNL     1     -39.405 -15.556 -16.574  0.00  0.00    +0.000 A 
+ATOM      9 CL   UNL     1     -38.425 -15.110 -15.229  0.00  0.00    +0.000 Cl
+ATOM     10  H   UNL     1     -39.663 -15.539 -19.795  0.00  0.00    +0.000 HD
+ATOM     11  H   UNL     1     -42.319 -17.028 -17.184  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  12
+ATOM     12  C   UNL     1     -37.732 -14.792 -18.307  0.00  0.00    +0.000 C 
+BRANCH  12  18
+ATOM     13  N   UNL     1     -37.022 -15.396 -21.130  0.00  0.00    +0.000 N 
+ATOM     14  C   UNL     1     -36.729 -16.154 -20.130  0.00  0.00    +0.000 C 
+ATOM     15  C   UNL     1     -36.144 -17.538 -20.278  0.00  0.00    +0.000 C 
+ATOM     16  C   UNL     1     -36.442 -18.136 -18.903  0.00  0.00    +0.000 C 
+ATOM     17  C   UNL     1     -36.473 -16.943 -17.946  0.00  0.00    +0.000 C 
+ATOM     18  N   UNL     1     -36.885 -15.850 -18.809  0.00  0.00    +0.000 N 
+ATOM     19  H   UNL     1     -36.869 -15.713 -22.049  0.00  0.00    +0.000 HD
+ATOM     20  H   UNL     1     -37.398 -14.501 -20.974  0.00  0.00    +0.000 HD
+ENDBRANCH  12  18
+ENDBRANCH   1  12
+TORSDOF 2
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -7.242      2.725      4.902
+REMARK INTER + INTRA:          -8.407
+REMARK INTER:                  -8.119
+REMARK INTRA:                  -0.288
+REMARK UNBOUND:                -0.318
+REMARK  Name = /mnt/f/HPV_structure/docking_results_full/4XR8/CHEMBL235668.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_6  and  C_7
+REMARK    2  A    between atoms: C_7  and  C_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -49.369 -20.549 -14.166  0.00  0.00    +0.000 A 
+ATOM      2  N   UNL     1     -48.213 -20.069 -14.752  0.00  0.00    +0.000 N 
+ATOM      3  C   UNL     1     -48.176 -19.078 -15.694  0.00  0.00    +0.000 A 
+ATOM      4  O   UNL     1     -47.132 -18.700 -16.217  0.00  0.00    +0.000 OA
+ATOM      5  N   UNL     1     -49.385 -18.543 -16.031  0.00  0.00    +0.000 N 
+ATOM      6  C   UNL     1     -50.591 -18.902 -15.493  0.00  0.00    +0.000 A 
+ATOM      7  O   UNL     1     -51.633 -18.351 -15.842  0.00  0.00    +0.000 OA
+ATOM      8  C   UNL     1     -50.556 -20.005 -14.488  0.00  0.00    +0.000 A 
+ATOM      9 CL   UNL     1     -52.061 -20.497 -13.810  0.00  0.00    +0.000 Cl
+ATOM     10  H   UNL     1     -47.358 -20.467 -14.472  0.00  0.00    +0.000 HD
+ATOM     11  H   UNL     1     -49.390 -17.840 -16.720  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  12
+ATOM     12  C   UNL     1     -49.196 -21.728 -13.236  0.00  0.00    +0.000 C 
+BRANCH  12  18
+ATOM     13  N   UNL     1     -46.934 -20.667 -11.625  0.00  0.00    +0.000 N 
+ATOM     14  C   UNL     1     -48.095 -20.954 -11.145  0.00  0.00    +0.000 C 
+ATOM     15  C   UNL     1     -48.406 -20.960  -9.668  0.00  0.00    +0.000 C 
+ATOM     16  C   UNL     1     -49.686 -21.794  -9.636  0.00  0.00    +0.000 C 
+ATOM     17  C   UNL     1     -50.343 -21.571 -10.999  0.00  0.00    +0.000 C 
+ATOM     18  N   UNL     1     -49.208 -21.287 -11.860  0.00  0.00    +0.000 N 
+ATOM     19  H   UNL     1     -46.193 -20.439 -11.019  0.00  0.00    +0.000 HD
+ATOM     20  H   UNL     1     -46.789 -20.675 -12.598  0.00  0.00    +0.000 HD
+ENDBRANCH  12  18
+ENDBRANCH   1  12
+TORSDOF 2
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -7.223      3.152      5.337
+REMARK INTER + INTRA:          -8.386
+REMARK INTER:                  -8.073
+REMARK INTRA:                  -0.313
+REMARK UNBOUND:                -0.318
+REMARK  Name = /mnt/f/HPV_structure/docking_results_full/4XR8/CHEMBL235668.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_6  and  C_7
+REMARK    2  A    between atoms: C_7  and  C_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -50.047 -20.649 -14.570  0.00  0.00    +0.000 A 
+ATOM      2  N   UNL     1     -50.393 -19.315 -14.465  0.00  0.00    +0.000 N 
+ATOM      3  C   UNL     1     -51.402 -18.718 -15.168  0.00  0.00    +0.000 A 
+ATOM      4  O   UNL     1     -51.660 -17.522 -15.072  0.00  0.00    +0.000 OA
+ATOM      5  N   UNL     1     -52.101 -19.540 -16.003  0.00  0.00    +0.000 N 
+ATOM      6  C   UNL     1     -51.884 -20.882 -16.163  0.00  0.00    +0.000 A 
+ATOM      7  O   UNL     1     -52.578 -21.552 -16.925  0.00  0.00    +0.000 OA
+ATOM      8  C   UNL     1     -50.752 -21.459 -15.381  0.00  0.00    +0.000 A 
+ATOM      9 CL   UNL     1     -50.437 -23.140 -15.579  0.00  0.00    +0.000 Cl
+ATOM     10  H   UNL     1     -49.878 -18.757 -13.839  0.00  0.00    +0.000 HD
+ATOM     11  H   UNL     1     -52.823 -19.134 -16.535  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  12
+ATOM     12  C   UNL     1     -48.824 -21.078 -13.792  0.00  0.00    +0.000 C 
+BRANCH  12  18
+ATOM     13  N   UNL     1     -47.144 -19.916 -11.632  0.00  0.00    +0.000 N 
+ATOM     14  C   UNL     1     -48.203 -20.621 -11.427  0.00  0.00    +0.000 C 
+ATOM     15  C   UNL     1     -48.631 -21.102 -10.062  0.00  0.00    +0.000 C 
+ATOM     16  C   UNL     1     -49.599 -22.226 -10.432  0.00  0.00    +0.000 C 
+ATOM     17  C   UNL     1     -50.165 -21.833 -11.798  0.00  0.00    +0.000 C 
+ATOM     18  N   UNL     1     -49.094 -21.037 -12.373  0.00  0.00    +0.000 N 
+ATOM     19  H   UNL     1     -46.564 -19.667 -10.876  0.00  0.00    +0.000 HD
+ATOM     20  H   UNL     1     -46.914 -19.627 -12.544  0.00  0.00    +0.000 HD
+ENDBRANCH  12  18
+ENDBRANCH   1  12
+TORSDOF 2
+ENDMDL

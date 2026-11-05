@@ -1,0 +1,28 @@
+===== CHEMBL848_pose1_rep1 =====
+  [force] 清除旧产物与 trjconv 缓存
+/root/autodl-tmp/HPV_structure/candidates_run/gamd_v2/runner_analyse.sh: line 10: frames.csv: No such file or directory
+===== CHEMBL848_pose1_rep2 =====
+  [force] 清除旧产物与 trjconv 缓存
+/root/autodl-tmp/HPV_structure/candidates_run/gamd_v2/runner_analyse.sh: line 10: frames.csv: No such file or directory
+===== CHEMBL848_pose1_rep3 =====
+  [force] 清除旧产物与 trjconv 缓存
+/root/autodl-tmp/HPV_structure/candidates_run/gamd_v2/runner_analyse.sh: line 10: frames.csv: No such file or directory
+===== CHEMBL1129_pose1_rep1 =====
+  [force] 清除旧产物与 trjconv 缓存
+/root/autodl-tmp/HPV_structure/candidates_run/gamd_v2/runner_analyse.sh: line 10: frames.csv: No such file or directory
+===== CHEMBL1129_pose1_rep2 =====
+  [force] 清除旧产物与 trjconv 缓存
+/root/autodl-tmp/HPV_structure/candidates_run/gamd_v2/runner_analyse.sh: line 10: frames.csv: No such file or directory
+===== CHEMBL1129_pose1_rep3 =====
+  [force] 清除旧产物与 trjconv 缓存
+/root/autodl-tmp/HPV_structure/candidates_run/gamd_v2/runner_analyse.sh: line 10: frames.csv: No such file or directory
+===== LxxLL_peptide_rep1 =====
+  [force] 清除旧产物与 trjconv 缓存
+/root/autodl-tmp/HPV_structure/candidates_run/gamd_v2/runner_analyse.sh: line 10: frames.csv: No such file or directory
+===== LxxLL_peptide_rep2 =====
+  [force] 清除旧产物与 trjconv 缓存
+/root/autodl-tmp/HPV_structure/candidates_run/gamd_v2/runner_analyse.sh: line 10: frames.csv: No such file or directory
+===== LxxLL_peptide_rep3 =====
+  [force] 清除旧产物与 trjconv 缓存
+/root/autodl-tmp/HPV_structure/candidates_run/gamd_v2/runner_analyse.sh: line 10: frames.csv: No such file or directory
+ANALYSE_ALLDONE

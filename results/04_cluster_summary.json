@@ -1,0 +1,64 @@
+{
+  "generated": "2026-10-25T22:42:52",
+  "n_rows": 524,
+  "n_types": 45,
+  "clade_name": "unverified (data-derived similarity clusters, not published Alpha/Beta genera)",
+  "model": "LogisticRegression(balanced) + StandardScaler inside Pipeline",
+  "per_k": {
+    "4": {
+      "n_clusters": 4,
+      "n_mixed_clusters": 1,
+      "n_evaluable_folds": 0,
+      "evaluable": false,
+      "pooled": null
+    },
+    "6": {
+      "n_clusters": 6,
+      "n_mixed_clusters": 1,
+      "n_evaluable_folds": 0,
+      "evaluable": false,
+      "pooled": null
+    },
+    "8": {
+      "n_clusters": 8,
+      "n_mixed_clusters": 1,
+      "n_evaluable_folds": 0,
+      "evaluable": false,
+      "pooled": null
+    },
+    "10": {
+      "n_clusters": 10,
+      "n_mixed_clusters": 1,
+      "n_evaluable_folds": 1,
+      "evaluable": true,
+      "pooled": {
+        "accuracy": 0.895774647887324,
+        "precision": 1.0,
+        "recall": 0.8939828080229226,
+        "f1": 0.9440242057488654,
+        "brier": 0.07745211842736995,
+        "auc": 0.9546322827125119
+      }
+    },
+    "12": {
+      "n_clusters": 12,
+      "n_mixed_clusters": 1,
+      "n_evaluable_folds": 1,
+      "evaluable": true,
+      "pooled": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "brier": 0.016830698993067782,
+        "auc": 1.0
+      }
+    }
+  },
+  "evaluable_k": [
+    10,
+    12
+  ],
+  "conclusion": "Risk label is almost perfectly confounded with sequence-similarity cluster: at every tested resolution only one cluster mixes high- and low-risk types, so most leave-one-cluster-out folds are degenerate (single-class test, or removing the mixed cluster leaves training single-class). Evaluable folds exist only at k=10 (1 fold, held-out 16|30|31|33|35|51|52|56|58|73|82 -> AUC 0.955) and k=12 (1 fold, 30|51|56|82 -> AUC 1.000). Two informative folds are not enough to claim phylogenetic generalization; the type-level model is effectively a clade-membership proxy and must be reframed as a descriptive clade-level physicochemical signature, or re-labelled with variant-level phenotypes.",
+  "seed": 42
+}

@@ -1,0 +1,11 @@
+cluster,n_sequences,types,official_groups,majority_group,purity,all_in_Burk_HR_clade
+1,80,18|39|45|59|68,Alphapapillomavirus 7(5),Alphapapillomavirus 7,1.0,True
+2,355,16|30|31|33|35|51|52|56|58|73|82,Alphapapillomavirus 11(1)|Alphapapillomavirus 5(2)|Alphapapillomavirus 6(2)|Alphapapillomavirus 9(6),Alphapapillomavirus 9,0.545,True
+3,29,6|11|13|40|42|43|44,Alphapapillomavirus 1(1)|Alphapapillomavirus 10(4)|Alphapapillomavirus 8(2),Alphapapillomavirus 10,0.571,False
+4,11,54,Alphapapillomavirus 13(1),Alphapapillomavirus 13,1.0,False
+5,26,61|72|81,Alphapapillomavirus 3(3),Alphapapillomavirus 3,1.0,False
+6,3,2|27,Alphapapillomavirus 4(2),Alphapapillomavirus 4,1.0,False
+7,3,10|28|29,Alphapapillomavirus 2(3),Alphapapillomavirus 2,1.0,False
+8,8,5|12|14|19|20|21|25,Betapapillomavirus 1(7),Betapapillomavirus 1,1.0,False
+9,8,15|17|22|23|24,Betapapillomavirus 1(1)|Betapapillomavirus 2(4),Betapapillomavirus 2,0.8,False
+10,1,1,Mupapillomavirus 1(1),Mupapillomavirus 1,1.0,False

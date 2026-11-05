@@ -1,0 +1,51 @@
+{
+  "library_file": "ligands/01_candidate_ligand_library.csv",
+  "library_rows": 74,
+  "library_built_by": "scripts/02_fetch_ligand_library.py",
+  "library_script_mtime": "2025-10-02",
+  "library_file_mtime": "2025-10-02",
+  "chembl_api": "https://www.ebi.ac.uk/chembl/api/data/molecule/search",
+  "chembl_release": "not recorded at access time",
+  "queries": [
+    "antiviral",
+    "antineoplastic",
+    "oncology",
+    "antiinfective",
+    "HPV",
+    "papillomavirus",
+    "cancer",
+    "tumor",
+    "neoplasm",
+    "chemotherapy",
+    "oncolytic",
+    "antitumor",
+    "antineoplastic agents",
+    "virus inhibitor",
+    "viral",
+    "DNA virus",
+    "E6",
+    "p53",
+    "PDZ"
+  ],
+  "n_queries": 20,
+  "filters": {
+    "dedup": "canonical SMILES",
+    "lipinski": "MW<=500, LogP<=5, HBD<=5, HBA<=10",
+    "veber": "RotBonds<=10, TPSA<=140",
+    "diversity": "Morgan FP r=2 2048-bit, greedy, max pairwise Tanimoto < 0.8"
+  },
+  "selection_rule": "first 14 entries of the library file, in file order (positional truncation; no score-, activity- or structure-based rule recorded)",
+  "selection_evidence": {
+    "file": "results/molecular_docking/docking_progress.json",
+    "n_entries": 10,
+    "entries_match_library_rows": "0..9",
+    "timestamp_first": "2025-10-07T03:53:24.821192"
+  },
+  "vina_scores_source": "docking_results_full/4GIZ/<ID>_out.pdbqt (REMARK VINA RESULT)",
+  "vina_range": [
+    -7.839,
+    -5.214
+  ],
+  "table": "results/49_candidate_provenance_table.csv",
+  "generated": "2026-11-05T02:23:04"
+}

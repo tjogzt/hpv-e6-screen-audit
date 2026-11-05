@@ -1,0 +1,96 @@
+{
+  "generated": "2026-10-25T22:38:05",
+  "input": "rebuild_20261025/data/02_dataset_clean.csv",
+  "n_rows": 524,
+  "n_features": 12,
+  "n_types": 45,
+  "class_counts": {
+    "0": 95,
+    "1": 429
+  },
+  "leaky_baseline": {
+    "accuracy": 0.9923664122137404,
+    "precision": 0.9930394431554525,
+    "recall": 0.9976689976689976,
+    "f1": 0.9953488372093023,
+    "brier": 0.006773052085890436,
+    "auc": 0.997914366335419,
+    "tp": 428,
+    "tn": 92,
+    "fp": 3,
+    "fn": 1
+  },
+  "pooled_nested": {
+    "LogisticRegression": {
+      "accuracy": 0.9790076335877863,
+      "precision": 0.9815668202764977,
+      "recall": 0.993006993006993,
+      "f1": 0.9872537659327926,
+      "brier": 0.019657514356369726,
+      "auc": 0.9954116059379217,
+      "tp": 426,
+      "tn": 87,
+      "fp": 8,
+      "fn": 3
+    },
+    "SVC": {
+      "accuracy": 0.9637404580152672,
+      "precision": 0.9659090909090909,
+      "recall": 0.9906759906759907,
+      "f1": 0.9781357882623706,
+      "brier": 0.03186129952001514,
+      "auc": 0.9840264998159735,
+      "tp": 425,
+      "tn": 80,
+      "fp": 15,
+      "fn": 4
+    },
+    "RandomForest": {
+      "accuracy": 0.9675572519083969,
+      "precision": 0.9746543778801844,
+      "recall": 0.986013986013986,
+      "f1": 0.9803012746234068,
+      "brier": 0.025234378934413007,
+      "auc": 0.9936326831063673,
+      "tp": 423,
+      "tn": 84,
+      "fp": 11,
+      "fn": 6
+    }
+  },
+  "best_family_by_auc": "LogisticRegression",
+  "permutation_importance_top": [
+    {
+      "model": "LogisticRegression",
+      "feature": "negative_charged",
+      "importance_mean": 0.06291284844078118,
+      "importance_std": 0.07575110662990768
+    },
+    {
+      "model": "LogisticRegression",
+      "feature": "hydrophobicity",
+      "importance_mean": 0.05487054857064154,
+      "importance_std": 0.03498169670782772
+    },
+    {
+      "model": "LogisticRegression",
+      "feature": "instability_index",
+      "importance_mean": 0.0058549134532484915,
+      "importance_std": 0.009815050633883302
+    },
+    {
+      "model": "LogisticRegression",
+      "feature": "helix_propensity",
+      "importance_mean": 0.003966834402982138,
+      "importance_std": 0.00481432968360592
+    },
+    {
+      "model": "LogisticRegression",
+      "feature": "positive_charged",
+      "importance_mean": 0.0024728460349657143,
+      "importance_std": 0.0027416364291783456
+    }
+  ],
+  "seed": 42,
+  "caution": "Metrics describe generalization to unseen HPV TYPES on type-level proxy labels, not clinical variant pathogenicity."
+}

@@ -1,0 +1,879 @@
+sequence_id,hpv_type,risk_level,pathogenicity,source,accession,os_raw,desc_genus,desc_type,acc_type,os_is_human,os_missing,type_mismatch_desc,type_mismatch_acc,decision,reason
+HPV16_UniProt_1,16,high_risk,2,UniProt,sp|P03126|VE6_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_2,16,high_risk,2,UniProt,tr|A0A059VNE3|A0A059VNE3_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_3,16,high_risk,2,UniProt,tr|A0A076G284|A0A076G284_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_4,16,high_risk,2,UniProt,tr|A0A088SPW4|A0A088SPW4_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_5,16,high_risk,2,UniProt,tr|A0A0C5FR62|A0A0C5FR62_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_6,16,high_risk,2,UniProt,tr|A0A0C5FUK7|A0A0C5FUK7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_7,16,high_risk,2,UniProt,tr|A0A0G2YN28|A0A0G2YN28_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_8,16,high_risk,2,UniProt,tr|A0A0U2ZNY5|A0A0U2ZNY5_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_9,16,high_risk,2,UniProt,tr|A0A0U3IDX2|A0A0U3IDX2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_10,16,high_risk,2,UniProt,tr|A0A2P1HBM3|A0A2P1HBM3_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_11,16,high_risk,2,UniProt,tr|A0A2P1HCG3|A0A2P1HCG3_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_12,16,high_risk,2,UniProt,tr|A0A2P1HCG9|A0A2P1HCG9_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_13,16,high_risk,2,UniProt,tr|A0A2P1HE67|A0A2P1HE67_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_14,16,high_risk,2,UniProt,tr|A0A2P1HGM3|A0A2P1HGM3_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_15,16,high_risk,2,UniProt,tr|A0A2P1HIG8|A0A2P1HIG8_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_16,16,high_risk,2,UniProt,tr|A0A2P1HIH1|A0A2P1HIH1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_17,16,high_risk,2,UniProt,tr|A0A2P1HJ72|A0A2P1HJ72_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_18,16,high_risk,2,UniProt,tr|A0A2P1HKQ2|A0A2P1HKQ2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_19,16,high_risk,2,UniProt,tr|A0A2P1HLP0|A0A2P1HLP0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_20,16,high_risk,2,UniProt,tr|A0A2P1HLP7|A0A2P1HLP7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_21,16,high_risk,2,UniProt,tr|A0A2P1HM36|A0A2P1HM36_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_22,16,high_risk,2,UniProt,tr|A0A2P1HMQ1|A0A2P1HMQ1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_23,16,high_risk,2,UniProt,tr|A0A2P1HNM9|A0A2P1HNM9_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_24,16,high_risk,2,UniProt,tr|A0A2P1HNZ5|A0A2P1HNZ5_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_25,16,high_risk,2,UniProt,tr|A0A2P1HRI0|A0A2P1HRI0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_26,16,high_risk,2,UniProt,tr|A0A2P1HRR9|A0A2P1HRR9_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_27,16,high_risk,2,UniProt,tr|A0A2P1HS22|A0A2P1HS22_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_28,16,high_risk,2,UniProt,tr|A0A2P1HZ47|A0A2P1HZ47_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_29,16,high_risk,2,UniProt,tr|A0A2P1I0M9|A0A2P1I0M9_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_30,16,high_risk,2,UniProt,tr|A0A2P1I102|A0A2P1I102_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_31,16,high_risk,2,UniProt,tr|A0A2P1I5S2|A0A2P1I5S2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_32,16,high_risk,2,UniProt,tr|A0A2P1I738|A0A2P1I738_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_33,16,high_risk,2,UniProt,tr|A0A2P1I7F6|A0A2P1I7F6_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_34,16,high_risk,2,UniProt,tr|A0A2P1I830|A0A2P1I830_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_35,16,high_risk,2,UniProt,tr|A0A2P1IA89|A0A2P1IA89_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_36,16,high_risk,2,UniProt,tr|A0A2P1IB69|A0A2P1IB69_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_37,16,high_risk,2,UniProt,tr|A0A2P1IFE8|A0A2P1IFE8_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_38,16,high_risk,2,UniProt,tr|A0A2P1IG57|A0A2P1IG57_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_39,16,high_risk,2,UniProt,tr|A0A2P1IG87|A0A2P1IG87_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_40,16,high_risk,2,UniProt,tr|A0A2P1IH24|A0A2P1IH24_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_41,16,high_risk,2,UniProt,tr|A0A2P1IHE2|A0A2P1IHE2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_42,16,high_risk,2,UniProt,tr|A0A2P1IIF0|A0A2P1IIF0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_43,16,high_risk,2,UniProt,tr|A0A2P1IIR6|A0A2P1IIR6_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_44,16,high_risk,2,UniProt,tr|A0A2P1IK24|A0A2P1IK24_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_45,16,high_risk,2,UniProt,tr|A0A2P1IK80|A0A2P1IK80_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_46,16,high_risk,2,UniProt,tr|A0A2P1IKJ2|A0A2P1IKJ2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_47,16,high_risk,2,UniProt,tr|A0A2P1ILK1|A0A2P1ILK1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_48,16,high_risk,2,UniProt,tr|A0A2Z5DHD3|A0A2Z5DHD3_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_49,16,high_risk,2,UniProt,tr|A0A384LDF5|A0A384LDF5_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_50,16,high_risk,2,UniProt,tr|A0A3Q9JNN9|A0A3Q9JNN9_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_51,16,high_risk,2,UniProt,tr|A0A455TC20|A0A455TC20_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_52,16,high_risk,2,UniProt,tr|A0A6B9RU20|A0A6B9RU20_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_53,16,high_risk,2,UniProt,tr|A0A6B9RYP2|A0A6B9RYP2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_54,16,high_risk,2,UniProt,tr|A0A6G6ADT7|A0A6G6ADT7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_55,16,high_risk,2,UniProt,tr|A0A7D7D336|A0A7D7D336_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_56,16,high_risk,2,UniProt,tr|A0A7U3NUW4|A0A7U3NUW4_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_57,16,high_risk,2,UniProt,tr|A0A8F0F2J2|A0A8F0F2J2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_58,16,high_risk,2,UniProt,tr|A0A8F0JVL5|A0A8F0JVL5_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_59,16,high_risk,2,UniProt,tr|A0A8F9R3R4|A0A8F9R3R4_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_60,16,high_risk,2,UniProt,tr|A1YQC2|A1YQC2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_61,16,high_risk,2,UniProt,tr|A1YQC3|A1YQC3_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_62,16,high_risk,2,UniProt,tr|A1YQC8|A1YQC8_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_63,16,high_risk,2,UniProt,tr|A1YQD1|A1YQD1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_64,16,high_risk,2,UniProt,tr|A3RM07|A3RM07_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_65,16,high_risk,2,UniProt,tr|A4L2Z5|A4L2Z5_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_66,16,high_risk,2,UniProt,tr|B1N828|B1N828_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_67,16,high_risk,2,UniProt,tr|B9UPB5|B9UPB5_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_68,16,high_risk,2,UniProt,tr|G9HQD8|G9HQD8_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_69,16,high_risk,2,UniProt,tr|G9HQE8|G9HQE8_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_70,16,high_risk,2,UniProt,tr|J3SRI7|J3SRI7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_71,16,high_risk,2,UniProt,tr|J3T208|J3T208_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_72,16,high_risk,2,UniProt,tr|J9ZYY5|J9ZYY5_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_73,16,high_risk,2,UniProt,tr|N0DM07|N0DM07_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_74,16,high_risk,2,UniProt,tr|Q77E16|Q77E16_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_75,16,high_risk,2,UniProt,tr|Q8QRE1|Q8QRE1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_76,16,high_risk,2,UniProt,tr|S5TFX6|S5TFX6_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_77,16,high_risk,2,UniProt,tr|S5TGF1|S5TGF1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_78,16,high_risk,2,UniProt,tr|S5TGH2|S5TGH2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_79,16,high_risk,2,UniProt,tr|S5THL1|S5THL1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_80,16,high_risk,2,UniProt,tr|S5THQ0|S5THQ0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_81,16,high_risk,2,UniProt,tr|S5TI43|S5TI43_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_82,16,high_risk,2,UniProt,tr|S5TQ34|S5TQ34_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_83,16,high_risk,2,UniProt,tr|S5TQ40|S5TQ40_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_84,16,high_risk,2,UniProt,tr|S5U2Z7|S5U2Z7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_85,16,high_risk,2,UniProt,tr|S5U3B0|S5U3B0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_86,16,high_risk,2,UniProt,tr|S5U710|S5U710_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_87,16,high_risk,2,UniProt,tr|A0A024CAG1|A0A024CAG1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_88,16,high_risk,2,UniProt,tr|A0A024CAM6|A0A024CAM6_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_89,16,high_risk,2,UniProt,tr|A0A076G396|A0A076G396_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_90,16,high_risk,2,UniProt,tr|A0A088SPV5|A0A088SPV5_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_91,16,high_risk,2,UniProt,tr|A0A0G2YFL3|A0A0G2YFL3_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_92,16,high_risk,2,UniProt,tr|A0A0S2E831|A0A0S2E831_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_93,16,high_risk,2,UniProt,tr|A0A0U2YX27|A0A0U2YX27_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_94,16,high_risk,2,UniProt,tr|A0A0U3AVN8|A0A0U3AVN8_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_95,16,high_risk,2,UniProt,tr|A0A0C5L0H3|A0A0C5L0H3_9PAPI,Canis familiaris papillomavirus 16,Canis familiaris papillomavirus,16,,False,False,False,False,exclude,non_human_os
+HPV16_UniProt_96,16,high_risk,2,UniProt,tr|A0A1B2K1Z4|A0A1B2K1Z4_9PAPI,Bos taurus papillomavirus 16,Bos taurus papillomavirus,16,,False,False,False,False,exclude,non_human_os
+HPV16_UniProt_97,16,high_risk,2,UniProt,tr|A0A291L533|A0A291L533_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_98,16,high_risk,2,UniProt,tr|A0A291L5A1|A0A291L5A1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_99,16,high_risk,2,UniProt,tr|A0A8D6LXW8|A0A8D6LXW8_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_100,16,high_risk,2,UniProt,tr|N0DLZ7|N0DLZ7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_101,16,high_risk,2,UniProt,tr|N0DM95|N0DM95_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_102,16,high_risk,2,UniProt,tr|N0DMJ3|N0DMJ3_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_103,16,high_risk,2,UniProt,tr|N0DRU0|N0DRU0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_104,16,high_risk,2,UniProt,tr|A0A024CAF8|A0A024CAF8_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_105,16,high_risk,2,UniProt,tr|S5TL98|S5TL98_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_106,16,high_risk,2,UniProt,tr|S5U3D5|S5U3D5_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_107,16,high_risk,2,UniProt,tr|S5U3E1|S5U3E1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_108,16,high_risk,2,UniProt,tr|A0A024CCC4|A0A024CCC4_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_109,16,high_risk,2,UniProt,tr|S5U276|S5U276_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_110,16,high_risk,2,UniProt,tr|S5TDR0|S5TDR0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_111,16,high_risk,2,UniProt,tr|S5TL73|S5TL73_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_112,16,high_risk,2,UniProt,tr|A0A024CA14|A0A024CA14_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_113,16,high_risk,2,UniProt,tr|A0A024CA19|A0A024CA19_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_114,16,high_risk,2,UniProt,tr|S5U365|S5U365_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_115,16,high_risk,2,UniProt,tr|S5U371|S5U371_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_116,16,high_risk,2,UniProt,tr|F8S3D2|F8S3D2_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_117,16,high_risk,2,UniProt,tr|F8S3R0|F8S3R0_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_118,16,high_risk,2,UniProt,tr|F8S4J8|F8S4J8_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_119,16,high_risk,2,UniProt,tr|F8S524|F8S524_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_120,16,high_risk,2,UniProt,tr|F8S4Q4|F8S4Q4_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_121,16,high_risk,2,UniProt,tr|F8S3M8|F8S3M8_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_122,16,high_risk,2,UniProt,tr|F8S5S2|F8S5S2_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_123,16,high_risk,2,UniProt,tr|F8S3U2|F8S3U2_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_124,16,high_risk,2,UniProt,tr|F8S494|F8S494_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_125,16,high_risk,2,UniProt,tr|F8S4F0|F8S4F0_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_126,16,high_risk,2,UniProt,tr|F8S4E2|F8S4E2_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_127,16,high_risk,2,UniProt,tr|F8S5U6|F8S5U6_HPV67,Human papillomavirus 67,Human papillomavirus,67,67,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_128,16,high_risk,2,UniProt,tr|F8S5V4|F8S5V4_HPV67,Human papillomavirus 67,Human papillomavirus,67,67,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_129,16,high_risk,2,UniProt,tr|B1N831|B1N831_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_130,16,high_risk,2,UniProt,tr|B1N849|B1N849_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_131,16,high_risk,2,UniProt,tr|B1N848|B1N848_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_132,16,high_risk,2,UniProt,tr|B1N853|B1N853_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_133,16,high_risk,2,UniProt,tr|B1N854|B1N854_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_134,16,high_risk,2,UniProt,tr|B1N855|B1N855_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_135,16,high_risk,2,UniProt,tr|A0A7D7CZM0|A0A7D7CZM0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_136,16,high_risk,2,UniProt,tr|A0A7D7HWL6|A0A7D7HWL6_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_137,16,high_risk,2,UniProt,tr|B1N841|B1N841_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_138,16,high_risk,2,UniProt,tr|A0A7D7CYQ1|A0A7D7CYQ1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_139,16,high_risk,2,UniProt,tr|A0A7D7CZQ7|A0A7D7CZQ7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_140,16,high_risk,2,UniProt,tr|N0DRU7|N0DRU7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_141,16,high_risk,2,UniProt,tr|S6AWP2|S6AWP2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_142,16,high_risk,2,UniProt,tr|S5TCK5|S5TCK5_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_143,16,high_risk,2,UniProt,tr|A0A2P1HEF3|A0A2P1HEF3_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_144,16,high_risk,2,UniProt,tr|A0A2P1I7I4|A0A2P1I7I4_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_145,16,high_risk,2,UniProt,tr|A0A2P1I2R1|A0A2P1I2R1_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_146,16,high_risk,2,UniProt,tr|A0A2P1HJF4|A0A2P1HJF4_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_147,16,high_risk,2,UniProt,tr|S5TLA4|S5TLA4_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_148,16,high_risk,2,UniProt,tr|F8S3L2|F8S3L2_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_149,16,high_risk,2,UniProt,tr|F8S5Y6|F8S5Y6_HPV67,Human papillomavirus 67,Human papillomavirus,67,67,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_150,16,high_risk,2,UniProt,tr|B1N852|B1N852_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_151,16,high_risk,2,UniProt,tr|S5U2B7|S5U2B7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_152,16,high_risk,2,UniProt,tr|A4U7F2|A4U7F2_HPV67,Human papillomavirus 67,Human papillomavirus,67,67,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_153,16,high_risk,2,UniProt,tr|A1YQC0|A1YQC0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_154,16,high_risk,2,UniProt,tr|F8S540|F8S540_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_155,16,high_risk,2,UniProt,tr|F8S3Y2|F8S3Y2_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_156,16,high_risk,2,UniProt,tr|K0A0D0|K0A0D0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_157,16,high_risk,2,UniProt,tr|F8S3Z8|F8S3Z8_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_158,16,high_risk,2,UniProt,tr|Q8JMU8|Q8JMU8_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_159,16,high_risk,2,UniProt,tr|Q8QHT0|Q8QHT0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_160,16,high_risk,2,UniProt,tr|N0DMH2|N0DMH2_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_161,16,high_risk,2,UniProt,tr|S5TDM3|S5TDM3_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_162,16,high_risk,2,UniProt,tr|F1ASS9|F1ASS9_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_163,16,high_risk,2,UniProt,tr|B1N856|B1N856_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_164,16,high_risk,2,UniProt,tr|Q9WH13|Q9WH13_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_165,16,high_risk,2,UniProt,tr|Q8QHN0|Q8QHN0_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_166,16,high_risk,2,UniProt,tr|Q77JC7|Q77JC7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_167,16,high_risk,2,UniProt,tr|C8CAK7|C8CAK7_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_168,16,high_risk,2,UniProt,tr|A5JT01|A5JT01_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_169,16,high_risk,2,UniProt,tr|F8S5K8|F8S5K8_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_170,16,high_risk,2,UniProt,tr|F8S5P0|F8S5P0_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_171,16,high_risk,2,UniProt,tr|Q8BB19|Q8BB19_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_172,16,high_risk,2,UniProt,tr|F1ASS8|F1ASS8_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_173,16,high_risk,2,UniProt,tr|Q8QRD5|Q8QRD5_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_UniProt_174,16,high_risk,2,UniProt,tr|C9E744|C9E744_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_175,16,high_risk,2,UniProt,tr|Q4TUG8|Q4TUG8_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_176,16,high_risk,2,UniProt,tr|F8S5T8|F8S5T8_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_177,16,high_risk,2,UniProt,tr|C8CAK9|C8CAK9_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV16_UniProt_178,16,high_risk,2,UniProt,tr|A0A0D5CS67|A0A0D5CS67_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,False,False,retain,ok
+HPV16_NCBI_179,16,high_risk,2,NCBI,XZS36813.1,,Human papillomavirus,16,,False,True,False,False,review,os_missing
+HPV16_NCBI_180,16,high_risk,2,NCBI,XZS36810.1,,Human papillomavirus,16,,False,True,False,False,review,os_missing
+HPV16_NCBI_181,16,high_risk,2,NCBI,XZS36805.1,,Human papillomavirus,16,,False,True,False,False,review,os_missing
+HPV16_NCBI_182,16,high_risk,2,NCBI,BHD12307.1,,Human papillomavirus,16,,False,True,False,False,review,os_missing
+HPV16_NCBI_183,16,high_risk,2,NCBI,BHD12291.1,,Human papillomavirus,16,,False,True,False,False,review,os_missing
+HPV16_NCBI_184,16,high_risk,2,NCBI,XZG25166.1,,Human papillomavirus,16,,False,True,False,False,review,os_missing
+HPV18_UniProt_1,18,high_risk,2,UniProt,sp|P06463|VE6_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_2,18,high_risk,2,UniProt,tr|A0A059VJI9|A0A059VJI9_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_3,18,high_risk,2,UniProt,tr|A0A0K2GNG2|A0A0K2GNG2_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_4,18,high_risk,2,UniProt,tr|A0A0K2GNM0|A0A0K2GNM0_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_5,18,high_risk,2,UniProt,tr|A0A0K2GNT4|A0A0K2GNT4_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_6,18,high_risk,2,UniProt,tr|A0A0K2GPE4|A0A0K2GPE4_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_7,18,high_risk,2,UniProt,tr|A0A159DQY0|A0A159DQY0_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_8,18,high_risk,2,UniProt,tr|A0A1X9ZDU1|A0A1X9ZDU1_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_9,18,high_risk,2,UniProt,tr|A0A5Q0V316|A0A5Q0V316_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_10,18,high_risk,2,UniProt,tr|A0A7D5HQZ9|A0A7D5HQZ9_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_11,18,high_risk,2,UniProt,tr|A9XFE2|A9XFE2_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_12,18,high_risk,2,UniProt,tr|A9XFJ0|A9XFJ0_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_13,18,high_risk,2,UniProt,tr|T2A5A2|T2A5A2_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_14,18,high_risk,2,UniProt,tr|A0A0K2GND5|A0A0K2GND5_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_15,18,high_risk,2,UniProt,tr|A0A0K2GNN0|A0A0K2GNN0_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_16,18,high_risk,2,UniProt,tr|A0A0K2GNR9|A0A0K2GNR9_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_17,18,high_risk,2,UniProt,tr|A0A0K2GNU9|A0A0K2GNU9_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_18,18,high_risk,2,UniProt,tr|A0A0K2GP30|A0A0K2GP30_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_19,18,high_risk,2,UniProt,tr|A0A0K2GP56|A0A0K2GP56_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_20,18,high_risk,2,UniProt,tr|A0A0U3JRD5|A0A0U3JRD5_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_21,18,high_risk,2,UniProt,tr|A0A1X9ZDQ9|A0A1X9ZDQ9_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_22,18,high_risk,2,UniProt,tr|A0A5Q0V338|A0A5Q0V338_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_23,18,high_risk,2,UniProt,tr|A0A7D5IFD8|A0A7D5IFD8_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_24,18,high_risk,2,UniProt,tr|A0A0K2GNQ5|A0A0K2GNQ5_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_25,18,high_risk,2,UniProt,tr|A0A0K2GNS5|A0A0K2GNS5_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_26,18,high_risk,2,UniProt,tr|A0A7G8YWE6|A0A7G8YWE6_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_27,18,high_risk,2,UniProt,tr|A0A088S6B3|A0A088S6B3_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_28,18,high_risk,2,UniProt,tr|A0A0K2GNF2|A0A0K2GNF2_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_29,18,high_risk,2,UniProt,tr|A0A0K2GNF6|A0A0K2GNF6_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_30,18,high_risk,2,UniProt,tr|A0A0K2GNI9|A0A0K2GNI9_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_31,18,high_risk,2,UniProt,tr|A0A0K2GNM3|A0A0K2GNM3_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_32,18,high_risk,2,UniProt,tr|A0A0K2GNP7|A0A0K2GNP7_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_33,18,high_risk,2,UniProt,tr|A0A0K2GNP8|A0A0K2GNP8_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_34,18,high_risk,2,UniProt,tr|A0A0K2GNS8|A0A0K2GNS8_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_35,18,high_risk,2,UniProt,tr|A0A0K2GPG3|A0A0K2GPG3_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_36,18,high_risk,2,UniProt,tr|A0A0U3JLM1|A0A0U3JLM1_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_37,18,high_risk,2,UniProt,tr|A0A5Q0V381|A0A5Q0V381_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_38,18,high_risk,2,UniProt,tr|A0A6F8Z7X3|A0A6F8Z7X3_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_39,18,high_risk,2,UniProt,tr|A9XFB0|A9XFB0_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_40,18,high_risk,2,UniProt,tr|Q9QNP8|Q9QNP8_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_41,18,high_risk,2,UniProt,tr|A0A0K2GNI2|A0A0K2GNI2_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_42,18,high_risk,2,UniProt,tr|A0A0K2GNN8|A0A0K2GNN8_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_43,18,high_risk,2,UniProt,tr|A0A0K2GNQ7|A0A0K2GNQ7_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_44,18,high_risk,2,UniProt,tr|A0A0U3JLN9|A0A0U3JLN9_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_45,18,high_risk,2,UniProt,tr|A0A7G8YWE8|A0A7G8YWE8_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_46,18,high_risk,2,UniProt,tr|D3ITV5|D3ITV5_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_47,18,high_risk,2,UniProt,tr|A0A059VDG6|A0A059VDG6_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_48,18,high_risk,2,UniProt,tr|A0A173DWG7|A0A173DWG7_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_49,18,high_risk,2,UniProt,tr|R4UZL0|R4UZL0_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_50,18,high_risk,2,UniProt,tr|R4V4T2|R4V4T2_HPV18,Human papillomavirus type 18,Human papillomavirus,18,18,True,False,False,False,retain,ok
+HPV18_UniProt_51,18,high_risk,2,UniProt,tr|A0A0U3IE20|A0A0U3IE20_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_52,18,high_risk,2,UniProt,tr|A0A0U3IE52|A0A0U3IE52_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_53,18,high_risk,2,UniProt,tr|A0A0U3JCG6|A0A0U3JCG6_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_54,18,high_risk,2,UniProt,tr|A0A0U3K7C4|A0A0U3K7C4_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_55,18,high_risk,2,UniProt,tr|A0A0U2QTF6|A0A0U2QTF6_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_56,18,high_risk,2,UniProt,tr|A0A0U3IJH2|A0A0U3IJH2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_57,18,high_risk,2,UniProt,tr|A0A0U2QTG8|A0A0U2QTG8_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_58,18,high_risk,2,UniProt,tr|A0A0U3AVT2|A0A0U3AVT2_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_59,18,high_risk,2,UniProt,tr|A0A0U3J8V8|A0A0U3J8V8_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_60,18,high_risk,2,UniProt,tr|A0A0U3JCM7|A0A0U3JCM7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_61,18,high_risk,2,UniProt,tr|A0A0U3JLC6|A0A0U3JLC6_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_62,18,high_risk,2,UniProt,tr|A0A0U3JWJ7|A0A0U3JWJ7_HPV16,Human papillomavirus type 16,Human papillomavirus,16,16,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV18_UniProt_63,18,high_risk,2,UniProt,tr|A0A1B2K215|A0A1B2K215_9PAPI,Bos taurus papillomavirus 18,Bos taurus papillomavirus,18,,False,False,False,False,exclude,non_human_os
+HPV18_UniProt_64,18,high_risk,2,UniProt,tr|A0A3G1E4J6|A0A3G1E4J6_9PAPI,Canis familiaris papillomavirus 18,Canis familiaris papillomavirus,18,,False,False,False,False,exclude,non_human_os
+HPV31_UniProt_1,31,high_risk,2,UniProt,sp|P17386|VE6_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_2,31,high_risk,2,UniProt,tr|C8C4N8|C8C4N8_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_3,31,high_risk,2,UniProt,tr|Q4TUG1|Q4TUG1_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_4,31,high_risk,2,UniProt,tr|A0A5B8RI48|A0A5B8RI48_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_5,31,high_risk,2,UniProt,tr|A0A7D7G168|A0A7D7G168_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_6,31,high_risk,2,UniProt,tr|C8C4N9|C8C4N9_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_7,31,high_risk,2,UniProt,tr|A0A161HPH3|A0A161HPH3_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_8,31,high_risk,2,UniProt,tr|A0A161HTX8|A0A161HTX8_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_9,31,high_risk,2,UniProt,tr|A0A5B8RIW8|A0A5B8RIW8_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_10,31,high_risk,2,UniProt,tr|A5JT07|A5JT07_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_11,31,high_risk,2,UniProt,tr|M4T782|M4T782_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_12,31,high_risk,2,UniProt,tr|A0A8A5MZL3|A0A8A5MZL3_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_13,31,high_risk,2,UniProt,tr|G5CD47|G5CD47_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_14,31,high_risk,2,UniProt,tr|G5CD63|G5CD63_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_15,31,high_risk,2,UniProt,tr|A0A8A5N1Z3|A0A8A5N1Z3_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_16,31,high_risk,2,UniProt,tr|G5CD61|G5CD61_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_17,31,high_risk,2,UniProt,tr|G5CD48|G5CD48_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_18,31,high_risk,2,UniProt,tr|G5CD57|G5CD57_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_19,31,high_risk,2,UniProt,tr|G5CD39|G5CD39_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_20,31,high_risk,2,UniProt,tr|G5CD41|G5CD41_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_21,31,high_risk,2,UniProt,tr|G5CD42|G5CD42_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_22,31,high_risk,2,UniProt,tr|A0A8A5MTP4|A0A8A5MTP4_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_23,31,high_risk,2,UniProt,tr|A5JT00|A5JT00_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_24,31,high_risk,2,UniProt,tr|A5JT06|A5JT06_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_25,31,high_risk,2,UniProt,tr|G5CD45|G5CD45_HPV31,Human papillomavirus 31,Human papillomavirus,31,31,True,False,False,False,retain,ok
+HPV31_UniProt_26,31,high_risk,2,UniProt,tr|Q8QSE7|Q8QSE7_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV31_UniProt_27,31,high_risk,2,UniProt,tr|Q4TUF4|Q4TUF4_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV31_UniProt_28,31,high_risk,2,UniProt,tr|F8S430|F8S430_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV31_UniProt_29,31,high_risk,2,UniProt,tr|Q4TUF9|Q4TUF9_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV31_UniProt_30,31,high_risk,2,UniProt,tr|Q8QHQ3|Q8QHQ3_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV31_UniProt_31,31,high_risk,2,UniProt,tr|Q4TUH7|Q4TUH7_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV31_UniProt_32,31,high_risk,2,UniProt,tr|Q547M1|Q547M1_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_1,33,high_risk,2,UniProt,tr|A0A159DWJ9|A0A159DWJ9_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_2,33,high_risk,2,UniProt,tr|A0A1J0A1Y6|A0A1J0A1Y6_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_3,33,high_risk,2,UniProt,tr|V5K012|V5K012_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_4,33,high_risk,2,UniProt,tr|V5K0G2|V5K0G2_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_5,33,high_risk,2,UniProt,tr|A0A088S6C6|A0A088S6C6_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_6,33,high_risk,2,UniProt,tr|V5JZL4|V5JZL4_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_7,33,high_risk,2,UniProt,tr|V5K6J3|V5K6J3_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_8,33,high_risk,2,UniProt,tr|V5K6V1|V5K6V1_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_9,33,high_risk,2,UniProt,tr|A0A192YFC7|A0A192YFC7_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_10,33,high_risk,2,UniProt,tr|A0A192YG24|A0A192YG24_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_11,33,high_risk,2,UniProt,tr|A0A1J0A1T6|A0A1J0A1T6_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_12,33,high_risk,2,UniProt,tr|B9UPD1|B9UPD1_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_13,33,high_risk,2,UniProt,tr|V5JYQ5|V5JYQ5_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_14,33,high_risk,2,UniProt,tr|C8CAL1|C8CAL1_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_15,33,high_risk,2,UniProt,tr|M4H3X0|M4H3X0_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_16,33,high_risk,2,UniProt,tr|V5K6R0|V5K6R0_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_17,33,high_risk,2,UniProt,tr|A0A159DR32|A0A159DR32_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_18,33,high_risk,2,UniProt,tr|A0A192YFD7|A0A192YFD7_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_19,33,high_risk,2,UniProt,tr|V5K0F5|V5K0F5_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_20,33,high_risk,2,UniProt,tr|V5K0H1|V5K0H1_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_21,33,high_risk,2,UniProt,tr|A0A8A5N1X5|A0A8A5N1X5_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_22,33,high_risk,2,UniProt,tr|A0A8A5N5W1|A0A8A5N5W1_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_23,33,high_risk,2,UniProt,tr|A0A8A5MXZ9|A0A8A5MXZ9_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_24,33,high_risk,2,UniProt,tr|A0A8A5MY29|A0A8A5MY29_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_25,33,high_risk,2,UniProt,tr|A5JSZ5|A5JSZ5_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_26,33,high_risk,2,UniProt,tr|A0A8A5N0U4|A0A8A5N0U4_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_27,33,high_risk,2,UniProt,tr|A0A8A5N3N9|A0A8A5N3N9_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_28,33,high_risk,2,UniProt,tr|A0A8A5N1B7|A0A8A5N1B7_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_29,33,high_risk,2,UniProt,tr|A5JSZ6|A5JSZ6_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_30,33,high_risk,2,UniProt,tr|A0A8A5N1C6|A0A8A5N1C6_HPV33,Human papillomavirus 33,Human papillomavirus,33,33,True,False,False,False,retain,ok
+HPV33_UniProt_31,33,high_risk,2,UniProt,tr|M4H3Y1|M4H3Y1_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_32,33,high_risk,2,UniProt,tr|M4H3T7|M4H3T7_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_33,33,high_risk,2,UniProt,tr|M4H4L1|M4H4L1_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_34,33,high_risk,2,UniProt,tr|M4H475|M4H475_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_35,33,high_risk,2,UniProt,tr|M4H4T8|M4H4T8_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_36,33,high_risk,2,UniProt,tr|M4H4K0|M4H4K0_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_37,33,high_risk,2,UniProt,tr|M4H3S9|M4H3S9_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_38,33,high_risk,2,UniProt,tr|M4H4A7|M4H4A7_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_39,33,high_risk,2,UniProt,tr|M4H4A2|M4H4A2_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_40,33,high_risk,2,UniProt,tr|O10608|O10608_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_41,33,high_risk,2,UniProt,tr|A9XFN8|A9XFN8_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_UniProt_42,33,high_risk,2,UniProt,tr|A9XFL4|A9XFL4_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV33_NCBI_43,33,high_risk,2,NCBI,WKU83715.1,,human papillomavirus,33,,False,True,False,False,review,os_missing
+HPV35_UniProt_1,35,high_risk,2,UniProt,tr|A0A6M3S3K8|A0A6M3S3K8_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_2,35,high_risk,2,UniProt,tr|A0A6M3S402|A0A6M3S402_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_3,35,high_risk,2,UniProt,tr|A0A6M3S720|A0A6M3S720_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_4,35,high_risk,2,UniProt,tr|A0A6M3S5U0|A0A6M3S5U0_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_5,35,high_risk,2,UniProt,tr|A0A6M3S6H8|A0A6M3S6H8_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_6,35,high_risk,2,UniProt,tr|A0A6M3S801|A0A6M3S801_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_7,35,high_risk,2,UniProt,tr|A0A6M3SAH9|A0A6M3SAH9_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_8,35,high_risk,2,UniProt,tr|A0A6M3SC87|A0A6M3SC87_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_9,35,high_risk,2,UniProt,tr|A0A6M3SDF6|A0A6M3SDF6_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_10,35,high_risk,2,UniProt,tr|A0A6M3SFR1|A0A6M3SFR1_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_11,35,high_risk,2,UniProt,tr|A0A6M3SHA0|A0A6M3SHA0_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_12,35,high_risk,2,UniProt,tr|A0A6M3S3K2|A0A6M3S3K2_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_13,35,high_risk,2,UniProt,tr|A0A6M3S3S5|A0A6M3S3S5_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_14,35,high_risk,2,UniProt,tr|A0A6M3S4H3|A0A6M3S4H3_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_15,35,high_risk,2,UniProt,tr|A0A6M3S6U4|A0A6M3S6U4_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_16,35,high_risk,2,UniProt,tr|A0A6M3S7G7|A0A6M3S7G7_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_17,35,high_risk,2,UniProt,tr|A0A6M3SF45|A0A6M3SF45_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_18,35,high_risk,2,UniProt,tr|A0A6M3SH40|A0A6M3SH40_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_19,35,high_risk,2,UniProt,tr|A0A6M3SIY9|A0A6M3SIY9_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_20,35,high_risk,2,UniProt,tr|A0A6M3S0C4|A0A6M3S0C4_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_21,35,high_risk,2,UniProt,tr|A0A6M3S3H8|A0A6M3S3H8_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_22,35,high_risk,2,UniProt,tr|A0A6M3S621|A0A6M3S621_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_23,35,high_risk,2,UniProt,tr|A0A6M3S9S0|A0A6M3S9S0_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_24,35,high_risk,2,UniProt,tr|A0A6M3S9W1|A0A6M3S9W1_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_25,35,high_risk,2,UniProt,tr|A0A6M3SA66|A0A6M3SA66_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_26,35,high_risk,2,UniProt,tr|A0A6M3S1X3|A0A6M3S1X3_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_27,35,high_risk,2,UniProt,tr|A0A6M3S2D1|A0A6M3S2D1_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_28,35,high_risk,2,UniProt,tr|A0A6M3S2N4|A0A6M3S2N4_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_29,35,high_risk,2,UniProt,tr|A0A6M3S2T0|A0A6M3S2T0_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_30,35,high_risk,2,UniProt,tr|A0A6M3S329|A0A6M3S329_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_31,35,high_risk,2,UniProt,tr|A0A6M3S3G9|A0A6M3S3G9_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_32,35,high_risk,2,UniProt,tr|A0A6M3S568|A0A6M3S568_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_33,35,high_risk,2,UniProt,tr|A0A6M3S637|A0A6M3S637_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_34,35,high_risk,2,UniProt,tr|A0A6M3S6M3|A0A6M3S6M3_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_35,35,high_risk,2,UniProt,tr|A0A6M3SAE6|A0A6M3SAE6_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_36,35,high_risk,2,UniProt,tr|A0A6M3SI16|A0A6M3SI16_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV35_UniProt_37,35,high_risk,2,UniProt,tr|A0A6M3SLH8|A0A6M3SLH8_HPV35,Human papillomavirus 35,Human papillomavirus,35,35,True,False,False,False,retain,ok
+HPV39_UniProt_1,39,high_risk,2,UniProt,sp|P24835|VE6_HPV39,Human papillomavirus 39,Human papillomavirus,39,39,True,False,False,False,retain,ok
+HPV39_UniProt_2,39,high_risk,2,UniProt,tr|T2A6K0|T2A6K0_HPV39,Human papillomavirus 39,Human papillomavirus,39,39,True,False,False,False,retain,ok
+HPV39_UniProt_3,39,high_risk,2,UniProt,tr|A0A516F0F1|A0A516F0F1_HPV39,Human papillomavirus 39,Human papillomavirus,39,39,True,False,False,False,retain,ok
+HPV39_UniProt_4,39,high_risk,2,UniProt,tr|T2A6G4|T2A6G4_HPV39,Human papillomavirus 39,Human papillomavirus,39,39,True,False,False,False,retain,ok
+HPV39_UniProt_5,39,high_risk,2,UniProt,tr|T2A6T1|T2A6T1_HPV39,Human papillomavirus 39,Human papillomavirus,39,39,True,False,False,False,retain,ok
+HPV39_UniProt_6,39,high_risk,2,UniProt,tr|T2A5Y4|T2A5Y4_HPV39,Human papillomavirus 39,Human papillomavirus,39,39,True,False,False,False,retain,ok
+HPV39_UniProt_7,39,high_risk,2,UniProt,sp|P54667|VE6_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_8,39,high_risk,2,UniProt,sp|P50804|VE6_HPV70,Human papillomavirus type 70,Human papillomavirus,70,70,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_9,39,high_risk,2,UniProt,tr|T2A5L5|T2A5L5_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_10,39,high_risk,2,UniProt,tr|T2A618|T2A618_HPV70,Human papillomavirus type 70,Human papillomavirus,70,70,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_11,39,high_risk,2,UniProt,tr|T2A6V4|T2A6V4_HPV70,Human papillomavirus type 70,Human papillomavirus,70,70,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_12,39,high_risk,2,UniProt,tr|T2A764|T2A764_HPV59,Human papillomavirus 59,Human papillomavirus,59,59,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_13,39,high_risk,2,UniProt,tr|T2A7H5|T2A7H5_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_14,39,high_risk,2,UniProt,tr|T2A7J1|T2A7J1_HPV70,Human papillomavirus type 70,Human papillomavirus,70,70,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_15,39,high_risk,2,UniProt,tr|T2A7Z1|T2A7Z1_HPV70,Human papillomavirus type 70,Human papillomavirus,70,70,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_16,39,high_risk,2,UniProt,tr|T2A6P1|T2A6P1_HPV70,Human papillomavirus type 70,Human papillomavirus,70,70,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_17,39,high_risk,2,UniProt,tr|T2A761|T2A761_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_18,39,high_risk,2,UniProt,tr|T2A7B1|T2A7B1_HPV70,Human papillomavirus type 70,Human papillomavirus,70,70,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_19,39,high_risk,2,UniProt,tr|T2A7H6|T2A7H6_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_20,39,high_risk,2,UniProt,tr|T2A7S6|T2A7S6_HPV70,Human papillomavirus type 70,Human papillomavirus,70,70,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_21,39,high_risk,2,UniProt,tr|T2A578|T2A578_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_22,39,high_risk,2,UniProt,tr|T2A6S8|T2A6S8_HPV59,Human papillomavirus 59,Human papillomavirus,59,59,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_23,39,high_risk,2,UniProt,tr|T2A7N0|T2A7N0_HPV70,Human papillomavirus type 70,Human papillomavirus,70,70,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_24,39,high_risk,2,UniProt,tr|T2A5U0|T2A5U0_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_25,39,high_risk,2,UniProt,tr|T2A778|T2A778_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_26,39,high_risk,2,UniProt,tr|Q81964|Q81964_HPV59,Human papillomavirus 59,Human papillomavirus,59,59,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_27,39,high_risk,2,UniProt,tr|A9XFM2|A9XFM2_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_UniProt_28,39,high_risk,2,UniProt,tr|Q7KYK8|Q7KYK8_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV39_NCBI_29,39,high_risk,2,NCBI,WAB53349.1,,human papillomavirus,39,,False,True,False,False,review,os_missing
+HPV45_UniProt_1,45,high_risk,2,UniProt,tr|W5RRX3|W5RRX3_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,False,False,retain,ok
+HPV45_UniProt_2,45,high_risk,2,UniProt,tr|W5RRX4|W5RRX4_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,False,False,retain,ok
+HPV45_UniProt_3,45,high_risk,2,UniProt,tr|W5RRZ7|W5RRZ7_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,False,False,retain,ok
+HPV45_UniProt_4,45,high_risk,2,UniProt,tr|A9XFU4|A9XFU4_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,False,False,retain,ok
+HPV45_UniProt_5,45,high_risk,2,UniProt,tr|W5RRW4|W5RRW4_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,False,False,retain,ok
+HPV45_UniProt_6,45,high_risk,2,UniProt,tr|W5RRW9|W5RRW9_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,False,False,retain,ok
+HPV45_UniProt_7,45,high_risk,2,UniProt,tr|W5RS62|W5RS62_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,False,False,retain,ok
+HPV45_UniProt_8,45,high_risk,2,UniProt,tr|A9XFT6|A9XFT6_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,False,False,retain,ok
+HPV45_UniProt_9,45,high_risk,2,UniProt,tr|W5RS27|W5RS27_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,False,False,retain,ok
+HPV45_UniProt_10,45,high_risk,2,UniProt,tr|W5RS42|W5RS42_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,False,False,retain,ok
+HPV45_UniProt_11,45,high_risk,2,UniProt,tr|W5RS47|W5RS47_HPV45,Human papillomavirus 45,Human papillomavirus,45,45,True,False,False,False,retain,ok
+HPV45_NCBI_12,45,high_risk,2,NCBI,XQW51486.1,,human papillomavirus,45,,False,True,False,False,review,os_missing
+HPV45_NCBI_13,45,high_risk,2,NCBI,XQW51465.1,,human papillomavirus,45,,False,True,False,False,review,os_missing
+HPV45_NCBI_14,45,high_risk,2,NCBI,XQW51457.1,,human papillomavirus,45,,False,True,False,False,review,os_missing
+HPV45_NCBI_15,45,high_risk,2,NCBI,XQW51391.1,,human papillomavirus,45,,False,True,False,False,review,os_missing
+HPV51_UniProt_1,51,high_risk,2,UniProt,sp|P26554|VE6_HPV51,Human papillomavirus 51,Human papillomavirus,51,51,True,False,False,False,retain,ok
+HPV51_UniProt_2,51,high_risk,2,UniProt,tr|A0A0P0E4W3|A0A0P0E4W3_HPV51,Human papillomavirus 51,Human papillomavirus,51,51,True,False,False,False,retain,ok
+HPV51_UniProt_3,51,high_risk,2,UniProt,tr|A0A0P0EXY3|A0A0P0EXY3_HPV51,Human papillomavirus 51,Human papillomavirus,51,51,True,False,False,False,retain,ok
+HPV51_UniProt_4,51,high_risk,2,UniProt,tr|A0A0P0E4T9|A0A0P0E4T9_HPV51,Human papillomavirus 51,Human papillomavirus,51,51,True,False,False,False,retain,ok
+HPV51_UniProt_5,51,high_risk,2,UniProt,tr|A0A3Q9K3N5|A0A3Q9K3N5_HPV51,Human papillomavirus 51,Human papillomavirus,51,51,True,False,False,False,retain,ok
+HPV51_UniProt_6,51,high_risk,2,UniProt,tr|A0A0P0EY08|A0A0P0EY08_HPV51,Human papillomavirus 51,Human papillomavirus,51,51,True,False,False,False,retain,ok
+HPV51_UniProt_7,51,high_risk,2,UniProt,tr|A0A3Q9K0D8|A0A3Q9K0D8_HPV51,Human papillomavirus 51,Human papillomavirus,51,51,True,False,False,False,retain,ok
+HPV52_UniProt_1,52,high_risk,2,UniProt,tr|A0A075LXC1|A0A075LXC1_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_2,52,high_risk,2,UniProt,tr|A0A075LY90|A0A075LY90_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_3,52,high_risk,2,UniProt,tr|A0A140FA89|A0A140FA89_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_4,52,high_risk,2,UniProt,tr|A0A140FA91|A0A140FA91_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_5,52,high_risk,2,UniProt,tr|A0A7U3RZD2|A0A7U3RZD2_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_6,52,high_risk,2,UniProt,tr|A5JT08|A5JT08_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_7,52,high_risk,2,UniProt,tr|F1ASS7|F1ASS7_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_8,52,high_risk,2,UniProt,tr|A0A075LY78|A0A075LY78_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_9,52,high_risk,2,UniProt,tr|A0A075LYP3|A0A075LYP3_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_10,52,high_risk,2,UniProt,tr|A0A075LYP9|A0A075LYP9_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_11,52,high_risk,2,UniProt,tr|A0A075M3D4|A0A075M3D4_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_12,52,high_risk,2,UniProt,tr|A0A075LXD4|A0A075LXD4_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_13,52,high_risk,2,UniProt,tr|A0A075LYU7|A0A075LYU7_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_14,52,high_risk,2,UniProt,tr|A0A140FA93|A0A140FA93_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_15,52,high_risk,2,UniProt,tr|A0A7U3NL89|A0A7U3NL89_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_16,52,high_risk,2,UniProt,tr|A5JSZ7|A5JSZ7_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_17,52,high_risk,2,UniProt,tr|A5JT09|A5JT09_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_18,52,high_risk,2,UniProt,tr|A0A075LXB5|A0A075LXB5_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_19,52,high_risk,2,UniProt,tr|A0A075M3B3|A0A075M3B3_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_20,52,high_risk,2,UniProt,tr|A0A140FAB1|A0A140FAB1_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_21,52,high_risk,2,UniProt,tr|A0A7L8YA30|A0A7L8YA30_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_22,52,high_risk,2,UniProt,tr|D0QAN0|D0QAN0_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_23,52,high_risk,2,UniProt,tr|Q4TUH6|Q4TUH6_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_24,52,high_risk,2,UniProt,tr|A0A075LY94|A0A075LY94_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_25,52,high_risk,2,UniProt,tr|A0A075M3D1|A0A075M3D1_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_26,52,high_risk,2,UniProt,tr|A0A140FA79|A0A140FA79_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_27,52,high_risk,2,UniProt,tr|A0A140FA81|A0A140FA81_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_28,52,high_risk,2,UniProt,tr|A0A410KJM7|A0A410KJM7_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_29,52,high_risk,2,UniProt,tr|C7DYE7|C7DYE7_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_30,52,high_risk,2,UniProt,tr|C7DYK7|C7DYK7_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_31,52,high_risk,2,UniProt,tr|A0A410KJP3|A0A410KJP3_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_32,52,high_risk,2,UniProt,tr|A0A410KJQ7|A0A410KJQ7_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_33,52,high_risk,2,UniProt,tr|A0A410KK13|A0A410KK13_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_34,52,high_risk,2,UniProt,tr|C7DYG7|C7DYG7_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_35,52,high_risk,2,UniProt,tr|A0A410KK98|A0A410KK98_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_36,52,high_risk,2,UniProt,tr|A0A8A5MZN5|A0A8A5MZN5_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_37,52,high_risk,2,UniProt,tr|C7DYF3|C7DYF3_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_38,52,high_risk,2,UniProt,tr|A0A410KK15|A0A410KK15_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_39,52,high_risk,2,UniProt,tr|A0A8A5MZP5|A0A8A5MZP5_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_40,52,high_risk,2,UniProt,tr|C7DYF9|C7DYF9_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_41,52,high_risk,2,UniProt,tr|C7DYG1|C7DYG1_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_UniProt_42,52,high_risk,2,UniProt,tr|C7DYH5|C7DYH5_HPV52,Human papillomavirus 52,Human papillomavirus,52,52,True,False,False,False,retain,ok
+HPV52_NCBI_43,52,high_risk,2,NCBI,WAB54303.1,,human papillomavirus,52,,False,True,False,False,review,os_missing
+HPV52_NCBI_44,52,high_risk,2,NCBI,WAB53964.1,,human papillomavirus,52,,False,True,False,False,review,os_missing
+HPV52_NCBI_45,52,high_risk,2,NCBI,WBU98565.1,,human papillomavirus,52,,False,True,False,False,review,os_missing
+HPV56_UniProt_1,56,high_risk,2,UniProt,sp|P24836|VE6_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_2,56,high_risk,2,UniProt,tr|A0A8G0D3T4|A0A8G0D3T4_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_3,56,high_risk,2,UniProt,tr|A9XCP7|A9XCP7_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_4,56,high_risk,2,UniProt,tr|A0A221SN96|A0A221SN96_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_5,56,high_risk,2,UniProt,tr|A9XCQ4|A9XCQ4_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_6,56,high_risk,2,UniProt,tr|A0A8G0D2S4|A0A8G0D2S4_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_7,56,high_risk,2,UniProt,tr|A9XCP0|A9XCP0_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_8,56,high_risk,2,UniProt,tr|A0A221SN86|A0A221SN86_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_9,56,high_risk,2,UniProt,tr|A0A8G0G6A1|A0A8G0G6A1_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_10,56,high_risk,2,UniProt,tr|Q4PZJ9|Q4PZJ9_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_11,56,high_risk,2,UniProt,tr|F8RC53|F8RC53_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_12,56,high_risk,2,UniProt,tr|F8RC54|F8RC54_HPV56,Human papillomavirus 56,Human papillomavirus,56,56,True,False,False,False,retain,ok
+HPV56_UniProt_13,56,high_risk,2,UniProt,tr|A9XCT9|A9XCT9_HPV66,Human papillomavirus 66,Human papillomavirus,66,66,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV56_UniProt_14,56,high_risk,2,UniProt,tr|Q4PZI9|Q4PZI9_HPV66,Human papillomavirus 66,Human papillomavirus,66,66,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV56_UniProt_15,56,high_risk,2,UniProt,tr|Q4PZJ2|Q4PZJ2_HPV66,Human papillomavirus 66,Human papillomavirus,66,66,True,False,True,True,exclude,type_mismatch_description;type_mismatch_accession
+HPV58_UniProt_1,58,high_risk,2,UniProt,tr|A0A2S0RQV4|A0A2S0RQV4_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_2,58,high_risk,2,UniProt,tr|A0A3G6ZEQ0|A0A3G6ZEQ0_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_3,58,high_risk,2,UniProt,tr|A0A3G6ZF56|A0A3G6ZF56_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_4,58,high_risk,2,UniProt,tr|A0A7G2A5L2|A0A7G2A5L2_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_5,58,high_risk,2,UniProt,tr|B8XNC2|B8XNC2_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_6,58,high_risk,2,UniProt,tr|F1ASR7|F1ASR7_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_7,58,high_risk,2,UniProt,tr|K9N0K6|K9N0K6_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_8,58,high_risk,2,UniProt,tr|A0N0A0|A0N0A0_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_9,58,high_risk,2,UniProt,tr|B6ZB46|B6ZB46_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_10,58,high_risk,2,UniProt,tr|K9N0L0|K9N0L0_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_11,58,high_risk,2,UniProt,tr|K9N0Q3|K9N0Q3_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_12,58,high_risk,2,UniProt,tr|A0A3G6ZEP5|A0A3G6ZEP5_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_13,58,high_risk,2,UniProt,tr|A0A3G6ZER6|A0A3G6ZER6_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_14,58,high_risk,2,UniProt,tr|F1ASR6|F1ASR6_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_15,58,high_risk,2,UniProt,tr|K9MY64|K9MY64_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_16,58,high_risk,2,UniProt,tr|Q9IZG5|Q9IZG5_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_17,58,high_risk,2,UniProt,tr|Q9IZG6|Q9IZG6_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_18,58,high_risk,2,UniProt,tr|A0A192YER6|A0A192YER6_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_19,58,high_risk,2,UniProt,tr|A0A3G6ZES4|A0A3G6ZES4_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_20,58,high_risk,2,UniProt,tr|A0A192YFF7|A0A192YFF7_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_21,58,high_risk,2,UniProt,tr|A0A2S1RD48|A0A2S1RD48_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_22,58,high_risk,2,UniProt,tr|A0A2S1RDA2|A0A2S1RDA2_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_23,58,high_risk,2,UniProt,tr|A0A8A5N3M4|A0A8A5N3M4_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_24,58,high_risk,2,UniProt,tr|A5JTS9|A5JTS9_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_25,58,high_risk,2,UniProt,tr|C7E4K8|C7E4K8_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_26,58,high_risk,2,UniProt,tr|C7E4M2|C7E4M2_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_27,58,high_risk,2,UniProt,tr|C7E4P2|C7E4P2_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_28,58,high_risk,2,UniProt,tr|C7E4P8|C7E4P8_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_29,58,high_risk,2,UniProt,tr|G5CCX1|G5CCX1_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_30,58,high_risk,2,UniProt,tr|G5CCY8|G5CCY8_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_31,58,high_risk,2,UniProt,tr|G5CCY9|G5CCY9_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_32,58,high_risk,2,UniProt,tr|A0A2S1RD63|A0A2S1RD63_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_33,58,high_risk,2,UniProt,tr|A0A2S1RD64|A0A2S1RD64_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_34,58,high_risk,2,UniProt,tr|A0A8A5N5T9|A0A8A5N5T9_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_35,58,high_risk,2,UniProt,tr|C6FFT5|C6FFT5_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_36,58,high_risk,2,UniProt,tr|G5CCX3|G5CCX3_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_37,58,high_risk,2,UniProt,tr|G5CCX6|G5CCX6_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_38,58,high_risk,2,UniProt,tr|G5CCY5|G5CCY5_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_39,58,high_risk,2,UniProt,tr|A0A2S1RD45|A0A2S1RD45_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_40,58,high_risk,2,UniProt,tr|A0A2S1RD66|A0A2S1RD66_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_41,58,high_risk,2,UniProt,tr|A5JSZ3|A5JSZ3_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_42,58,high_risk,2,UniProt,tr|G5CCY4|G5CCY4_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_43,58,high_risk,2,UniProt,tr|G5CCZ0|G5CCZ0_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_44,58,high_risk,2,UniProt,tr|A0A2S1RD74|A0A2S1RD74_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_45,58,high_risk,2,UniProt,tr|A0A2S1RD91|A0A2S1RD91_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_46,58,high_risk,2,UniProt,tr|A0A2S1RDA8|A0A2S1RDA8_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_47,58,high_risk,2,UniProt,tr|A0A2S1RD78|A0A2S1RD78_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_48,58,high_risk,2,UniProt,tr|G5CCZ2|G5CCZ2_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_49,58,high_risk,2,UniProt,tr|C7E4Q6|C7E4Q6_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_UniProt_50,58,high_risk,2,UniProt,tr|G5CCY0|G5CCY0_HPV58,Human papillomavirus 58,Human papillomavirus,58,58,True,False,False,False,retain,ok
+HPV58_NCBI_51,58,high_risk,2,NCBI,UYI34482.1,,human papillomavirus,58,,False,True,False,False,review,os_missing
+HPV59_UniProt_1,59,high_risk,2,UniProt,tr|B9UPD9|B9UPD9_HPV59,Human papillomavirus 59,Human papillomavirus,59,59,True,False,False,False,retain,ok
+HPV59_UniProt_2,59,high_risk,2,UniProt,tr|A0A7G2A8U3|A0A7G2A8U3_HPV59,Human papillomavirus 59,Human papillomavirus,59,59,True,False,False,False,retain,ok
+HPV59_UniProt_3,59,high_risk,2,UniProt,tr|A0A7L8YA57|A0A7L8YA57_HPV59,Human papillomavirus 59,Human papillomavirus,59,59,True,False,False,False,retain,ok
+HPV59_NCBI_4,59,high_risk,2,NCBI,WAB54311.1,,human papillomavirus,59,,False,True,False,False,review,os_missing
+HPV59_NCBI_5,59,high_risk,2,NCBI,WAB54058.1,,human papillomavirus,59,,False,True,False,False,review,os_missing
+HPV68_UniProt_1,68,high_risk,2,UniProt,tr|A0A6M3I6L7|A0A6M3I6L7_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,False,False,retain,ok
+HPV68_UniProt_2,68,high_risk,2,UniProt,tr|F0V4Q1|F0V4Q1_HPV68,Human papillomavirus type 68b,Human papillomavirus,68,68,True,False,False,False,retain,ok
+HPV68_UniProt_3,68,high_risk,2,UniProt,tr|A0A6M3I875|A0A6M3I875_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,False,False,retain,ok
+HPV68_UniProt_4,68,high_risk,2,UniProt,tr|B9UPF6|B9UPF6_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,False,False,retain,ok
+HPV68_UniProt_5,68,high_risk,2,UniProt,tr|A0A6B9WHT3|A0A6B9WHT3_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,False,False,retain,ok
+HPV68_UniProt_6,68,high_risk,2,UniProt,tr|A0A6M3I6M7|A0A6M3I6M7_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,False,False,retain,ok
+HPV68_UniProt_7,68,high_risk,2,UniProt,tr|A0A6M3I6W2|A0A6M3I6W2_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,False,False,retain,ok
+HPV68_UniProt_8,68,high_risk,2,UniProt,tr|A0A1X9RQY7|A0A1X9RQY7_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,False,False,retain,ok
+HPV68_UniProt_9,68,high_risk,2,UniProt,tr|A0A159DRQ8|A0A159DRQ8_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,False,False,retain,ok
+HPV68_UniProt_10,68,high_risk,2,UniProt,tr|A0A1X9RQZ9|A0A1X9RQZ9_HPV68,Human papillomavirus 68,Human papillomavirus,68,68,True,False,False,False,retain,ok
+HPV68_NCBI_11,68,high_risk,2,NCBI,WAB54381.1,,human papillomavirus,68,,False,True,False,False,review,os_missing
+HPV73_UniProt_1,73,high_risk,2,UniProt,tr|Q82005|Q82005_HPV73,Human papillomavirus 73,Human papillomavirus,73,73,True,False,False,False,retain,ok
+HPV73_UniProt_2,73,high_risk,2,UniProt,tr|A0A0P0ELG2|A0A0P0ELG2_HPV73,Human papillomavirus 73,Human papillomavirus,73,73,True,False,False,False,retain,ok
+HPV73_UniProt_3,73,high_risk,2,UniProt,tr|A0A0P0ERY1|A0A0P0ERY1_HPV73,Human papillomavirus 73,Human papillomavirus,73,73,True,False,False,False,retain,ok
+HPV73_UniProt_4,73,high_risk,2,UniProt,tr|A0A7G2A3Z1|A0A7G2A3Z1_HPV73,Human papillomavirus 73,Human papillomavirus,73,73,True,False,False,False,retain,ok
+HPV73_NCBI_5,73,high_risk,2,NCBI,WAB53769.1,,human papillomavirus,73,,False,True,False,False,review,os_missing
+HPV82_UniProt_1,82,high_risk,2,UniProt,tr|Q994A0|Q994A0_HPV82,Human papillomavirus 82,Human papillomavirus,82,82,True,False,False,False,retain,ok
+HPV82_UniProt_2,82,high_risk,2,UniProt,tr|Q9IR59|Q9IR59_HPV82,Human papillomavirus 82,Human papillomavirus,82,82,True,False,False,False,retain,ok
+HPV82_UniProt_3,82,high_risk,2,UniProt,tr|A0A024A7B6|A0A024A7B6_HPV82,Human papillomavirus 82,Human papillomavirus,82,82,True,False,False,False,retain,ok
+HPV82_UniProt_4,82,high_risk,2,UniProt,tr|A0A0P0EA63|A0A0P0EA63_HPV82,Human papillomavirus 82,Human papillomavirus,82,82,True,False,False,False,retain,ok
+HPV82_UniProt_5,82,high_risk,2,UniProt,tr|A0A0P0EZB7|A0A0P0EZB7_HPV82,Human papillomavirus 82,Human papillomavirus,82,82,True,False,False,False,retain,ok
+HPV6_UniProt_1,6,low_risk,1,UniProt,sp|P06462|VE6_HPV6B,Human papillomavirus type 6b,Human papillomavirus,6,6,True,False,False,False,retain,ok
+HPV6_UniProt_2,6,low_risk,1,UniProt,sp|Q84291|VE6_HPV6A,Human papillomavirus type 6a,Human papillomavirus,6,6,True,False,False,False,retain,ok
+HPV6_UniProt_3,6,low_risk,1,UniProt,tr|A0A024HUI3|A0A024HUI3_9PAPI,Human papillomavirus type 6,Human papillomavirus,6,,True,False,False,False,retain,ok
+HPV6_UniProt_4,6,low_risk,1,UniProt,tr|B6ZCR2|B6ZCR2_9PAPI,Human papillomavirus type 6,Human papillomavirus,6,,True,False,False,False,retain,ok
+HPV6_UniProt_5,6,low_risk,1,UniProt,tr|C8YJL2|C8YJL2_9PAPI,Canis familiaris papillomavirus 6,Canis familiaris papillomavirus,6,,False,False,False,False,exclude,non_human_os
+HPV6_UniProt_6,6,low_risk,1,UniProt,tr|M4HXI4|M4HXI4_9PAPI,Equus caballus papillomavirus 6,Equus caballus papillomavirus,6,,False,False,False,False,exclude,non_human_os
+HPV6_UniProt_7,6,low_risk,1,UniProt,tr|A0A386JT40|A0A386JT40_9PAPI,Macaca mulatta papillomavirus 6,Macaca mulatta papillomavirus,6,,False,False,False,False,exclude,non_human_os
+HPV6_UniProt_8,6,low_risk,1,UniProt,tr|A0A2I8B2P8|A0A2I8B2P8_9PAPI,Leptonychotes weddellii papillomavirus 6,Leptonychotes weddellii papillomavirus,6,,False,False,False,False,exclude,non_human_os
+HPV6_UniProt_9,6,low_risk,1,UniProt,tr|A0A6B9WFF0|A0A6B9WFF0_9PAPI,Felis catus papillomavirus 6,Felis catus papillomavirus,6,,False,False,False,False,exclude,non_human_os
+HPV6_UniProt_10,6,low_risk,1,UniProt,tr|H6UYP6|H6UYP6_PSPV,Tursiops truncatus papillomavirus 6,Tursiops truncatus papillomavirus,6,,False,False,False,False,exclude,non_human_os
+HPV6_UniProt_11,6,low_risk,1,UniProt,tr|C3PU80|C3PU80_RHPV1,Macaca fascicularis papillomavirus 6,Macaca fascicularis papillomavirus,6,,False,False,False,False,exclude,non_human_os
+HPV6_NCBI_12,6,low_risk,1,NCBI,QEE83769.1,,Human papillomavirus,6,,False,True,False,False,review,os_missing
+HPV6_NCBI_13,6,low_risk,1,NCBI,QEE83751.1,,Human papillomavirus,6,,False,True,False,False,review,os_missing
+HPV11_UniProt_1,11,low_risk,1,UniProt,sp|P04019|VE6_HPV11,Human papillomavirus 11,Human papillomavirus,11,11,True,False,False,False,retain,ok
+HPV11_UniProt_2,11,low_risk,1,UniProt,tr|A0A5B9GCR2|A0A5B9GCR2_HPV11,Human papillomavirus 11,Human papillomavirus,11,11,True,False,False,False,retain,ok
+HPV11_UniProt_3,11,low_risk,1,UniProt,tr|A0A0X8XK14|A0A0X8XK14_HPV11,Human papillomavirus 11,Human papillomavirus,11,11,True,False,False,False,retain,ok
+HPV11_UniProt_4,11,low_risk,1,UniProt,tr|A0A120N368|A0A120N368_HPV11,Human papillomavirus 11,Human papillomavirus,11,11,True,False,False,False,retain,ok
+HPV11_UniProt_5,11,low_risk,1,UniProt,tr|D7GM60|D7GM60_HPV11,Human papillomavirus 11,Human papillomavirus,11,11,True,False,False,False,retain,ok
+HPV11_UniProt_6,11,low_risk,1,UniProt,tr|A0A110BCX3|A0A110BCX3_HPV11,Human papillomavirus 11,Human papillomavirus,11,11,True,False,False,False,retain,ok
+HPV11_UniProt_7,11,low_risk,1,UniProt,tr|M4IQV7|M4IQV7_HPV11,Human papillomavirus 11,Human papillomavirus,11,11,True,False,False,False,retain,ok
+HPV11_UniProt_8,11,low_risk,1,UniProt,tr|M4QPW3|M4QPW3_HPV11,Human papillomavirus 11,Human papillomavirus,11,11,True,False,False,False,retain,ok
+HPV11_UniProt_9,11,low_risk,1,UniProt,tr|G4XF76|G4XF76_9PAPI,Canis familiaris papillomavirus 11,Canis familiaris papillomavirus,11,,False,False,False,False,exclude,non_human_os
+HPV11_UniProt_10,11,low_risk,1,UniProt,tr|C7DY53|C7DY53_RHPV1,Macaca fascicularis papillomavirus 11,Macaca fascicularis papillomavirus,11,,False,False,False,False,exclude,non_human_os
+HPV11_NCBI_11,11,low_risk,1,NCBI,WAB53507.1,,human papillomavirus,11,,False,True,False,False,review,os_missing
+HPV40_UniProt_1,40,low_risk,1,UniProt,sp|P36812|VE6_HPV40,Human papillomavirus 40,Human papillomavirus,40,40,True,False,False,False,retain,ok
+HPV40_UniProt_2,40,low_risk,1,UniProt,tr|I0JV17|I0JV17_HPV40,Human papillomavirus 40,Human papillomavirus,40,40,True,False,False,False,retain,ok
+HPV42_UniProt_1,42,low_risk,1,UniProt,sp|P27229|VE6_HPV42,Human papillomavirus 42,Human papillomavirus,42,42,True,False,False,False,retain,ok
+HPV42_UniProt_2,42,low_risk,1,UniProt,tr|A0A1P8NVT4|A0A1P8NVT4_HPV42,Human papillomavirus 42,Human papillomavirus,42,42,True,False,False,False,retain,ok
+HPV42_UniProt_3,42,low_risk,1,UniProt,tr|A0A7L8Y9N7|A0A7L8Y9N7_HPV42,Human papillomavirus 42,Human papillomavirus,42,42,True,False,False,False,retain,ok
+HPV42_UniProt_4,42,low_risk,1,UniProt,tr|I4GQ52|I4GQ52_HPV42,Human papillomavirus 42,Human papillomavirus,42,42,True,False,False,False,retain,ok
+HPV42_UniProt_5,42,low_risk,1,UniProt,tr|A0A7G2A5H0|A0A7G2A5H0_HPV42,Human papillomavirus 42,Human papillomavirus,42,42,True,False,False,False,retain,ok
+HPV42_UniProt_6,42,low_risk,1,UniProt,tr|A0A7G2A8H5|A0A7G2A8H5_HPV42,Human papillomavirus 42,Human papillomavirus,42,42,True,False,False,False,retain,ok
+HPV42_NCBI_7,42,low_risk,1,NCBI,WAB54545.1,,human papillomavirus,42,,False,True,False,False,review,os_missing
+HPV43_UniProt_1,43,low_risk,1,UniProt,sp|P19709|VE6_HPV43,Human papillomavirus 43,Human papillomavirus,43,43,True,False,False,False,retain,ok
+HPV43_UniProt_2,43,low_risk,1,UniProt,tr|A0A7G2A725|A0A7G2A725_HPV43,Human papillomavirus 43,Human papillomavirus,43,43,True,False,False,False,retain,ok
+HPV43_UniProt_3,43,low_risk,1,UniProt,tr|Q705I0|Q705I0_HPV43,Human papillomavirus 43,Human papillomavirus,43,43,True,False,False,False,retain,ok
+HPV43_NCBI_4,43,low_risk,1,NCBI,WAB54182.1,,human papillomavirus,43,,False,True,False,False,review,os_missing
+HPV44_UniProt_1,44,low_risk,1,UniProt,sp|P19710|VE6_HPV44,Human papillomavirus 44,Human papillomavirus,44,44,True,False,False,False,retain,ok
+HPV44_UniProt_2,44,low_risk,1,UniProt,tr|A0A1P8NVW2|A0A1P8NVW2_HPV44,Human papillomavirus 44,Human papillomavirus,44,44,True,False,False,False,retain,ok
+HPV44_UniProt_3,44,low_risk,1,UniProt,tr|A0A159DSY8|A0A159DSY8_HPV44,Human papillomavirus 44,Human papillomavirus,44,44,True,False,False,False,retain,ok
+HPV44_NCBI_4,44,low_risk,1,NCBI,WAB54191.1,,human papillomavirus,44,,False,True,False,False,review,os_missing
+HPV44_NCBI_5,44,low_risk,1,NCBI,WAB53871.1,,human papillomavirus,44,,False,True,False,False,review,os_missing
+HPV54_UniProt_1,54,low_risk,1,UniProt,sp|Q81018|VE6_HPV54,Human papillomavirus type 54,Human papillomavirus,54,54,True,False,False,False,retain,ok
+HPV54_UniProt_2,54,low_risk,1,UniProt,tr|A0A7G2A5T7|A0A7G2A5T7_HPV54,Human papillomavirus type 54,Human papillomavirus,54,54,True,False,False,False,retain,ok
+HPV54_UniProt_3,54,low_risk,1,UniProt,tr|A0A0N7I700|A0A0N7I700_HPV54,Human papillomavirus type 54,Human papillomavirus,54,54,True,False,False,False,retain,ok
+HPV54_UniProt_4,54,low_risk,1,UniProt,tr|A0A0P0EBW9|A0A0P0EBW9_HPV54,Human papillomavirus type 54,Human papillomavirus,54,54,True,False,False,False,retain,ok
+HPV54_UniProt_5,54,low_risk,1,UniProt,tr|A0A0P0EMI0|A0A0P0EMI0_HPV54,Human papillomavirus type 54,Human papillomavirus,54,54,True,False,False,False,retain,ok
+HPV54_UniProt_6,54,low_risk,1,UniProt,tr|A0A0P0F261|A0A0P0F261_HPV54,Human papillomavirus type 54,Human papillomavirus,54,54,True,False,False,False,retain,ok
+HPV54_UniProt_7,54,low_risk,1,UniProt,tr|A0A7L8YA29|A0A7L8YA29_HPV54,Human papillomavirus type 54,Human papillomavirus,54,54,True,False,False,False,retain,ok
+HPV54_UniProt_8,54,low_risk,1,UniProt,tr|Q8B5X7|Q8B5X7_HPV54,Human papillomavirus type 54,Human papillomavirus,54,54,True,False,False,False,retain,ok
+HPV54_UniProt_9,54,low_risk,1,UniProt,tr|A0A0P0ET30|A0A0P0ET30_HPV54,Human papillomavirus type 54,Human papillomavirus,54,54,True,False,False,False,retain,ok
+HPV54_UniProt_10,54,low_risk,1,UniProt,tr|A0A0P0F0X1|A0A0P0F0X1_HPV54,Human papillomavirus type 54,Human papillomavirus,54,54,True,False,False,False,retain,ok
+HPV54_UniProt_11,54,low_risk,1,UniProt,tr|A0A159DT70|A0A159DT70_HPV54,Human papillomavirus type 54,Human papillomavirus,54,54,True,False,False,False,retain,ok
+HPV61_UniProt_1,61,low_risk,1,UniProt,sp|Q80948|VE6_HPV61,Human papillomavirus type 61,Human papillomavirus,61,61,True,False,False,False,retain,ok
+HPV61_UniProt_2,61,low_risk,1,UniProt,tr|A0A0P0E491|A0A0P0E491_HPV61,Human papillomavirus type 61,Human papillomavirus,61,61,True,False,False,False,retain,ok
+HPV61_UniProt_3,61,low_risk,1,UniProt,tr|A0A0P0EB78|A0A0P0EB78_HPV61,Human papillomavirus type 61,Human papillomavirus,61,61,True,False,False,False,retain,ok
+HPV61_UniProt_4,61,low_risk,1,UniProt,tr|A0A7G2A955|A0A7G2A955_HPV61,Human papillomavirus type 61,Human papillomavirus,61,61,True,False,False,False,retain,ok
+HPV61_UniProt_5,61,low_risk,1,UniProt,tr|A0A0P0E4B5|A0A0P0E4B5_HPV61,Human papillomavirus type 61,Human papillomavirus,61,61,True,False,False,False,retain,ok
+HPV61_UniProt_6,61,low_risk,1,UniProt,tr|A0A0P0EGB0|A0A0P0EGB0_HPV61,Human papillomavirus type 61,Human papillomavirus,61,61,True,False,False,False,retain,ok
+HPV61_NCBI_7,61,low_risk,1,NCBI,WAB54489.1,,Human papillomavirus,61,,False,True,False,False,review,os_missing
+HPV72_UniProt_1,72,low_risk,1,UniProt,tr|A0A059U6J0|A0A059U6J0_HPV72,Human papillomavirus type 72b,Human papillomavirus,72,72,True,False,False,False,retain,ok
+HPV72_UniProt_2,72,low_risk,1,UniProt,tr|Q81997|Q81997_HPV72,Human papillomavirus 72,Human papillomavirus,72,72,True,False,False,False,retain,ok
+HPV72_NCBI_3,72,low_risk,1,NCBI,WAB54238.1,,human papillomavirus,72,,False,True,False,False,review,os_missing
+HPV81_UniProt_1,81,low_risk,1,UniProt,tr|D7NT04|D7NT04_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_2,81,low_risk,1,UniProt,tr|D7NT07|D7NT07_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_3,81,low_risk,1,UniProt,tr|D7NT15|D7NT15_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_4,81,low_risk,1,UniProt,tr|D7NT21|D7NT21_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_5,81,low_risk,1,UniProt,tr|D7NSZ0|D7NSZ0_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_6,81,low_risk,1,UniProt,tr|D7NT23|D7NT23_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_7,81,low_risk,1,UniProt,tr|D7NT02|D7NT02_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_8,81,low_risk,1,UniProt,tr|D7NT19|D7NT19_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_9,81,low_risk,1,UniProt,tr|D7NT22|D7NT22_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_10,81,low_risk,1,UniProt,tr|D7NSZ7|D7NSZ7_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_11,81,low_risk,1,UniProt,tr|D7NT06|D7NT06_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_12,81,low_risk,1,UniProt,tr|D7NT14|D7NT14_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_13,81,low_risk,1,UniProt,tr|D7NSY6|D7NSY6_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_14,81,low_risk,1,UniProt,tr|D7NSY7|D7NSY7_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_15,81,low_risk,1,UniProt,tr|D7NSZ5|D7NSZ5_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_16,81,low_risk,1,UniProt,tr|Q705E9|Q705E9_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_17,81,low_risk,1,UniProt,tr|A0A1P8NVU8|A0A1P8NVU8_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_UniProt_18,81,low_risk,1,UniProt,tr|A0A159DSL0|A0A159DSL0_9PAPI,human papillomavirus 81,human papillomavirus,81,,True,False,False,False,retain,ok
+HPV81_NCBI_19,81,low_risk,1,NCBI,WAB54503.1,,human papillomavirus,81,,False,True,False,False,review,os_missing
+HPV81_NCBI_20,81,low_risk,1,NCBI,WAB54341.1,,human papillomavirus,81,,False,True,False,False,review,os_missing
+HPV1_UniProt_1,1,low_risk,1,UniProt,sp|P06929|VE6_HPV1,Human papillomavirus type 1,Human papillomavirus,1,1,True,False,False,False,retain,ok
+HPV1_UniProt_2,1,low_risk,1,UniProt,sp|P03128|VE6_OVPVD,Odocoileus virginianus papillomavirus 1,Odocoileus virginianus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_3,1,low_risk,1,UniProt,sp|P22159|VE6_MMPV1,Macaca mulata papillomavirus 1,Macaca mulata papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_4,1,low_risk,1,UniProt,tr|G1C9I3|G1C9I3_9PAPI,Peromyscus papillomavirus 1,Peromyscus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_5,1,low_risk,1,UniProt,tr|A0A2S0SZ15|A0A2S0SZ15_9PAPI,Mouse papillomavirus 1,Mouse papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_6,1,low_risk,1,UniProt,tr|A0A977TGN0|A0A977TGN0_9PAPI,Varecia variegata papillomavirus 1,Varecia variegata papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_7,1,low_risk,1,UniProt,tr|A0AAU6S4Y1|A0AAU6S4Y1_9PAPI,Plecotus austriacus papillomavirus 1,Plecotus austriacus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_8,1,low_risk,1,UniProt,tr|A0AAD2KR50|A0AAD2KR50_9PAPI,Manis javanica papillomavirus 1,Manis javanica papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_9,1,low_risk,1,UniProt,tr|A0AAU6S4W0|A0AAU6S4W0_9PAPI,Barbastella barbastellus papillomavirus 1,Barbastella barbastellus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_10,1,low_risk,1,UniProt,tr|A0A1I9KI84|A0A1I9KI84_9PAPI,Pudu puda papillomavirus 1,Pudu puda papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_11,1,low_risk,1,UniProt,tr|A0A346CL00|A0A346CL00_9PAPI,Boa constrictor papillomavirus 1,Boa constrictor papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_12,1,low_risk,1,UniProt,tr|A2T933|A2T933_9PAPI,Macaca fascicularis papillomavirus 1,Macaca fascicularis papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_13,1,low_risk,1,UniProt,tr|B5SPY6|B5SPY6_9PAPI,Sus scrofa papillomavirus 1,Sus scrofa papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_14,1,low_risk,1,UniProt,tr|F2X1C2|F2X1C2_9PAPI,Zalophus californianus papillomavirus 1,Zalophus californianus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_15,1,low_risk,1,UniProt,tr|F8SIM3|F8SIM3_9PAPI,Apodemus sylvaticus papillomavirus 1,Apodemus sylvaticus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_16,1,low_risk,1,UniProt,tr|I3RWJ5|I3RWJ5_9PAPI,Cervus elaphus papillomavirus 1,Cervus elaphus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_17,1,low_risk,1,UniProt,tr|I3VR45|I3VR45_9PAPI,Myotis ricketti papillomavirus 1,Myotis ricketti papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_18,1,low_risk,1,UniProt,tr|I6LEI2|I6LEI2_9PAPI,Lynx rufus papillomavirus 1,Lynx rufus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_19,1,low_risk,1,UniProt,tr|Q0QII1|Q0QII1_9PAPI,Rousettus aegyptiacus papillomavirus 1,Rousettus aegyptiacus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_20,1,low_risk,1,UniProt,tr|Q4QW04|Q4QW04_9PAPI,Procyon lotor papillomavirus 1,Procyon lotor papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_21,1,low_risk,1,UniProt,tr|Q5UUY5|Q5UUY5_9PAPI,Trichechus manatus papillomavirus 1,Trichechus manatus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_22,1,low_risk,1,UniProt,tr|Q8BDR5|Q8BDR5_9PAPI,Rangifer tarandus papillomavirus 1,Rangifer tarandus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_23,1,low_risk,1,UniProt,tr|S4TH17|S4TH17_9PAPI,Eidolon helvum papillomavirus 1,Eidolon helvum papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_24,1,low_risk,1,UniProt,tr|A0A0A7BVM4|A0A0A7BVM4_9PAPI,Vulpes vulpes papillomavirus 1,Vulpes vulpes papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_25,1,low_risk,1,UniProt,tr|A0A1L3GV97|A0A1L3GV97_9PAPI,Giraffa camelopardalis papillomavirus 1,Giraffa camelopardalis papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_26,1,low_risk,1,UniProt,tr|A0A220IGE0|A0A220IGE0_9PAPI,Ailuropoda melanoleuca papillomavirus 1,Ailuropoda melanoleuca papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_27,1,low_risk,1,UniProt,tr|A0A7T3TYS2|A0A7T3TYS2_9PAPI,Sus scrofa papillomavirus 1,Sus scrofa papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_28,1,low_risk,1,UniProt,tr|B2KKW7|B2KKW7_9PAPI,Ursus maritimus papillomavirus 1,Ursus maritimus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_29,1,low_risk,1,UniProt,tr|B7TQN7|B7TQN7_9PAPI,Erinaceus europaeus papillomavirus 1,Erinaceus europaeus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_30,1,low_risk,1,UniProt,tr|Q77DW1|Q77DW1_9PAPI,Felis domesticus papillomavirus 1,Felis domesticus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_31,1,low_risk,1,UniProt,tr|X2DH07|X2DH07_9PAPI,Rupicapra rupicapra papillomavirus 1,Rupicapra rupicapra papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_32,1,low_risk,1,UniProt,tr|A0A0X9JL94|A0A0X9JL94_9PAPI,Rusa timorensis papillomavirus 1,Rusa timorensis papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_33,1,low_risk,1,UniProt,tr|A0A7T3P0K0|A0A7T3P0K0_9PAPI,Sus scrofa papillomavirus 1,Sus scrofa papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_34,1,low_risk,1,UniProt,tr|A0A8E8HST6|A0A8E8HST6_9PAPI,Phodopus sungorus papillomavirus 1,Phodopus sungorus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_35,1,low_risk,1,UniProt,tr|B3ST90|B3ST90_9PAPI,Capreolus capreolus papillomavirus 1,Capreolus capreolus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_36,1,low_risk,1,UniProt,tr|D6N1B8|D6N1B8_9PAPI,Bettongia penicillata papillomavirus 1,Bettongia penicillata papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_37,1,low_risk,1,UniProt,tr|I6LEI9|I6LEI9_9PAPI,Puma concolor papillomavirus 1,Puma concolor papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_38,1,low_risk,1,UniProt,tr|Q1I127|Q1I127_9PAPI,Capra hircus papillomavirus 1,Capra hircus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_39,1,low_risk,1,UniProt,tr|R9RYF5|R9RYF5_9PAPI,Talpa europaea papillomavirus 1,Talpa europaea papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_40,1,low_risk,1,UniProt,tr|V9P7V8|V9P7V8_9PAPI,Castor canadensis papillomavirus 1,Castor canadensis papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_41,1,low_risk,1,UniProt,tr|W5QK87|W5QK87_9PAPI,Saimiri sciureus papillomavirus 1,Saimiri sciureus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_42,1,low_risk,1,UniProt,tr|W8E8M7|W8E8M7_9PAPI,Rhinolophus ferrumequinum papillomavirus 1,Rhinolophus ferrumequinum papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_43,1,low_risk,1,UniProt,tr|W8EFZ2|W8EFZ2_9PAPI,Eptesicus serotinus papillomavirus 1,Eptesicus serotinus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_44,1,low_risk,1,UniProt,tr|J9R367|J9R367_9PAPI,Miniopterus schreibersii papillomavirus 1,Miniopterus schreibersii papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_45,1,low_risk,1,UniProt,tr|Q9J032|Q9J032_9PAPI,Oryctolagus cuniculus papillomavirus 1,Oryctolagus cuniculus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_46,1,low_risk,1,UniProt,tr|U6ELC8|U6ELC8_9PAPI,Mesocricetus auratus papillomavirus 1,Mesocricetus auratus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_47,1,low_risk,1,UniProt,tr|W8ZLK3|W8ZLK3_9PAPI,Phodopus sungorus papillomavirus 1,Phodopus sungorus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_48,1,low_risk,1,UniProt,tr|A0A140CC03|A0A140CC03_9PAPI,Alouatta guariba papillomavirus 1,Alouatta guariba papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_49,1,low_risk,1,UniProt,tr|B4XYE0|B4XYE0_9PAPI,Tursiops truncatus papillomavirus 1,Tursiops truncatus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_50,1,low_risk,1,UniProt,tr|B5SPY1|B5SPY1_9PAPI,Sus scrofa papillomavirus 1,Sus scrofa papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_51,1,low_risk,1,UniProt,tr|G3DRD0|G3DRD0_9PAPI,Morelia spilota papillomavirus 1,Morelia spilota papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_52,1,low_risk,1,UniProt,tr|I3VR50|I3VR50_9PAPI,Miniopterus schreibersii papillomavirus 1,Miniopterus schreibersii papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_53,1,low_risk,1,UniProt,tr|J7F282|J7F282_9PAPI,Crocuta crocuta papillomavirus 1,Crocuta crocuta papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_54,1,low_risk,1,UniProt,tr|Q5IRF6|Q5IRF6_9PAPI,Erethizon dorsatum papillomavirus 1,Erethizon dorsatum papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_55,1,low_risk,1,UniProt,tr|T1YEN4|T1YEN4_9PAPI,Mustela putorius papillomavirus 1,Mustela putorius papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_56,1,low_risk,1,UniProt,tr|F8QPQ1|F8QPQ1_9PAPI,Colobus guereza papillomavirus 1,Colobus guereza papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_57,1,low_risk,1,UniProt,tr|A0A2I2MP70|A0A2I2MP70_9PAPI,Molossus molossus papillomavirus 1,Molossus molossus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_58,1,low_risk,1,UniProt,tr|A0A2I8B2N2|A0A2I8B2N2_9PAPI,Leptonychotes weddellii papillomavirus 1,Leptonychotes weddellii papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_59,1,low_risk,1,UniProt,tr|A0AAF1D2G5|A0AAF1D2G5_9PAPI,Tree shrew papillomavirus 1,Tree shrew papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_60,1,low_risk,1,UniProt,tr|A0A346LUY1|A0A346LUY1_9PAPI,Okapia johnstoni papillomavirus 1,Okapia johnstoni papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_61,1,low_risk,1,UniProt,tr|A0AAE7USU4|A0AAE7USU4_9PAPI,Martes foina papillomavirus 1,Martes foina papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_62,1,low_risk,1,UniProt,tr|J7K078|J7K078_BPV1,Bos grunniens papillomavirus 1,Bos grunniens papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_63,1,low_risk,1,UniProt,tr|A0A5Q2F330|A0A5Q2F330_9PAPI,Tadarida brasiliensis papillomavirus 1,Tadarida brasiliensis papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_64,1,low_risk,1,UniProt,tr|F2VIQ6|F2VIQ6_PSPV,Phocoena phocoena papillomavirus 1,Phocoena phocoena papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_65,1,low_risk,1,UniProt,tr|A0A142K3E9|A0A142K3E9_RHPV1,Macaca fuscata papillomavirus 1,Macaca fuscata papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_66,1,low_risk,1,UniProt,tr|H9LBT7|H9LBT7_RHPV1,Papio hamadryas papillomavirus 1,Papio hamadryas papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_67,1,low_risk,1,UniProt,tr|W8R5Y7|W8R5Y7_9PAPI,Enhydra lutris papillomavirus 1,Enhydra lutris papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_68,1,low_risk,1,UniProt,tr|A0A386N959|A0A386N959_9PAPI,Panthera leo persica papillomavirus 1,Panthera leo persica papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_69,1,low_risk,1,UniProt,tr|I6LEJ6|I6LEJ6_9PAPI,Panthera leo persica papillomavirus 1,Panthera leo persica papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_70,1,low_risk,1,UniProt,tr|A0A5J6SH17|A0A5J6SH17_ECPV1,Equus caballus papillomavirus 1,Equus caballus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_71,1,low_risk,1,UniProt,tr|A0A291Q086|A0A291Q086_ECPV1,Equus caballus papillomavirus 1,Equus caballus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_72,1,low_risk,1,UniProt,tr|C8AY89|C8AY89_RNPV1,Rattus norvegicus papillomavirus 1 (isolate Rat/Germany/Schulz/2009),Rattus norvegicus papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_73,1,low_risk,1,UniProt,tr|A0A3G1RNV8|A0A3G1RNV8_BPV1,Bovine papillomavirus type 1,Bovine papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_74,1,low_risk,1,UniProt,tr|F2VIQ0|F2VIQ0_9PAPI,Delphinus delphis papillomavirus,,,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_75,1,low_risk,1,UniProt,tr|A0A0S2KP94|A0A0S2KP94_9PAPI,Deltapapillomavirus 5,Deltapapillomavirus,5,,False,False,True,False,exclude,non_human_os;type_mismatch_description
+HPV1_UniProt_76,1,low_risk,1,UniProt,tr|B4XYE7|B4XYE7_9PAPI,Tursiops truncatus papillomavirus type 3,Tursiops truncatus papillomavirus,3,,False,False,True,False,exclude,non_human_os;type_mismatch_description
+HPV1_UniProt_77,1,low_risk,1,UniProt,tr|F2VIS4|F2VIS4_9PAPI,Lagenorhynchus acutus papillomavirus,,,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_78,1,low_risk,1,UniProt,tr|A0A2H4P4P8|A0A2H4P4P8_BPV1,Bovine papillomavirus type 1,Bovine papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_79,1,low_risk,1,UniProt,tr|G3XG99|G3XG99_BPV1,Bovine papillomavirus type 1,Bovine papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_80,1,low_risk,1,UniProt,tr|F2YGG8|F2YGG8_9PAPI,Camelus dromedarius papillomavirus 1,Camelus dromedarius papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV1_UniProt_81,1,low_risk,1,UniProt,tr|A0A7D7QNK9|A0A7D7QNK9_9PAPI,Camelus dromedarius papillomavirus 1,Camelus dromedarius papillomavirus,1,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_1,2,low_risk,1,UniProt,sp|P25484|VE6_HPV2A,Human papillomavirus type 2a,Human papillomavirus,2,2,True,False,False,False,retain,ok
+HPV2_UniProt_2,2,low_risk,1,UniProt,sp|P11302|VE6_BPV2,Bos taurus papillomavirus 2,Bos taurus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_3,2,low_risk,1,UniProt,tr|A0A088CB23|A0A088CB23_BPV2,Bos taurus papillomavirus 2,Bos taurus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_4,2,low_risk,1,UniProt,tr|A0A159ZTD8|A0A159ZTD8_BPV2,Bos taurus papillomavirus 2,Bos taurus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_5,2,low_risk,1,UniProt,tr|S5QFQ2|S5QFQ2_BPV2,Bos taurus papillomavirus 2,Bos taurus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_6,2,low_risk,1,UniProt,tr|A0A182BAE7|A0A182BAE7_9PAPI,Cervus papillomavirus 2,Cervus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_7,2,low_risk,1,UniProt,tr|A0AAU6S4U0|A0AAU6S4U0_9PAPI,Rhinolophus ferrumequinum papillomavirus 2,Rhinolophus ferrumequinum papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_8,2,low_risk,1,UniProt,tr|A0A977TGP8|A0A977TGP8_9PAPI,Varecia variegata papillomavirus 2,Varecia variegata papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_9,2,low_risk,1,UniProt,tr|A0A385AHQ9|A0A385AHQ9_9PAPI,Macaca mulatta papillomavirus 2,Macaca mulatta papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_10,2,low_risk,1,UniProt,tr|G5DGL6|G5DGL6_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_11,2,low_risk,1,UniProt,tr|Q647I1|Q647I1_9PAPI,Canis familiaris papillomavirus 2,Canis familiaris papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_12,2,low_risk,1,UniProt,tr|A0A1I9KHY4|A0A1I9KHY4_9PAPI,Cervus elaphus papillomavirus 2,Cervus elaphus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_13,2,low_risk,1,UniProt,tr|A0A1S5SGN5|A0A1S5SGN5_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_14,2,low_risk,1,UniProt,tr|A0A1S5SGN6|A0A1S5SGN6_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_15,2,low_risk,1,UniProt,tr|B8R1U7|B8R1U7_9PAPI,Felis domesticus papillomavirus 2,Felis domesticus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_16,2,low_risk,1,UniProt,tr|C0ITA5|C0ITA5_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_17,2,low_risk,1,UniProt,tr|F2VIR2|F2VIR2_9PAPI,Phocoena phocoena papillomavirus 2,Phocoena phocoena papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_18,2,low_risk,1,UniProt,tr|F2YGH5|F2YGH5_9PAPI,Camelus dromedarius papillomavirus 2,Camelus dromedarius papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_19,2,low_risk,1,UniProt,tr|G5DGJ0|G5DGJ0_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_20,2,low_risk,1,UniProt,tr|G5DGK2|G5DGK2_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_21,2,low_risk,1,UniProt,tr|S5RRZ1|S5RRZ1_9PAPI,Rangifer tarandus papillomavirus 2,Rangifer tarandus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_22,2,low_risk,1,UniProt,tr|W5QK81|W5QK81_9PAPI,Saimiri sciureus papillomavirus 2,Saimiri sciureus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_23,2,low_risk,1,UniProt,tr|W8EC56|W8EC56_9PAPI,Eptesicus serotinus papillomavirus 2,Eptesicus serotinus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_24,2,low_risk,1,UniProt,tr|A0A220IGF3|A0A220IGF3_9PAPI,Ailuropoda melanoleuca papillomavirus 2,Ailuropoda melanoleuca papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_25,2,low_risk,1,UniProt,tr|G5DGM0|G5DGM0_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_26,2,low_risk,1,UniProt,tr|A0A1S5SGQ7|A0A1S5SGQ7_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_27,2,low_risk,1,UniProt,tr|F8QPP4|F8QPP4_9PAPI,Macaca fascicularis papillomavirus 2,Macaca fascicularis papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_28,2,low_risk,1,UniProt,tr|Q06RH5|Q06RH5_9PAPI,Mastomys coucha papillomavirus 2,Mastomys coucha papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_29,2,low_risk,1,UniProt,tr|Q1XA75|Q1XA75_9PAPI,Tursiops truncatus papillomavirus 2,Tursiops truncatus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_30,2,low_risk,1,UniProt,tr|A0A1P8YVV8|A0A1P8YVV8_9PAPI,Eidolon helvum papillomavirus 2,Eidolon helvum papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_31,2,low_risk,1,UniProt,tr|A0A3R5T5Q3|A0A3R5T5Q3_9PAPI,Macaca fuscata papillomavirus 2,Macaca fuscata papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_32,2,low_risk,1,UniProt,tr|F8QPQ7|F8QPQ7_9PAPI,Colobus guereza papillomavirus 2,Colobus guereza papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_33,2,low_risk,1,UniProt,tr|A0A2I8B2R8|A0A2I8B2R8_9PAPI,Leptonychotes weddellii papillomavirus 2,Leptonychotes weddellii papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_34,2,low_risk,1,UniProt,tr|A0A2Z5END3|A0A2Z5END3_9PAPI,Erethizon dorsatum papillomavirus 2,Erethizon dorsatum papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_35,2,low_risk,1,UniProt,tr|F8SIN0|F8SIN0_MNPV,Rattus norvegicus papillomavirus 2,Rattus norvegicus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_36,2,low_risk,1,UniProt,tr|A0AAE6D0N9|A0AAE6D0N9_9PAPI,Tree shrew papillomavirus 2,Tree shrew papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_37,2,low_risk,1,UniProt,tr|A0A223FQT7|A0A223FQT7_9PAPI,Sus scrofa papillomavirus 2,Sus scrofa papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_38,2,low_risk,1,UniProt,tr|A0A385KLK0|A0A385KLK0_MNPV,Rattus norvegicus papillomavirus 2,Rattus norvegicus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_39,2,low_risk,1,UniProt,tr|A0A482EWD4|A0A482EWD4_9PAPI,Equus asinus papillomavirus 2,Equus asinus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_40,2,low_risk,1,UniProt,tr|H6UYR2|H6UYR2_9PAPI,Trichechus manatus latirostris papillomavirus 2,Trichechus manatus latirostris papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_41,2,low_risk,1,UniProt,tr|A0AA51X1Y9|A0AA51X1Y9_9PAPI,Enhydra lutris kenyoni papillomavirus 2,Enhydra lutris kenyoni papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_42,2,low_risk,1,UniProt,tr|E0YQZ1|E0YQZ1_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_43,2,low_risk,1,UniProt,tr|E0YQY8|E0YQY8_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_44,2,low_risk,1,UniProt,tr|E0YQY9|E0YQY9_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_45,2,low_risk,1,UniProt,tr|E0YQZ0|E0YQZ0_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_46,2,low_risk,1,UniProt,tr|E0YQY7|E0YQY7_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_47,2,low_risk,1,UniProt,tr|A0A6G9HF45|A0A6G9HF45_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_48,2,low_risk,1,UniProt,tr|A0A2H4V133|A0A2H4V133_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_49,2,low_risk,1,UniProt,tr|F2W8D6|F2W8D6_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_50,2,low_risk,1,UniProt,tr|A0A2H4V124|A0A2H4V124_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_UniProt_51,2,low_risk,1,UniProt,tr|A0A2H4V119|A0A2H4V119_9PAPI,Equus caballus papillomavirus 2,Equus caballus papillomavirus,2,,False,False,False,False,exclude,non_human_os
+HPV2_NCBI_52,2,low_risk,1,NCBI,QLM04842.1,,Human papillomavirus,2,,False,True,False,False,review,os_missing
+HPV3_UniProt_1,3,low_risk,1,UniProt,sp|P36799|VE6_HPV03,Human papillomavirus 3,Human papillomavirus,3,03,True,False,False,True,exclude,type_mismatch_accession
+HPV3_UniProt_2,3,low_risk,1,UniProt,tr|A0A1P8YVT7|A0A1P8YVT7_9PAPI,Eidolon helvum papillomavirus 3,Eidolon helvum papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_3,3,low_risk,1,UniProt,tr|D5FL25|D5FL25_9PAPI,Ovis aries papillomavirus 3,Ovis aries papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_4,3,low_risk,1,UniProt,tr|Q0QLX6|Q0QLX6_9PAPI,Canis familiaris papillomavirus 3,Canis familiaris papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_5,3,low_risk,1,UniProt,tr|R4V0R3|R4V0R3_9PAPI,Felis catus papillomavirus 3,Felis catus papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_6,3,low_risk,1,UniProt,tr|W8EAB1|W8EAB1_9PAPI,Eptesicus serotinus papillomavirus 3,Eptesicus serotinus papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_7,3,low_risk,1,UniProt,tr|A0A385AH96|A0A385AH96_9PAPI,Macaca mulatta papillomavirus 3,Macaca mulatta papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_8,3,low_risk,1,UniProt,tr|E7C0H0|E7C0H0_9PAPI,Equus caballus papillomavirus 3,Equus caballus papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_9,3,low_risk,1,UniProt,tr|W5QK95|W5QK95_9PAPI,Saimiri sciureus papillomavirus 3,Saimiri sciureus papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_10,3,low_risk,1,UniProt,tr|A0A7D7QBQ1|A0A7D7QBQ1_9PAPI,Camelus dromedarius papillomavirus 3,Camelus dromedarius papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_11,3,low_risk,1,UniProt,tr|A0A0S2LUM1|A0A0S2LUM1_MNPV,Rattus norvegicus papillomavirus 3,Rattus norvegicus papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_12,3,low_risk,1,UniProt,tr|A0A2I8B2R0|A0A2I8B2R0_9PAPI,Leptonychotes weddellii papillomavirus 3,Leptonychotes weddellii papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_13,3,low_risk,1,UniProt,tr|C3PU72|C3PU72_RHPV1,Macaca fascicularis papillomavirus 3,Macaca fascicularis papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV3_UniProt_14,3,low_risk,1,UniProt,tr|A0A0F6RAR4|A0A0F6RAR4_9PAPI,Trichechus manatus latirostris papillomavirus 3,Trichechus manatus latirostris papillomavirus,3,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_1,4,low_risk,1,UniProt,sp|Q07854|VE6_HPV04,Human papillomavirus 4,Human papillomavirus,4,04,True,False,False,True,exclude,type_mismatch_accession
+HPV4_UniProt_2,4,low_risk,1,UniProt,tr|A0A8E4IHF3|A0A8E4IHF3_HPV04,Human papillomavirus 4,Human papillomavirus,4,04,True,False,False,True,exclude,type_mismatch_accession
+HPV4_UniProt_3,4,low_risk,1,UniProt,tr|F2VIS0|F2VIS0_9PAPI,Phocoena phocoena papillomavirus 4,Phocoena phocoena papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_4,4,low_risk,1,UniProt,tr|T2D2X0|T2D2X0_9PAPI,Felis catus papillomavirus 4,Felis catus papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_5,4,low_risk,1,UniProt,tr|A0A220IGE9|A0A220IGE9_9PAPI,Ailuropoda melanoleuca papillomavirus 4,Ailuropoda melanoleuca papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_6,4,low_risk,1,UniProt,tr|A0A385AH15|A0A385AH15_9PAPI,Macaca mulatta papillomavirus 4,Macaca mulatta papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_7,4,low_risk,1,UniProt,tr|K9M8S7|K9M8S7_9PAPI,Equus caballus papillomavirus 4,Equus caballus papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_8,4,low_risk,1,UniProt,tr|A0A220IGG1|A0A220IGG1_9PAPI,Ailuropoda melanoleuca papillomavirus 4,Ailuropoda melanoleuca papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_9,4,low_risk,1,UniProt,tr|A9XNH2|A9XNH2_9PAPI,Canis familiaris papillomavirus 4,Canis familiaris papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_10,4,low_risk,1,UniProt,tr|H6UYN2|H6UYN2_9PAPI,Tursiops truncatus papillomavirus 4,Tursiops truncatus papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_11,4,low_risk,1,UniProt,tr|A0A8D5WVS3|A0A8D5WVS3_9PAPI,Felis catus papillomavirus 4,Felis catus papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_12,4,low_risk,1,UniProt,tr|A0A2I8B2Q6|A0A2I8B2Q6_9PAPI,Leptonychotes weddellii papillomavirus 4,Leptonychotes weddellii papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_13,4,low_risk,1,UniProt,tr|C3PU88|C3PU88_RHPV1,Macaca fascicularis papillomavirus 4,Macaca fascicularis papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_14,4,low_risk,1,UniProt,tr|A0A0F6TNA3|A0A0F6TNA3_9PAPI,Trichechus manatus latirostris papillomavirus 4,Trichechus manatus latirostris papillomavirus,4,,False,False,False,False,exclude,non_human_os
+HPV4_UniProt_15,4,low_risk,1,UniProt,tr|A0A4P8PJC4|A0A4P8PJC4_HPV04,Human papillomavirus 4,Human papillomavirus,4,04,True,False,False,True,exclude,type_mismatch_accession
+HPV5_UniProt_1,5,low_risk,1,UniProt,sp|P26556|VE6_HPV5B,Human papillomavirus type 5b,Human papillomavirus,5,5,True,False,False,False,retain,ok
+HPV5_UniProt_2,5,low_risk,1,UniProt,sp|P06930|VE6_HPV05,Human papillomavirus 5,Human papillomavirus,5,05,True,False,False,True,exclude,type_mismatch_accession
+HPV5_UniProt_3,5,low_risk,1,UniProt,tr|Q81985|Q81985_HPV05,Human papillomavirus 5,Human papillomavirus,5,05,True,False,False,True,exclude,type_mismatch_accession
+HPV5_UniProt_4,5,low_risk,1,UniProt,tr|Q81986|Q81986_HPV05,Human papillomavirus 5,Human papillomavirus,5,05,True,False,False,True,exclude,type_mismatch_accession
+HPV5_UniProt_5,5,low_risk,1,UniProt,tr|Q81962|Q81962_HPV05,Human papillomavirus 5,Human papillomavirus,5,05,True,False,False,True,exclude,type_mismatch_accession
+HPV5_UniProt_6,5,low_risk,1,UniProt,tr|R9QCH1|R9QCH1_HPV05,Human papillomavirus 5,Human papillomavirus,5,05,True,False,False,True,exclude,type_mismatch_accession
+HPV5_UniProt_7,5,low_risk,1,UniProt,tr|K9M9L6|K9M9L6_9PAPI,Equus caballus papillomavirus 5,Equus caballus papillomavirus,5,,False,False,False,False,exclude,non_human_os
+HPV5_UniProt_8,5,low_risk,1,UniProt,tr|A0A386JT03|A0A386JT03_9PAPI,Macaca mulatta papillomavirus 5,Macaca mulatta papillomavirus,5,,False,False,False,False,exclude,non_human_os
+HPV5_UniProt_9,5,low_risk,1,UniProt,tr|C8YJK5|C8YJK5_9PAPI,Canis familiaris papillomavirus 5,Canis familiaris papillomavirus,5,,False,False,False,False,exclude,non_human_os
+HPV5_UniProt_10,5,low_risk,1,UniProt,tr|A0A2I8B2Q0|A0A2I8B2Q0_9PAPI,Leptonychotes weddellii papillomavirus 5,Leptonychotes weddellii papillomavirus,5,,False,False,False,False,exclude,non_human_os
+HPV5_UniProt_11,5,low_risk,1,UniProt,tr|H6UYN9|H6UYN9_PSPV,Tursiops truncatus papillomavirus 5,Tursiops truncatus papillomavirus,5,,False,False,False,False,exclude,non_human_os
+HPV5_UniProt_12,5,low_risk,1,UniProt,tr|C3PUA4|C3PUA4_RHPV1,Macaca fascicularis papillomavirus 5,Macaca fascicularis papillomavirus,5,,False,False,False,False,exclude,non_human_os
+HPV5_NCBI_13,5,low_risk,1,NCBI,AAA79436.1,,human papillomavirus,36,,False,True,True,False,exclude,os_missing;type_mismatch_description
+HPV5_NCBI_14,5,low_risk,1,NCBI,CAA52696.1,,Human papillomavirus,5,,False,True,False,False,review,os_missing
+HPV7_UniProt_1,7,low_risk,1,UniProt,sp|P36800|VE6_HPV07,Human papillomavirus 7,Human papillomavirus,7,07,True,False,False,True,exclude,type_mismatch_accession
+HPV7_UniProt_2,7,low_risk,1,UniProt,tr|H6UYQ3|H6UYQ3_9PAPI,Tursiops truncatus papillomavirus 7,Tursiops truncatus papillomavirus,7,,False,False,False,False,exclude,non_human_os
+HPV7_UniProt_3,7,low_risk,1,UniProt,tr|M4HXD6|M4HXD6_9PAPI,Equus caballus papillomavirus 7,Equus caballus papillomavirus,7,,False,False,False,False,exclude,non_human_os
+HPV7_UniProt_4,7,low_risk,1,UniProt,tr|A0A386JTE6|A0A386JTE6_9PAPI,Macaca mulatta papillomavirus 7,Macaca mulatta papillomavirus,7,,False,False,False,False,exclude,non_human_os
+HPV7_UniProt_5,7,low_risk,1,UniProt,tr|C8YJJ8|C8YJJ8_9PAPI,Canis familiaris papillomavirus 7,Canis familiaris papillomavirus,7,,False,False,False,False,exclude,non_human_os
+HPV7_UniProt_6,7,low_risk,1,UniProt,tr|A0A2I8B2P4|A0A2I8B2P4_9PAPI,Leptonychotes weddellii papillomavirus 7,Leptonychotes weddellii papillomavirus,7,,False,False,False,False,exclude,non_human_os
+HPV7_UniProt_7,7,low_risk,1,UniProt,tr|C3PU64|C3PU64_RHPV1,Macaca fascicularis papillomavirus 7,Macaca fascicularis papillomavirus,7,,False,False,False,False,exclude,non_human_os
+HPV7_UniProt_8,7,low_risk,1,UniProt,tr|A0A097A5Y7|A0A097A5Y7_9PAPI,Bos taurus papillomavirus 7,Bos taurus papillomavirus,7,,False,False,False,False,exclude,non_human_os
+HPV7_UniProt_9,7,low_risk,1,UniProt,tr|Q30BJ3|Q30BJ3_9PAPI,Bos taurus papillomavirus 7,Bos taurus papillomavirus,7,,False,False,False,False,exclude,non_human_os
+HPV8_UniProt_1,8,low_risk,1,UniProt,sp|P06428|VE6_HPV08,Human papillomavirus type 8,Human papillomavirus,8,08,True,False,False,True,exclude,type_mismatch_accession
+HPV8_UniProt_2,8,low_risk,1,UniProt,tr|A0A1D9EPU9|A0A1D9EPU9_9PAPI,Equus caballus papillomavirus 8,Equus caballus papillomavirus,8,,False,False,False,False,exclude,non_human_os
+HPV8_UniProt_3,8,low_risk,1,UniProt,tr|G3DRD7|G3DRD7_9PAPI,Canis familiaris papillomavirus 8,Canis familiaris papillomavirus,8,,False,False,False,False,exclude,non_human_os
+HPV8_UniProt_4,8,low_risk,1,UniProt,tr|A0A3G6V9D7|A0A3G6V9D7_9PAPI,Bos taurus papillomavirus 8,Bos taurus papillomavirus,8,,False,False,False,False,exclude,non_human_os
+HPV8_UniProt_5,8,low_risk,1,UniProt,tr|A6XA91|A6XA91_9PAPI,Bos taurus papillomavirus 8,Bos taurus papillomavirus,8,,False,False,False,False,exclude,non_human_os
+HPV8_UniProt_6,8,low_risk,1,UniProt,tr|C3PU96|C3PU96_RHPV1,Macaca fascicularis papillomavirus 8,Macaca fascicularis papillomavirus,8,,False,False,False,False,exclude,non_human_os
+HPV9_UniProt_1,9,low_risk,1,UniProt,sp|P36801|VE6_HPV09,Human papillomavirus 9,Human papillomavirus,9,09,True,False,False,True,exclude,type_mismatch_accession
+HPV9_UniProt_2,9,low_risk,1,UniProt,tr|G4XF62|G4XF62_9PAPI,Canis familiaris papillomavirus 9,Canis familiaris papillomavirus,9,,False,False,False,False,exclude,non_human_os
+HPV9_UniProt_3,9,low_risk,1,UniProt,tr|C3RUC9|C3RUC9_RHPV1,Macaca fascicularis papillomavirus 9,Macaca fascicularis papillomavirus,9,,False,False,False,False,exclude,non_human_os
+HPV9_UniProt_4,9,low_risk,1,UniProt,tr|A0A5B8KHC7|A0A5B8KHC7_9PAPI,Equus caballus papillomavirus 9,Equus caballus papillomavirus,9,,False,False,False,False,exclude,non_human_os
+HPV10_UniProt_1,10,low_risk,1,UniProt,sp|P36802|VE6_HPV10,Human papillomavirus type 10,Human papillomavirus,10,10,True,False,False,False,retain,ok
+HPV10_UniProt_2,10,low_risk,1,UniProt,tr|G4XF69|G4XF69_9PAPI,Canis familiaris papillomavirus 10,Canis familiaris papillomavirus,10,,False,False,False,False,exclude,non_human_os
+HPV10_UniProt_3,10,low_risk,1,UniProt,tr|C3RUC1|C3RUC1_RHPV1,Macaca fascicularis papillomavirus 10,Macaca fascicularis papillomavirus,10,,False,False,False,False,exclude,non_human_os
+HPV12_UniProt_1,12,low_risk,1,UniProt,sp|P36803|VE6_HPV12,Human papillomavirus 12,Human papillomavirus,12,12,True,False,False,False,retain,ok
+HPV12_UniProt_2,12,low_risk,1,UniProt,tr|I3UJK6|I3UJK6_9PAPI,Canis familiaris papillomavirus 12,Canis familiaris papillomavirus,12,,False,False,False,False,exclude,non_human_os
+HPV13_UniProt_1,13,low_risk,1,UniProt,sp|Q02269|VE6_HPV13,Human papillomavirus 13,Human papillomavirus,13,13,True,False,False,False,retain,ok
+HPV13_UniProt_2,13,low_risk,1,UniProt,tr|A0A7T0IGP4|A0A7T0IGP4_HPV13,Human papillomavirus 13,Human papillomavirus,13,13,True,False,False,False,retain,ok
+HPV13_UniProt_3,13,low_risk,1,UniProt,tr|Q2I2S4|Q2I2S4_HPV13,Human papillomavirus 13,Human papillomavirus,13,13,True,False,False,False,retain,ok
+HPV13_UniProt_4,13,low_risk,1,UniProt,tr|J7JLS2|J7JLS2_9PAPI,Canis familiaris papillomavirus 13,Canis familiaris papillomavirus,13,,False,False,False,False,exclude,non_human_os
+HPV13_UniProt_5,13,low_risk,1,UniProt,tr|A0A088QCM9|A0A088QCM9_BPV1,Bos taurus papillomavirus 13,Bos taurus papillomavirus,13,,False,False,False,False,exclude,non_human_os
+HPV13_UniProt_6,13,low_risk,1,UniProt,tr|J9V4T2|J9V4T2_BPV1,Bos taurus papillomavirus 13,Bos taurus papillomavirus,13,,False,False,False,False,exclude,non_human_os
+HPV13_UniProt_7,13,low_risk,1,UniProt,tr|A0A1B2K1Z3|A0A1B2K1Z3_BPV1,Bos taurus papillomavirus 13,Bos taurus papillomavirus,13,,False,False,False,False,exclude,non_human_os
+HPV13_UniProt_8,13,low_risk,1,UniProt,tr|A0A3G2FR37|A0A3G2FR37_BPV1,Bos taurus papillomavirus 13,Bos taurus papillomavirus,13,,False,False,False,False,exclude,non_human_os
+HPV14_UniProt_1,14,low_risk,1,UniProt,sp|P28830|VE6_HPV14,Human papillomavirus 14,Human papillomavirus,14,14,True,False,False,False,retain,ok
+HPV14_UniProt_2,14,low_risk,1,UniProt,tr|K7QHS6|K7QHS6_9PAPI,Canis familiaris papillomavirus 14,Canis familiaris papillomavirus,14,,False,False,False,False,exclude,non_human_os
+HPV14_UniProt_3,14,low_risk,1,UniProt,tr|A0A0E3SXR2|A0A0E3SXR2_BPV1,Bos taurus papillomavirus 14,Bos taurus papillomavirus,14,,False,False,False,False,exclude,non_human_os
+HPV15_UniProt_1,15,low_risk,1,UniProt,sp|P36804|VE6_HPV15,Human papillomavirus 15,Human papillomavirus,15,15,True,False,False,False,retain,ok
+HPV15_UniProt_2,15,low_risk,1,UniProt,tr|L0CK42|L0CK42_9PAPI,Canis familiaris papillomavirus 15,Canis familiaris papillomavirus,15,,False,False,False,False,exclude,non_human_os
+HPV17_UniProt_1,17,low_risk,1,UniProt,sp|P36805|VE6_HPV17,Human papillomavirus 17,Human papillomavirus,17,17,True,False,False,False,retain,ok
+HPV17_UniProt_2,17,low_risk,1,UniProt,tr|A0A0E3SU95|A0A0E3SU95_HPV17,Human papillomavirus 17,Human papillomavirus,17,17,True,False,False,False,retain,ok
+HPV17_UniProt_3,17,low_risk,1,UniProt,tr|R9QBR7|R9QBR7_HPV17,Human papillomavirus 17,Human papillomavirus,17,17,True,False,False,False,retain,ok
+HPV17_UniProt_4,17,low_risk,1,UniProt,tr|A0A0U4K543|A0A0U4K543_9PAPI,Canis familiaris papillomavirus 17,Canis familiaris papillomavirus,17,,False,False,False,False,exclude,non_human_os
+HPV17_UniProt_5,17,low_risk,1,UniProt,tr|A0A1B2K2A2|A0A1B2K2A2_9PAPI,Bos taurus papillomavirus 17,Bos taurus papillomavirus,17,,False,False,False,False,exclude,non_human_os
+HPV19_UniProt_1,19,low_risk,1,UniProt,sp|P36806|VE6_HPV19,Human papillomavirus 19,Human papillomavirus,19,19,True,False,False,False,retain,ok
+HPV19_UniProt_2,19,low_risk,1,UniProt,tr|A0A1C9J6P2|A0A1C9J6P2_9PAPI,Canis familiaris papillomavirus 19,Canis familiaris papillomavirus,19,,False,False,False,False,exclude,non_human_os
+HPV19_UniProt_3,19,low_risk,1,UniProt,tr|A0A1B2K209|A0A1B2K209_9PAPI,Bos taurus papillomavirus 19,Bos taurus papillomavirus,19,,False,False,False,False,exclude,non_human_os
+HPV20_UniProt_1,20,low_risk,1,UniProt,sp|P28831|VE6_HPV20,Human papillomavirus 20,Human papillomavirus,20,20,True,False,False,False,retain,ok
+HPV20_UniProt_2,20,low_risk,1,UniProt,tr|A0A1Z1G708|A0A1Z1G708_HPV20,Human papillomavirus 20,Human papillomavirus,20,20,True,False,False,False,retain,ok
+HPV20_UniProt_3,20,low_risk,1,UniProt,tr|A0A142FK13|A0A142FK13_9PAPI,Canis familiaris papillomavirus 20,Canis familiaris papillomavirus,20,,False,False,False,False,exclude,non_human_os
+HPV20_UniProt_4,20,low_risk,1,UniProt,tr|A0A1B2K212|A0A1B2K212_9PAPI,Bos taurus papillomavirus 20,Bos taurus papillomavirus,20,,False,False,False,False,exclude,non_human_os
+HPV21_UniProt_1,21,low_risk,1,UniProt,sp|P28832|VE6_HPV21,Human papillomavirus 21,Human papillomavirus,21,21,True,False,False,False,retain,ok
+HPV21_UniProt_2,21,low_risk,1,UniProt,tr|A0A346M191|A0A346M191_9PAPI,Canine papillomavirus 21,Canine papillomavirus,21,,False,False,False,False,exclude,non_human_os
+HPV21_UniProt_3,21,low_risk,1,UniProt,tr|A0A1B2K238|A0A1B2K238_9PAPI,Bos taurus papillomavirus 21,Bos taurus papillomavirus,21,,False,False,False,False,exclude,non_human_os
+HPV22_UniProt_1,22,low_risk,1,UniProt,sp|P50775|VE6_HPV22,Human papillomavirus 22,Human papillomavirus,22,22,True,False,False,False,retain,ok
+HPV22_UniProt_2,22,low_risk,1,UniProt,tr|A0A346M198|A0A346M198_9PAPI,Canine papillomavirus 22,Canine papillomavirus,22,,False,False,False,False,exclude,non_human_os
+HPV23_UniProt_1,23,low_risk,1,UniProt,sp|P50776|VE6_HPV23,Human papillomavirus 23,Human papillomavirus,23,23,True,False,False,False,retain,ok
+HPV23_UniProt_2,23,low_risk,1,UniProt,tr|A0A1V0CLX5|A0A1V0CLX5_HPV23,Human papillomavirus 23,Human papillomavirus,23,23,True,False,False,False,retain,ok
+HPV23_UniProt_3,23,low_risk,1,UniProt,tr|A0A346M1A5|A0A346M1A5_9PAPI,Canine papillomavirus 23,Canine papillomavirus,23,,False,False,False,False,exclude,non_human_os
+HPV24_UniProt_1,24,low_risk,1,UniProt,sp|P50777|VE6_HPV24,Human papillomavirus 24,Human papillomavirus,24,24,True,False,False,False,retain,ok
+HPV24_UniProt_2,24,low_risk,1,UniProt,tr|A0A3G8G7N4|A0A3G8G7N4_BPV5,Bovine papillomavirus type 5,Bovine papillomavirus,5,,False,False,True,False,exclude,non_human_os;type_mismatch_description
+HPV25_UniProt_1,25,low_risk,1,UniProt,sp|P28833|VE6_HPV25,Human papillomavirus 25,Human papillomavirus,25,25,True,False,False,False,retain,ok
+HPV25_UniProt_2,25,low_risk,1,UniProt,tr|A0A343W6T9|A0A343W6T9_9PAPI,Bos taurus papillomavirus 25,Bos taurus papillomavirus,25,,False,False,False,False,exclude,non_human_os
+HPV27_UniProt_1,27,low_risk,1,UniProt,sp|P36808|VE6_HPV27,Human papillomavirus 27,Human papillomavirus,27,27,True,False,False,False,retain,ok
+HPV27_UniProt_2,27,low_risk,1,UniProt,tr|Q4H2F3|Q4H2F3_HPV27,Human papillomavirus type 27b,Human papillomavirus,27,27,True,False,False,False,retain,ok
+HPV28_UniProt_1,28,low_risk,1,UniProt,sp|P50802|VE6_HPV28,Human papillomavirus 28,Human papillomavirus,28,28,True,False,False,False,retain,ok
+HPV29_UniProt_1,29,low_risk,1,UniProt,sp|P50803|VE6_HPV29,Human papillomavirus 29,Human papillomavirus,29,29,True,False,False,False,retain,ok
+HPV30_UniProt_1,30,low_risk,1,UniProt,sp|P36809|VE6_HPV30,Human papillomavirus 30,Human papillomavirus,30,30,True,False,False,False,retain,ok
+HPV30_UniProt_2,30,low_risk,1,UniProt,tr|A0A0P0EAZ7|A0A0P0EAZ7_HPV30,Human papillomavirus 30,Human papillomavirus,30,30,True,False,False,False,retain,ok
+HPV30_UniProt_3,30,low_risk,1,UniProt,tr|A0A0P0ES90|A0A0P0ES90_HPV30,Human papillomavirus 30,Human papillomavirus,30,30,True,False,False,False,retain,ok
+HPV30_UniProt_4,30,low_risk,1,UniProt,tr|A0A0P0F064|A0A0P0F064_HPV30,Human papillomavirus 30,Human papillomavirus,30,30,True,False,False,False,retain,ok
+HPV30_UniProt_5,30,low_risk,1,UniProt,tr|A0A0P0F1F6|A0A0P0F1F6_HPV30,Human papillomavirus 30,Human papillomavirus,30,30,True,False,False,False,retain,ok
+HPV30_UniProt_6,30,low_risk,1,UniProt,tr|A0A161D377|A0A161D377_HPV30,Human papillomavirus 30,Human papillomavirus,30,30,True,False,False,False,retain,ok

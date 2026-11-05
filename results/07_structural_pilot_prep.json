@@ -1,0 +1,61 @@
+{
+  "generated": "2026-10-25T22:47:06",
+  "ligand": "CHEMBL46917",
+  "docked_poses_in_out_pdbqt": 9,
+  "vina_scores_kcal_mol": [
+    -5.875,
+    -5.853,
+    -5.798,
+    -5.75,
+    -5.727
+  ],
+  "pose_pdb_written": "rebuild_20261025/data/pilot/CHEMBL46917_pose1.pdb",
+  "docked_pose_atoms": 16,
+  "undocked_uploaded_atoms": 26,
+  "atom_count_match": false,
+  "centroid_shift_A": 72.041,
+  "rmsd_after_superposition_A": 2.819,
+  "interpretation": "The previous MM-PBSA run used docking_results_full/4GIZ/<LIG>.pdb (the undocked input, not a Vina pose) as the MD starting structure. A 72 A centroid shift shows the uploaded structure is not even in the receptor frame of the docked pose. Caveat: the PDBQT pose carries polar hydrogens only (16 atoms) while the uploaded PDB has 26, so the RMSD below is computed on the first min(N) atoms in file order, not on a verified atom mapping; the centroid shift, not the RMSD, is the decisive evidence.",
+  "zn_and_receptor_inventory": {
+    "rec_clean.pdb": {
+      "exists": false
+    },
+    "zn1.pdb": {
+      "exists": false
+    },
+    "zn2.pdb": {
+      "exists": false
+    },
+    ".workbuddy/_remote_rec_clean.pdb": {
+      "exists": true,
+      "zn_atoms": 0,
+      "cys_residues": 60
+    },
+    ".workbuddy/4GIZ_E6_single_clean.pdb": {
+      "exists": true,
+      "zn_atoms": 2,
+      "cys_residues": 60
+    },
+    ".workbuddy/4GIZ_full.pdb": {
+      "exists": true,
+      "zn_atoms": 4,
+      "cys_residues": 120
+    },
+    "ZN.mol2": {
+      "exists": false,
+      "bytes": 0
+    },
+    ".workbuddy/ZN.mol2": {
+      "exists": true,
+      "bytes": 137
+    }
+  },
+  "pilot_checklist": [
+    "1 receptor conformation only (rec_clean.pdb, fixed protonation)",
+    "1-2 Vina poses for 1 candidate (data/pilot/<LIG>_pose1.pdb)",
+    "1 Zn model decision recorded up-front: non-bonded (Li/Merz) vs bonded/dummy; if the scientific target is chelation, a fixed tetra-coordinated model is not evidence",
+    "fix LEaP atom order: receptor -> Zn ions -> ligand, and record it in the run log",
+    "verify ligand charge/protonation before tleap (antechamber/resp)",
+    "acceptance gate: both Zn sites stay 4-coordinated and the initial contact persists in a short run; otherwise stop and fix the model, do not extend sampling"
+  ]
+}

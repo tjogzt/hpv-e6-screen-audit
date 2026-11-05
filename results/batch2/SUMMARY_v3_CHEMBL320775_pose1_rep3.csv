@@ -1,0 +1,2 @@
+CHEMBL,replica,seed,delta_H_PB_kcal_mol,dG_gas,dG_solv,lig_net_charge,charge_source,n_frames,zn_pass_rate,zn_mean_min4_dist,qc_pass,prod_ns,status,notes,minutes
+CHEMBL320775_pose1,3,102843,NA,NA,NA,0,charge_table,1001,1.0,0.241,0,20.0,QC_LIG_UNSTABLE,throughput=285.7ns/day | kept 207/1001 frames | 配体不稳定：仅保留 207 帧 < 500,109.8

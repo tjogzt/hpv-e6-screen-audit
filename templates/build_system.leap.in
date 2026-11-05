@@ -1,0 +1,43 @@
+# build_system.leap.in — tleap input for the bonded ZAFF/CYM HPV16 E6 receptor
+# Faithful extraction of the template used by code/24_zn_model_test.py (model zaff_cym),
+# code/12_pipeline_v3.py and code/16_pipeline_v3_amber.py for batch 2 and GaMD.
+#
+# Prerequisites in the working directory (all under templates/ of this archive):
+#   rec_cym.pdb            receptor with the 8 coordinating cysteines renamed CYM
+#                          (produced from rec_clean.pdb by renaming CYS->CYM at
+#                          residues 30, 33, 63, 66, 103, 106, 136, 139)
+#   zn1_chainC.pdb         Zn ion 1, chain C, residue 144 (from zn1.pdb)
+#   zn2_chainC.pdb         Zn ion 2, chain C, residue 145 (from zn2.pdb)
+#   ZN.mol2                Zn unit definition (charge +2)
+#   zaff_reconstructed.frcmod
+#
+# Coordination (verified against 4GIZ coordinates; see manuscript section 2.5):
+#   Zn@144 (zn1, PDB residue 201) <- Cys103, Cys106, Cys136, Cys139
+#   Zn@145 (zn2, PDB residue 202) <- Cys30,  Cys33,  Cys63,  Cys66
+
+source leaprc.protein.ff19SB
+source leaprc.gaff2
+source leaprc.water.tip3p
+loadAmberParams zaff_reconstructed.frcmod
+ZN = loadmol2 ZN.mol2
+rec = loadpdb rec_cym.pdb
+z1 = loadpdb zn1_chainC.pdb
+z2 = loadpdb zn2_chainC.pdb
+sys = combine { rec z1 z2 }
+# Zn@144 <- Cys103/106/136/139
+bond sys.103.SG sys.144.ZN
+bond sys.106.SG sys.144.ZN
+bond sys.136.SG sys.144.ZN
+bond sys.139.SG sys.144.ZN
+# Zn@145 <- Cys30/33/63/66
+bond sys.30.SG sys.145.ZN
+bond sys.33.SG sys.145.ZN
+bond sys.63.SG sys.145.ZN
+bond sys.66.SG sys.145.ZN
+charge sys
+check sys
+solvatebox sys TIP3PBOX 12.0
+addions sys Cl- 0
+addions sys Na+ 0
+saveamberparm sys sys.prmtop sys.inpcrd
+quit

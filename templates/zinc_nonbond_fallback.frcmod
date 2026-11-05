@@ -1,0 +1,6 @@
+Zn2+ non-bonded 12-6 (Li/Merz) fallback for E6 zinc fingers (pre-registered substitute)
+MASS
+ZN    65.37                        zinc
+
+NONBON
+  ZN      1.1000  0.0125           Zn2+ 12-6 Li/Merz class; charge +2 from ZN.mol2

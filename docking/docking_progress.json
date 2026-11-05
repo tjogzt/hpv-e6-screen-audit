@@ -1,0 +1,72 @@
+[
+  {
+    "ligand_id": "CHEMBL283639",
+    "success": true,
+    "timestamp": "2025-10-07T03:53:24.821192",
+    "best_affinity": -0.007,
+    "best_rmsd": 0.0
+  },
+  {
+    "ligand_id": "CHEMBL29609",
+    "success": true,
+    "timestamp": "2025-10-07T03:53:39.438802",
+    "best_affinity": -0.002,
+    "best_rmsd": 0.0
+  },
+  {
+    "ligand_id": "CHEMBL46917",
+    "success": true,
+    "timestamp": "2025-10-07T03:53:48.787606",
+    "best_affinity": -0.0,
+    "best_rmsd": 0.0
+  },
+  {
+    "ligand_id": "CHEMBL1129",
+    "success": true,
+    "timestamp": "2025-10-07T03:54:07.135571",
+    "best_affinity": -0.0,
+    "best_rmsd": 0.0
+  },
+  {
+    "ligand_id": "CHEMBL1090",
+    "success": true,
+    "timestamp": "2025-10-07T03:54:22.753901",
+    "best_affinity": 0.0,
+    "best_rmsd": 0.0
+  },
+  {
+    "ligand_id": "CHEMBL184",
+    "success": true,
+    "timestamp": "2025-10-07T03:54:34.462026",
+    "best_affinity": 0.0,
+    "best_rmsd": 0.0
+  },
+  {
+    "ligand_id": "CHEMBL118218",
+    "success": true,
+    "timestamp": "2025-10-07T03:54:46.309005",
+    "best_affinity": 0.0,
+    "best_rmsd": 0.0
+  },
+  {
+    "ligand_id": "CHEMBL320775",
+    "success": true,
+    "timestamp": "2025-10-07T03:55:01.507743",
+    "best_affinity": -0.0,
+    "best_rmsd": 0.0
+  },
+  {
+    "ligand_id": "CHEMBL4650485",
+    "success": true,
+    "timestamp": "2025-10-07T03:55:33.402416",
+    "best_affinity": -0.003,
+    "best_rmsd": 0.0
+  },
+  {
+    "ligand_id": "CHEMBL119",
+    "success": true,
+    "timestamp": "2025-10-07T03:55:54.003114",
+    "best_affinity": -0.0,
+    "best_rmsd": 0.0
+  }
+]

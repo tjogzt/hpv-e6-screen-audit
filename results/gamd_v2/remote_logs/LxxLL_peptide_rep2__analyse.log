@@ -1,0 +1,13 @@
+/root/miniconda3/envs/gamd/lib/python3.10/site-packages/MDAnalysis/coordinates/XDR.py:253: UserWarning: Reload offsets from trajectory
+ ctime or size or n_atoms did not match
+  warnings.warn(
+[LxxLL_peptide_rep2] molecules: system1[0:2386], system2[2386:2662], Cl-[2662:2663], Cl-[2663:2664]  ... total=33843/33843 OK
+[LxxLL_peptide_rep2] ligand heavy=139 protein heavy=1200 CA=142 residues=144 atoms=33843
+[LxxLL_peptide_rep2] reference = trajectory frame 0 (ligand 139 heavy atoms, interface CA 24)
+  [LxxLL_peptide_rep2] frame0: rmsd=11.623 dmin=2.596 ncontact=23
+  [LxxLL_peptide_rep2] 2000 frames, 31s
+  [LxxLL_peptide_rep2] 4000 frames, 53s
+  [LxxLL_peptide_rep2] 6000 frames, 75s
+  [LxxLL_peptide_rep2] 8000 frames, 97s
+[LxxLL_peptide_rep2] production frames = 9941
+[LxxLL_peptide_rep2] DONE

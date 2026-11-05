@@ -1,0 +1,31 @@
+{
+  "source": "results/36_screen_full.csv (batch 2)",
+  "lxxll_replicas": [
+    0.214785,
+    0.57043,
+    0.688312
+  ],
+  "dmso_replicas": [
+    0.003996,
+    0.000999,
+    0.004995
+  ],
+  "floor_point": 0.214785,
+  "ceiling_point": 0.004995,
+  "bootstrap": {
+    "n_resamples": 100000,
+    "seed": 42,
+    "floor_ci95": [
+      0.214785,
+      0.688312
+    ],
+    "ceiling_ci95": [
+      0.000999,
+      0.004995
+    ],
+    "p_floor_equals_lowest_replica": 0.7025,
+    "p_floor_at_or_above_0.5": 0.2975
+  },
+  "interpretation": "With n = 3 the floor is the minimum of three draws; the bootstrap distribution is discrete and wide. The 95% CI spans up to the second-lowest replica, and there is a non-trivial probability that a re-drawn control trio would set the floor at or above 0.5 \u2014 i.e. candidate-vs-floor comparisons near the boundary are not stable, and per-replica differences within a ligand are not ranking evidence.",
+  "generated": "2026-11-05T02:23:04"
+}

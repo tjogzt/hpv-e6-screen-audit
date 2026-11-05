@@ -1,0 +1,1 @@
+{"ligand": "CHEMBL320775_pose1", "replica": 1, "dir": "/root/autodl-tmp/HPV_structure/candidates_run/CHEMBL320775_pose1/rep1", "ok": true, "n_frames": 1001, "kept_frames": 303, "delta_H_PB_kcal_mol": -8.6675, "dG_gas": -32.686, "dG_solv": 24.0185}

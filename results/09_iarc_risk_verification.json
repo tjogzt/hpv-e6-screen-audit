@@ -1,0 +1,81 @@
+{
+  "generated": "2026-10-26T02:41:07",
+  "n_types": 45,
+  "n_consistent": 15,
+  "n_flagged": 3,
+  "n_unverified": 27,
+  "flagged_types": [
+    {
+      "hpv_type": 68,
+      "n_sequences": 10,
+      "dataset_risk_level": "high_risk",
+      "iarc_group": "2A",
+      "consistency": "flag_label_too_strong",
+      "note": "secondary sources conflict: Nanjing 2025 (PMC12512415) lists 68 as 2B; PMC12113743 claims 68 reclassified Group 1; official IARC SC report = 2A",
+      "source": "IARC Monographs vol.100B via IARC Scientific Council report (events.iarc.who.int/event/74/attachments/189/1294/GC66_5_SC_Report.pdf)"
+    },
+    {
+      "hpv_type": 73,
+      "n_sequences": 4,
+      "dataset_risk_level": "high_risk",
+      "iarc_group": "2B",
+      "consistency": "flag_label_too_strong",
+      "note": "",
+      "source": "IARC Monographs vol.100B via IARC Scientific Council report (events.iarc.who.int/event/74/attachments/189/1294/GC66_5_SC_Report.pdf)"
+    },
+    {
+      "hpv_type": 82,
+      "n_sequences": 5,
+      "dataset_risk_level": "high_risk",
+      "iarc_group": "2B",
+      "consistency": "flag_label_too_strong",
+      "note": "",
+      "source": "IARC Monographs vol.100B via IARC Scientific Council report (events.iarc.who.int/event/74/attachments/189/1294/GC66_5_SC_Report.pdf)"
+    }
+  ],
+  "unverified_types": [
+    1,
+    2,
+    10,
+    12,
+    13,
+    14,
+    15,
+    17,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    40,
+    42,
+    43,
+    44,
+    54,
+    61,
+    72,
+    81
+  ],
+  "iarc_group1_in_dataset": [
+    16,
+    18,
+    31,
+    33,
+    35,
+    39,
+    45,
+    51,
+    52,
+    56,
+    58,
+    59
+  ],
+  "source": "IARC Monographs vol.100B via IARC Scientific Council report (events.iarc.who.int/event/74/attachments/189/1294/GC66_5_SC_Report.pdf)",
+  "caveat": "'consistent' means the dataset label agrees with IARC Group 1 vs non-Group-1 as a binary high/low split; Group 2A/2B types in either dataset class are flagged. consistency_unofficial types have no IARC evaluation and keep the dataset label only as a working label."
+}

@@ -1,0 +1,23 @@
+{
+  "generated": "2026-10-26T12:25:55",
+  "n_clusters": 10,
+  "clusters_pure_single_official_group": 7,
+  "cluster_mapping": {
+    "1": "Alphapapillomavirus 7(5)",
+    "2": "Alphapapillomavirus 11(1)|Alphapapillomavirus 5(2)|Alphapapillomavirus 6(2)|Alphapapillomavirus 9(6)",
+    "3": "Alphapapillomavirus 1(1)|Alphapapillomavirus 10(4)|Alphapapillomavirus 8(2)",
+    "4": "Alphapapillomavirus 13(1)",
+    "5": "Alphapapillomavirus 3(3)",
+    "6": "Alphapapillomavirus 4(2)",
+    "7": "Alphapapillomavirus 2(3)",
+    "8": "Betapapillomavirus 1(7)",
+    "9": "Betapapillomavirus 1(1)|Betapapillomavirus 2(4)",
+    "10": "Mupapillomavirus 1(1)"
+  },
+  "note": "Cluster 2 is a mixture of Alpha-9/6/5/11 — exactly the high-risk superclade defined by Burk et al. 2013. Cluster 9 contains HPV24 (Betapapillomavirus 1) among four Betapapillomavirus-2 types.",
+  "references": [
+    "de Villiers 2004 Virology 324:17-27",
+    "ICTV MSL (Betapapillomavirus reorganisation)",
+    "Burk 2013 Virology 445:232-240"
+  ]
+}

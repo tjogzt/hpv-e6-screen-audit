@@ -1,0 +1,15 @@
+ligand,n_atoms_pose1_pdb,n_atoms_model1,d_model1_A,d_selected_model_A,d_pose1_pdb_A,selected_model,pose_replaced,audit_csv_dist_A
+CHEMBL1090_pose1,19,19,3.03,3.03,3.03,1,False,2.61
+CHEMBL1129_pose1,20,20,3.12,3.12,3.12,1,False,2.18
+CHEMBL118218_pose1,18,18,3.29,3.29,3.29,1,False,2.9
+CHEMBL119_pose1,27,27,9.16,3.33,9.16,2,True,2.82
+CHEMBL184_pose1,16,16,2.86,2.86,2.86,1,False,1.9
+CHEMBL235668_pose1,16,16,3.13,3.13,3.13,1,False,2.27
+CHEMBL283639_pose1,25,25,3.45,3.45,3.45,1,False,3.45
+CHEMBL29609_pose1,27,27,3.07,3.07,3.07,1,False,3.07
+CHEMBL320775_pose1,20,20,3.01,3.01,3.01,1,False,2.19
+CHEMBL3701238_pose1,31,31,3.37,3.37,3.37,1,False,3.37
+CHEMBL4650485_pose1,34,34,3.44,3.44,3.44,1,False,3.44
+CHEMBL46917_pose1,15,15,3.38,3.38,3.38,1,False,3.38
+CHEMBL717_pose1,28,28,10.05,3.36,10.05,2,True,3.36
+CHEMBL848_pose1,19,19,9.47,3.12,9.47,2,True,2.72

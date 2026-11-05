@@ -1,0 +1,7 @@
+script,timestamp,action,outcome
+08_clade_signature_descriptive.py,2026-11-04T11:05:45,R4+R5: KW at two units (seq n=524 / type n=45) + grouped-vs-ungrouped one-vs-rest AUC; Fig3B rebuilt,"0 errors; grouped AUC 0.484-1.000, type-level 10/12 FDR-sig"
+46_k_robustness.py,2026-11-04T11:05:45,"R6: k in {4,6,8,10,12} sweep - KW/eps2/purity/LOCO evaluability","LOCO {4:0,6:0,8:0,10:1,12:1} matches script 04 exactly"
+47_selection_free_zinc_scan.py,2026-11-04T11:05:45,R2/DA-C1: selection-free dual-zinc scan of all 878 records,"27 anchor failures reproduced; 9 record-level counterexamples (6 X-run, 3 clean)"
+48_revision_numbers.py,2026-11-04T11:05:45,Aggregate all revision numbers from CSVs into 48_revision_numbers.json/.md,OK
+49_candidate_provenance.py,2026-11-05T02:29:40,R1 provenance reconstruction from primary artifacts,"14-row table + library record; selection = first-14-in-file-order confirmed by docking_progress.json"
+50_tier_floor_bootstrap.py,2026-11-05T02:29:40,S4 tier threshold bootstrap,"floor CI95 [0.215,0.688]; P(floor>=0.5)=0.2975; ceiling CI95 [0.001,0.005]"

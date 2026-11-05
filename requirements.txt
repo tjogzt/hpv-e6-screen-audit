@@ -1,0 +1,15 @@
+# Local analysis environment (macOS arm64; /opt/anaconda3/bin/python3.12)
+# Versions recorded 2026-11-04 — see SOFTWARE_VERSIONS.md for full context.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.13.1
+scikit-learn==1.6.1
+rdkit==2026.03.3
+requests  # version not recorded; used only for the ChEMBL web API fetch
+
+# Remote MD environment (NOT pip-installable — see SOFTWARE_VERSIONS.md):
+#   GROMACS 2025.4 + GaMD v2.1 fork (built by code/40_gamd_build.py)
+#   AmberTools conda stack: python 3.10 + ambertools + openbabel + parmed + mdtraj
+#   AutoDock Vina (version not recorded)
+
+# Figures (R 4.5.0): ggplot2, patchwork (versions not recorded)

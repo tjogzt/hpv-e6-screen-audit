@@ -1,0 +1,117 @@
+{
+  "unit_of_analysis": "HPV type (consensus residue per position); n_types=45",
+  "n_sequences_anchored": 497,
+  "n_sequences_failed": 27,
+  "failure_source": {
+    "TrEMBL": 27
+  },
+  "background_window": [
+    30,
+    150
+  ],
+  "test": "Mann-Whitney U with permutation p (9999 perms, seed=42); BH-FDR",
+  "groups": {
+    "zn_coordination": {
+      "n_positions": 8,
+      "n_invariant_excluded": 8,
+      "all_invariant": true
+    },
+    "e6ap_lxxll_interface": {
+      "n_positions": 18,
+      "n_invariant_excluded": 1,
+      "all_invariant": false,
+      "mean_coherence": 0.3815,
+      "median_coherence": 0.38,
+      "U": 821.5,
+      "p_raw": 0.1692,
+      "rank_biserial": 0.217,
+      "q_bh": 0.1794,
+      "significant_fdr05": false,
+      "z_obs": 1.425,
+      "post_hoc_power": 0.297,
+      "min_detectable_rank_biserial": 0.427
+    },
+    "p53_interface": {
+      "n_positions": 15,
+      "n_invariant_excluded": 2,
+      "all_invariant": false,
+      "mean_coherence": 0.361,
+      "median_coherence": 0.3586,
+      "U": 689.0,
+      "p_raw": 0.1794,
+      "rank_biserial": 0.2249,
+      "q_bh": 0.1794,
+      "significant_fdr05": false,
+      "z_obs": 1.37,
+      "post_hoc_power": 0.278,
+      "min_detectable_rank_biserial": 0.46
+    },
+    "background": {
+      "n_positions": 75,
+      "mean_coherence": 0.3073,
+      "median_coherence": 0.2958
+    }
+  },
+  "zn_conservation": {
+    "n_positions": 8,
+    "n_positions_fully_cys": 8,
+    "detail": {
+      "37": {
+        "composition": {
+          "C": 45
+        },
+        "n_types": 45,
+        "is_cys": true
+      },
+      "40": {
+        "composition": {
+          "C": 45
+        },
+        "n_types": 45,
+        "is_cys": true
+      },
+      "70": {
+        "composition": {
+          "C": 45
+        },
+        "n_types": 45,
+        "is_cys": true
+      },
+      "73": {
+        "composition": {
+          "C": 45
+        },
+        "n_types": 45,
+        "is_cys": true
+      },
+      "110": {
+        "composition": {
+          "C": 45
+        },
+        "n_types": 45,
+        "is_cys": true
+      },
+      "113": {
+        "composition": {
+          "C": 45
+        },
+        "n_types": 45,
+        "is_cys": true
+      },
+      "143": {
+        "composition": {
+          "C": 45
+        },
+        "n_types": 45,
+        "is_cys": true
+      },
+      "146": {
+        "composition": {
+          "C": 45
+        },
+        "n_types": 45,
+        "is_cys": true
+      }
+    }
+  }
+}

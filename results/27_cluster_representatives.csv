@@ -1,0 +1,11 @@
+cluster,hpv_type,sequence_id,accession,n_records_in_dataset,query_len,template_len,aligned_len,identity_vs_template,n_cys_query,n_coord_cys_aligned,coord_cys_detail,homology_model_eligible,eligibility_note
+1,18,HPV18_UniProt_48,tr|A0A173DWG7|A0A173DWG7_HPV18,50,159,142,142,0.4859,12,7,30:C* 33:C* 63:C* 66:C* 103:C* 106:C* 136:C* 139:E,no,配位Cys缺失/错位(1/8) 
+2,16,HPV16_UniProt_1,sp|P03126|VE6_HPV16,137,158,142,142,0.9648,14,8,30:C* 33:C* 63:C* 66:C* 103:C* 106:C* 136:C* 139:C*,yes,
+3,11,HPV11_UniProt_1,sp|P04019|VE6_HPV11,8,150,142,142,0.3521,12,8,30:C* 33:C* 63:C* 66:C* 103:C* 106:C* 136:C* 139:C*,yes,
+4,54,HPV54_UniProt_2,tr|A0A7G2A5T7|A0A7G2A5T7_HPV54,11,174,142,141,0.3972,15,8,30:C* 33:C* 63:C* 66:C* 103:C* 106:C* 136:C* 139:C*,yes,
+5,61,HPV61_UniProt_1,sp|Q80948|VE6_HPV61,6,146,142,140,0.3857,13,8,30:C* 33:C* 63:C* 66:C* 103:C* 106:C* 136:C* 139:C*,yes,
+6,2,HPV2_UniProt_1,sp|P25484|VE6_HPV2A,1,153,142,142,0.4225,12,8,30:C* 33:C* 63:C* 66:C* 103:C* 106:C* 136:C* 139:C*,yes,
+7,10,HPV10_UniProt_1,sp|P36802|VE6_HPV10,1,148,142,142,0.3521,12,7,30:C* 33:C* 63:C* 66:C* 103:C* 106:C* 136:C* 139:W,no,配位Cys缺失/错位(1/8) 
+8,5,HPV5_UniProt_1,sp|P26556|VE6_HPV5B,1,157,142,142,0.2606,15,8,30:C* 33:C* 63:C* 66:C* 103:C* 106:C* 136:C* 139:C*,no,低同一性 
+9,17,HPV17_UniProt_1,sp|P36805|VE6_HPV17,3,141,142,140,0.2786,11,8,30:C* 33:C* 63:C* 66:C* 103:C* 106:C* 136:C* 139:C*,no,低同一性 
+10,1,HPV1_UniProt_1,sp|P06929|VE6_HPV1,1,140,142,139,0.2806,10,8,30:C* 33:C* 63:C* 66:C* 103:C* 106:C* 136:C* 139:C*,no,低同一性 

@@ -1,0 +1,28 @@
+ZAFF-style bonded zinc model for E6 Cys4 site (reconstructed; ZAFF archive unrecoverable)
+NOTE: ff19SB types cysteine SG as SH (not S) and CB as CT; parameters must use SH/CT.
+NOTE: This is a RECONSTRUCTION, not a verbatim copy of the published ZAFF file
+NOTE: (Peters et al., JCTC 2010, doi:10.1021/ct1002917). The original zinc_zaff.frcmod
+NOTE: was not recoverable from the compute instance. Acceptance rests on the measured
+NOTE: Zn-S distance against the crystallographic band (0.2388 nm vs 0.226-0.236 nm)
+NOTE: and the same-seed three-model comparison (see results/zn_model_selection.md),
+NOTE: not on provenance. Source of values: the circulating ZAFF parameter set;
+NOTE: bond length r0 sits at the midpoint of the template-measured range.
+MASS
+ZN 65.37
+
+BOND
+ZN-SH  206.00   2.3200
+
+ANGLE
+SH-ZN-SH    27.00   109.500
+ZN-SH-CT    50.00    96.000
+CT-SH-ZN    50.00    96.000
+
+DIHE
+SH-ZN-SH-CT    1    0.000   0.000   2.000
+CT-SH-ZN-SH    1    0.000   0.000   2.000
+
+IMPROPER
+
+NONBON
+  ZN      1.1000  0.0125

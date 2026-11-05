@@ -1,0 +1,23 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Local scratch (never archive large regenerated artefacts)
+*.xtc
+*.trr
+*.cpt
+*.tpr
+*.edr
+*.log.tmp

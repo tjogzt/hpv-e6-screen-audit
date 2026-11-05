@@ -1,0 +1,14 @@
+{
+  "root": "/Users/taozhu/my researches/HPV_structure",
+  "canonical_files": 35,
+  "controlled_files": 328,
+  "by_tier_canonical": {
+    "canonical_input": 31,
+    "debug_only": 4
+  },
+  "by_tier_controlled": {
+    "quarantine": 46,
+    "freeze": 4,
+    "pending_review": 278
+  }
+}

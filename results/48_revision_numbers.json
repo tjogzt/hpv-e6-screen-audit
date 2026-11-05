@@ -1,0 +1,186 @@
+{
+  "generated": "2026-11-04T10:33:11",
+  "R4_kw_two_levels": {
+    "n_sig_seq_fdr05": 12,
+    "n_sig_type_fdr05": 10,
+    "top_seq": {
+      "feature": "hydrophobicity",
+      "epsilon2": 0.4109470675511272,
+      "p_bh_fdr": 2.2502683442305708e-41
+    },
+    "top_type": {
+      "feature": "isoelectric_point",
+      "epsilon2": 0.8535313740779575,
+      "p_bh_fdr": 8.30198909773218e-05
+    },
+    "hydrophobicity": {
+      "epsilon2_seq": 0.4109470675511272,
+      "p_bh_fdr_seq": 2.2502683442305708e-41,
+      "epsilon2_type": 0.7702946053256613,
+      "p_bh_fdr_type": 0.0001208839767414
+    },
+    "n_features_type_not_sig": [
+      "instability_index",
+      "aromaticity"
+    ]
+  },
+  "R5_grouped_cv": {
+    "ungrouped_range_all_evaluable_clusters": [
+      0.958,
+      1.0
+    ],
+    "grouped_range": [
+      0.484,
+      1.0
+    ],
+    "n_clusters_grouped_evaluable": 8,
+    "n_single_type_clusters": 2,
+    "per_cluster": [
+      {
+        "cluster": 1,
+        "n": 80,
+        "n_types": 5,
+        "one_vs_rest_auc": 0.978,
+        "one_vs_rest_auc_grouped": 0.605,
+        "grouped_cv_splits": 5
+      },
+      {
+        "cluster": 2,
+        "n": 355,
+        "n_types": 11,
+        "one_vs_rest_auc": 0.958,
+        "one_vs_rest_auc_grouped": 0.75,
+        "grouped_cv_splits": 5
+      },
+      {
+        "cluster": 3,
+        "n": 29,
+        "n_types": 7,
+        "one_vs_rest_auc": 0.992,
+        "one_vs_rest_auc_grouped": 0.949,
+        "grouped_cv_splits": 5
+      },
+      {
+        "cluster": 4,
+        "n": 11,
+        "n_types": 1,
+        "one_vs_rest_auc": 0.999,
+        "one_vs_rest_auc_grouped": NaN,
+        "grouped_cv_splits": 0
+      },
+      {
+        "cluster": 5,
+        "n": 26,
+        "n_types": 3,
+        "one_vs_rest_auc": 0.998,
+        "one_vs_rest_auc_grouped": 0.947,
+        "grouped_cv_splits": 3
+      },
+      {
+        "cluster": 6,
+        "n": 3,
+        "n_types": 2,
+        "one_vs_rest_auc": NaN,
+        "one_vs_rest_auc_grouped": 0.991,
+        "grouped_cv_splits": 2
+      },
+      {
+        "cluster": 7,
+        "n": 3,
+        "n_types": 3,
+        "one_vs_rest_auc": NaN,
+        "one_vs_rest_auc_grouped": 0.484,
+        "grouped_cv_splits": 3
+      },
+      {
+        "cluster": 8,
+        "n": 8,
+        "n_types": 7,
+        "one_vs_rest_auc": 1.0,
+        "one_vs_rest_auc_grouped": 1.0,
+        "grouped_cv_splits": 5
+      },
+      {
+        "cluster": 9,
+        "n": 8,
+        "n_types": 5,
+        "one_vs_rest_auc": 0.988,
+        "one_vs_rest_auc_grouped": 0.909,
+        "grouped_cv_splits": 5
+      },
+      {
+        "cluster": 10,
+        "n": 1,
+        "n_types": 1,
+        "one_vs_rest_auc": NaN,
+        "one_vs_rest_auc_grouped": NaN,
+        "grouped_cv_splits": 0
+      }
+    ],
+    "note": "Grouped CV is undefined for single-type clusters (clusters 4 and 10); their ungrouped AUC of 0.999-1.000 was within-type separation, not between-cluster signal."
+  },
+  "R6_k_robustness": {
+    "k_sweep": [
+      4,
+      6,
+      8,
+      10,
+      12
+    ],
+    "type_level_sig_range": [
+      9,
+      10
+    ],
+    "type_level_top_feature_all_k": [
+      "isoelectric_point"
+    ],
+    "purity_at_k10": 0.8,
+    "purity_range": [
+      0.4222,
+      0.8667
+    ],
+    "loco_evaluable_folds_per_k": {
+      "4": 0,
+      "6": 0,
+      "8": 0,
+      "10": 1,
+      "12": 1
+    }
+  },
+  "R2_selection_free_scan": {
+    "n_records_scanned": 878,
+    "retained": {
+      "n": 524,
+      "n_two_sites": 497,
+      "n_one_or_zero_sites": 27,
+      "n_full_length": 480,
+      "n_full_length_without_two_sites": 9
+    },
+    "n_counterexamples": 9,
+    "counterexample_census": {
+      "by_nature": {
+        "unknown_residue_artifact": 6,
+        "single_cysteine_deviation": 3
+      },
+      "n_with_x_runs": 7,
+      "n_x_near_a_cysteine": 6,
+      "n_c_terminal_truncated": 1,
+      "interpretation": "Counterexamples are record-level, not type-level: every type retains at least one sequence with two complete sites, and all 45 type consensus sequences carry cysteine at the eight coordinating positions. Most record-level exceptions coincide with unknown-residue (X) runs or C-terminal truncation and are therefore annotation gaps rather than observed substitutions; the remaining clean single-cysteine deviations are reported explicitly and bound the claim to the type-consensus level."
+    },
+    "counterexample_ids": [
+      "HPV31_UniProt_13",
+      "HPV33_UniProt_17",
+      "HPV35_UniProt_17",
+      "HPV35_UniProt_33",
+      "HPV35_UniProt_34",
+      "HPV35_UniProt_35",
+      "HPV58_UniProt_31",
+      "HPV81_UniProt_10",
+      "HPV30_UniProt_6"
+    ],
+    "anchor_failures_reproduced": 27,
+    "types_with_two_site_sequence": 45,
+    "n_types": 45,
+    "verdict": "Type-consensus level held (45/45 types carry a record with two complete CXXC-CXXC units); record level does not (9/524 retained records lack one). Title and §3.7b must use the consensus-level statement, not 'absolutely conserved'."
+  }
+}

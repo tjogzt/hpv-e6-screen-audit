@@ -1,0 +1,14 @@
+{
+  "generated": "2026-10-26T00:20:11",
+  "n_findings": 13,
+  "by_severity": {
+    "OK": 12,
+    "P1": 1
+  },
+  "by_item": {
+    "random/demo fallback": 9,
+    "sensitive file": 2,
+    "automated tests": 1,
+    "python dependency pinning": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Auditing a single-structure virtual screen of the HPV16 E6 zinc-finger pocket: a negative verdict, control-calibrated reporting, and the lineage confound in E6 sequence analysis",
+  "description": "<p>Code, data and results archive for an audited negative docking-to-MD virtual screen of 14 ChEMBL candidates against the HPV16 E6 E6AP-interface pocket (PDB 4GIZ-derived receptor, bonded ZAFF/CYM zinc model, DMSO and E6AP LxxLL controls, 3 x 20 ns replicas per complex, MM-PBSA re-scoring, exploratory GaMD check), plus a lineage-confound analysis of 878 HPV E6 sequence records (45 types, type-level statistics, type-grouped cross-validation, selection-free dual-zinc conservation scan).</p><p>The archive includes the full analysis pipeline (50+ numbered scripts), every results table and figure, the receptor/zinc structural templates with a machine-readable reconstructed ZAFF parameter file, the ChEMBL library and candidate provenance tables, the Vina pose sets for both receptors (4GIZ used, 4XR8 excluded and documented), and per-run GaMD analysis outputs. Raw trajectories were lost with the compute instance and are documented as such; everything needed to rebuild the systems and re-run is archived.</p>",
+  "creators": [
+    {
+      "name": "[to be completed by the authors]",
+      "affiliation": "[to be completed]"
+    }
+  ],
+  "keywords": [
+    "HPV16 E6",
+    "virtual screening",
+    "molecular docking",
+    "molecular dynamics",
+    "Gaussian accelerated molecular dynamics",
+    "MM-PBSA",
+    "zinc finger",
+    "ZAFF",
+    "E6AP",
+    "p53",
+    "audit",
+    "negative result",
+    "lineage confound",
+    "sequence conservation"
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  },
+  "upload_type": "software",
+  "language": "eng",
+  "access_right": "open",
+  "notes": "Code (code/, docking/) is MIT-licensed; data, results, manuscript and templates are CC BY 4.0. This .zenodo.json is synchronized with the GitHub release v1.0.0; authors and DOI are completed at archiving time."
+}

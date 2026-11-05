@@ -1,0 +1,14 @@
+item,target,finding,severity
+random/demo fallback,api/routes/dataProcessing.ts,"Math.random=23, guarded by demoGuard (production throws 503)",OK
+random/demo fallback,api/routes/pathogenicity.ts,"Math.random=4, guarded by demoGuard (production throws 503)",OK
+random/demo fallback,api/routes/visualization.ts,"Math.random=37, guarded by demoGuard (production throws 503)",OK
+random/demo fallback,api/utils/demoGuard.ts,"Math.random=1, guarded by demoGuard (production throws 503)",OK
+random/demo fallback,api/utils/mlModels.ts,"Math.random=21, guarded by demoGuard (production throws 503)",OK
+random/demo fallback,api/utils/molecularDocking.ts,"Math.random=18, guarded by demoGuard (production throws 503)",OK
+random/demo fallback,api/utils/networkAnalysis.ts,"Math.random=11, guarded by demoGuard (production throws 503)",OK
+random/demo fallback,api/utils/realDrugData.ts,"Math.random=3, guarded by demoGuard (production throws 503)",OK
+random/demo fallback,api/utils/realMLModels.ts,"Math.random=1, ID-only randomness, no data fabrication",OK
+sensitive file,.env.production,mode=0o600,OK
+sensitive file,.workbuddy/id_ed25519,mode=0o600,OK
+automated tests,repository root,2 test file(s) found,P1
+python dependency pinning,requirements-lock.txt,20 packages pinned in lock file (requirements.txt keeps ranges),OK
