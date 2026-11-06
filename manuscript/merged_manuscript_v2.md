@@ -1,5 +1,13 @@
 # Auditing a single-structure virtual screen of the HPV16 E6 zinc-finger pocket: a negative verdict, control-calibrated reporting, and the lineage confound in E6 sequence analysis
 
+Qian Sun^1,2^, Qingqing Mo^1,2^, Pingbo Chen^1,2^, Cheng Xu^1,2^, Ya Wang^1,2^, Ting Hu^1,2^, Tao Zhu^1,2,\*^
+
+^1^ Department of Obstetrics and Gynecology, National Clinical Research Center for Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China
+
+^2^ Key Laboratory of Cancer Invasion and Metastasis (Ministry of Education), Hubei Key Laboratory of Tumor Invasion and Metastasis, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China
+
+\* Corresponding author: Tao Zhu (zhutao@tjh.tjmu.edu.cn); ORCID 0009-0001-0779-2245. First author: Qian Sun (ORCID 0000-0002-9313-8986).
+
 **Table 1 — Defect ledger.** Every defect found in the archived pipeline is listed, including those not yet fixed; the audit chain that produced this table is described in §2 and §3.
 
 | # | Defect | Detected by | Consequence | Status |
@@ -386,7 +394,7 @@ Each item below was learned as a defect or near-miss in this campaign; we offer 
 
 ## 6. Data and code availability
 
-All artefacts listed below are consolidated, with SHA-256 checksums, licensing and provenance documentation, in the public archive `hpv-e6-screen-audit` (GitHub; archived on Zenodo with DOI: [to be assigned at publication]). Paths below refer to that archive unless prefixed `rebuild_20261025/` (the working layout during revision).
+All artefacts listed below are consolidated, with SHA-256 checksums, licensing and provenance documentation, in the public archive `hpv-e6-screen-audit` (GitHub: https://github.com/tjogzt/hpv-e6-screen-audit; archived on Zenodo, DOI 10.5281/zenodo.24013576). Paths below refer to that archive unless prefixed `rebuild_20261025/` (the working layout during revision).
 
 - **Raw dataset:** `results/10_扩展真实HPV_E6数据集.csv` (878 records). Not modified; every exclusion decision is recorded per row in `results/02_ml_taxonomy_audit.csv`.
 - **Part A** (audit, clustering, statistics, figures): `rebuild_20261025/code/02_clean_ml_taxonomy.py`, `04_similarity_cluster_holdout.py`, `08_clade_signature_descriptive.py`, `09_verify_iarc_risk_classification.py`, `10_map_clusters_to_official_taxonomy.py`; outputs `results/02_ml_taxonomy_audit.csv`, `04_type_clusters.csv`, `08_cluster_*.csv`, `08_feature_kruskal.csv`, `09_iarc_risk_verification.csv`, `10_cluster_taxonomy_map.csv`; figures `results/Fig3A_clade_signature_heatmap.pdf`, `Fig3B_cluster_discriminability.pdf`.
@@ -400,9 +408,9 @@ All artefacts listed below are consolidated, with SHA-256 checksums, licensing a
 
 ## 7. Author contributions / declarations
 
-- **Author contributions:** [TO COMPLETE — CRediT roles]
-- **Competing interests:** [TO COMPLETE]
-- **Funding:** [TO COMPLETE]
+- **Author contributions (CRediT):** **Qian Sun**: conceptualization, methodology, software, formal analysis, investigation, data curation, visualization, writing — original draft. **Tao Zhu**: conceptualization, supervision, funding acquisition, project administration, writing — review & editing. **Qingqing Mo, Pingbo Chen, Cheng Xu, Ya Wang, Ting Hu**: investigation, data curation, writing — review & editing.
+- **Competing interests:** The authors declare no competing interests.
+- **Funding:** This work was supported by the National Natural Science Foundation of China (grant 82403759 to Cheng Xu; grant 82403616 to Ya Wang).
 - **Acknowledgements:** [TO COMPLETE]
 
 ## 8. References

@@ -60,8 +60,15 @@ system can be rebuilt from `templates/` with the archived tleap input.
 
 ## Citation
 
-[DOI will appear here after Zenodo archiving of the v1.0.0 release.]
+Sun Q, Mo Q, Chen P, Xu C, Wang Y, Hu T, Zhu T. Auditing a single-structure
+virtual screen of the HPV16 E6 zinc-finger pocket: a negative verdict,
+control-calibrated reporting, and the lineage confound in E6 sequence
+analysis (audit archive, v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24013576
+
+Mirrored on GitHub: https://github.com/tjogzt/hpv-e6-screen-audit
 
 ## Contact
 
-Correspondence: [to be completed by the authors]
+Correspondence: Tao Zhu (zhutao@tjh.tjmu.edu.cn), Department of Obstetrics
+and Gynecology, Tongji Hospital, Tongji Medical College, Huazhong University
+of Science and Technology, Wuhan, China.
