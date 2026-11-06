@@ -21,3 +21,6 @@ __pycache__/
 *.tpr
 *.edr
 *.log.tmp
+
+# never commit archive zips or git internals into the manifest
+*.zip
